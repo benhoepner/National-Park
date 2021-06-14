@@ -11,3 +11,6 @@ proof
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Ignore the venv directory
+venv/
