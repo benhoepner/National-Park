@@ -1,5 +1,5 @@
 sources:
-    - MyFont.glyphs
-familyName: My Font
+    - NP_proportional.glyphs
+familyName: NP_proportional
 outputDir: "../fonts"
 
