@@ -10738,6 +10738,25 @@ width = 464;
 );
 },
 {
+glyphname = germandbls;
+lastChange = "2021-06-15 16:08:42 +0000";
+layers = (
+{
+layerId = "6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C";
+width = 600;
+},
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+}
+);
+unicode = 223;
+},
+{
 glyphname = t;
 lastChange = "2021-06-02 14:36:22 +0000";
 layers = (
