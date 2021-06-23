@@ -1,5 +1,6 @@
 {
 .appVersion = "3058";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "HAMBEROQSK
@@ -20,7 +21,7 @@ abcdefgḣijklmnopqrsßtuvwxyz
 ".,:;!?#-–—(){}[]@&|+=><~%58*",
 "Hello” ‘Guys’",
 "ecfg/g.001 qdt",
-"\"",
+Handgloves,
 "",
 "’",
 "",
@@ -74,7 +75,7 @@ tag = ss01;
 fontMaster = (
 {
 axesValues = (
-300
+45
 );
 customParameters = (
 {
@@ -162,7 +163,7 @@ visible = 1;
 },
 {
 axesValues = (
-500
+80
 );
 customParameters = (
 {
@@ -240,7 +241,7 @@ visible = 1;
 },
 {
 axesValues = (
-800
+130
 );
 customParameters = (
 {
@@ -16911,7 +16912,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/Photos/2.8.png";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/Photos/2.8.png";
 locked = 1;
 pos = (-808,-99);
 scale = (1.3042,1.3042);
@@ -17018,7 +17019,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/Photos/2.8.png";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/Photos/2.8.png";
 locked = 1;
 pos = (-796,-99);
 scale = (1.3042,1.3042);
@@ -17125,7 +17126,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/Photos/2.8.png";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/Photos/2.8.png";
 locked = 1;
 pos = (-816,-99);
 scale = (1.3042,1.3042);
@@ -17306,7 +17307,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/RockyMountain_rubbings/0.5.jpeg";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/RockyMountain_rubbings/0.5.jpeg";
 locked = 1;
 pos = (-983,-150);
 scale = (7.7792,7.7792);
@@ -17405,7 +17406,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/RockyMountain_rubbings/0.5.jpeg";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/RockyMountain_rubbings/0.5.jpeg";
 locked = 1;
 pos = (-964,-150);
 scale = (7.7792,7.7792);
@@ -17504,7 +17505,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/RockyMountain_rubbings/0.5.jpeg";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/RockyMountain_rubbings/0.5.jpeg";
 locked = 1;
 pos = (-1002,-150);
 scale = (7.7792,7.7792);
@@ -17657,7 +17658,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/Photos/2.8.png";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/Photos/2.8.png";
 locked = 1;
 pos = (-808,-99);
 scale = (1.3042,1.3042);
@@ -17764,7 +17765,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/Photos/2.8.png";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/Photos/2.8.png";
 locked = 1;
 pos = (-796,-99);
 scale = (1.3042,1.3042);
@@ -17871,7 +17872,7 @@ nodes = (
 );
 };
 backgroundImage = {
-imagePath = "../../../National Park NOT GITHUB/Photos/2.8.png";
+imagePath = "/Users/benhoepner/Documents/Work/Google-Fonts/National-Park/National Park NOT GITHUB/Photos/2.8.png";
 locked = 1;
 pos = (-816,-99);
 scale = (1.3042,1.3042);
@@ -21275,84 +21276,159 @@ axesValues = (
 300
 );
 instanceInterpolations = {
-"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1;
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = -1;
+m004 = 3.7;
+m01 = -1.7;
 };
 name = Variable;
 type = variable;
 },
 {
 axesValues = (
-200
+28
 );
 instanceInterpolations = {
 "6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1.2;
 m004 = -0.2;
 };
-name = Light;
-weightClass = 200;
+name = Thin;
+visible = 0;
+weightClass = 100;
 },
 {
 axesValues = (
-300
+45
 );
 instanceInterpolations = {
 "6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1;
 };
 name = Light;
+visible = 0;
 weightClass = 300;
 },
 {
 axesValues = (
-400
+63
 );
 instanceInterpolations = {
-"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 0.5;
-m01 = 0.5;
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 0.48571;
+m01 = 0.51429;
 };
 name = Regular;
+visible = 0;
 },
 {
 axesValues = (
-500
+80
 );
 instanceInterpolations = {
 m01 = 1;
 };
 name = Medium;
+visible = 0;
 weightClass = 500;
 },
 {
 axesValues = (
-600
+96
 );
 instanceInterpolations = {
-m004 = 0.33333;
-m01 = 0.66667;
+m004 = 0.32;
+m01 = 0.68;
 };
 name = SemiBold;
+visible = 0;
 weightClass = 600;
 },
 {
 axesValues = (
-700
+112
 );
 instanceInterpolations = {
-m004 = 0.66667;
-m01 = 0.33333;
+m004 = 0.64;
+m01 = 0.36;
 };
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
+visible = 0;
 weightClass = 700;
 },
 {
 axesValues = (
-800
+130
 );
 instanceInterpolations = {
 m004 = 1;
 };
 name = ExtraBold;
+visible = 0;
+weightClass = 800;
+},
+{
+axesValues = (
+45
+);
+instanceInterpolations = {
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1;
+};
+name = "2Light";
+weightClass = 300;
+},
+{
+axesValues = (
+63
+);
+instanceInterpolations = {
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 0.48571;
+m01 = 0.51429;
+};
+name = "2Regular";
+},
+{
+axesValues = (
+80
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "2Medium";
+weightClass = 500;
+},
+{
+axesValues = (
+96
+);
+instanceInterpolations = {
+m004 = 0.32;
+m01 = 0.68;
+};
+name = "2SemiBold";
+weightClass = 600;
+},
+{
+axesValues = (
+112
+);
+instanceInterpolations = {
+m004 = 0.64;
+m01 = 0.36;
+};
+isBold = 1;
+linkStyle = "2Regular";
+name = "2Bold";
+weightClass = 700;
+},
+{
+axesValues = (
+160
+);
+instanceInterpolations = {
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = -0.17647;
+m004 = 1.47647;
+m01 = -0.3;
+};
+name = 2ExtraBold;
 weightClass = 800;
 }
 );

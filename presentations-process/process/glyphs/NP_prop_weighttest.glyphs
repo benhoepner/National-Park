@@ -20,7 +20,7 @@ abcdefgḣijklmnopqrsßtuvwxyz
 ".,:;!?#-–—(){}[]@&|+=><~%58*",
 "Hello” ‘Guys’",
 "ecfg/g.001 qdt",
-"\"",
+Handgloves,
 "",
 "’",
 "",
@@ -74,7 +74,7 @@ tag = ss01;
 fontMaster = (
 {
 axesValues = (
-300
+45
 );
 customParameters = (
 {
@@ -162,7 +162,7 @@ visible = 1;
 },
 {
 axesValues = (
-500
+80
 );
 customParameters = (
 {
@@ -240,7 +240,7 @@ visible = 1;
 },
 {
 axesValues = (
-800
+130
 );
 customParameters = (
 {
@@ -21275,25 +21275,27 @@ axesValues = (
 300
 );
 instanceInterpolations = {
-"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1;
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = -1;
+m004 = 3.7;
+m01 = -1.7;
 };
 name = Variable;
 type = variable;
 },
 {
 axesValues = (
-200
+28
 );
 instanceInterpolations = {
 "6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1.2;
 m004 = -0.2;
 };
-name = Light;
-weightClass = 200;
+name = Thin;
+weightClass = 100;
 },
 {
 axesValues = (
-300
+45
 );
 instanceInterpolations = {
 "6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1;
@@ -21303,17 +21305,17 @@ weightClass = 300;
 },
 {
 axesValues = (
-400
+63
 );
 instanceInterpolations = {
-"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 0.5;
-m01 = 0.5;
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 0.48571;
+m01 = 0.51429;
 };
 name = Regular;
 },
 {
 axesValues = (
-500
+80
 );
 instanceInterpolations = {
 m01 = 1;
@@ -21323,22 +21325,22 @@ weightClass = 500;
 },
 {
 axesValues = (
-600
+96
 );
 instanceInterpolations = {
-m004 = 0.33333;
-m01 = 0.66667;
+m004 = 0.32;
+m01 = 0.68;
 };
 name = SemiBold;
 weightClass = 600;
 },
 {
 axesValues = (
-700
+112
 );
 instanceInterpolations = {
-m004 = 0.66667;
-m01 = 0.33333;
+m004 = 0.64;
+m01 = 0.36;
 };
 isBold = 1;
 linkStyle = Regular;
@@ -21347,12 +21349,78 @@ weightClass = 700;
 },
 {
 axesValues = (
-800
+130
 );
 instanceInterpolations = {
 m004 = 1;
 };
 name = ExtraBold;
+weightClass = 800;
+},
+{
+axesValues = (
+45
+);
+instanceInterpolations = {
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1;
+};
+name = "2Light";
+weightClass = 300;
+},
+{
+axesValues = (
+63
+);
+instanceInterpolations = {
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 0.48571;
+m01 = 0.51429;
+};
+name = "2Regular";
+},
+{
+axesValues = (
+80
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "2Medium";
+weightClass = 500;
+},
+{
+axesValues = (
+96
+);
+instanceInterpolations = {
+m004 = 0.32;
+m01 = 0.68;
+};
+name = "2SemiBold";
+weightClass = 600;
+},
+{
+axesValues = (
+112
+);
+instanceInterpolations = {
+m004 = 0.64;
+m01 = 0.36;
+};
+isBold = 1;
+linkStyle = "2Regular";
+name = "2Bold";
+weightClass = 700;
+},
+{
+axesValues = (
+160
+);
+instanceInterpolations = {
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = -0.17647;
+m004 = 1.47647;
+m01 = -0.3;
+};
+name = 2ExtraBold;
 weightClass = 800;
 }
 );
