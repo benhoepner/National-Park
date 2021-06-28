@@ -2,7 +2,7 @@
 .appVersion = "3091";
 .formatVersion = 3;
 DisplayStrings = (
-"0123456789"
+i
 );
 axes = (
 {
@@ -575,14 +575,54 @@ unicode = 104;
 },
 {
 glyphname = i;
-lastChange = "2021-06-28 17:51:11 +0000";
+lastChange = "2021-06-28 17:55:55 +0000";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(266,0,l),
+(310,0,l),
+(310,505,l),
+(266,505,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(243,562,l),
+(329,562,l),
+(329,625,l),
+(243,625,l)
+);
+}
+);
 width = 600;
 },
 {
 layerId = "4CA0D38F-2757-4EFD-A4B6-5D4DED37EAD3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,0,l),
+(432,0,l),
+(432,505,l),
+(164,505,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(225,562,l),
+(548,562,l),
+(548,625,l),
+(225,625,l)
+);
+}
+);
 width = 600;
 }
 );
@@ -1056,5 +1096,5 @@ type = "x-height";
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
