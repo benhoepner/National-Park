@@ -16,7 +16,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2021-06-28 17:23:59 +0000";
+date = "2021-06-28 17:26:27 +0000";
 familyName = "National Park";
 fontMaster = (
 {
@@ -1405,7 +1405,7 @@ unicode = 8230;
 },
 {
 glyphname = exclam;
-lastChange = "2021-06-28 17:23:50 +0000";
+lastChange = "2021-06-28 17:26:16 +0000";
 layers = (
 {
 layerId = m01;
@@ -1511,15 +1511,15 @@ nodes = (
 closed = 1;
 nodes = (
 (367,140,o),
-(403,284,o),
-(403,461,cs),
-(403,638,o),
-(367,782,o),
+(570,274,o),
+(570,451,cs),
+(570,628,o),
+(492,782,o),
 (322,782,cs),
-(277,782,o),
-(241,638,o),
-(241,461,cs),
-(241,284,o),
+(79,782,o),
+(50,638,o),
+(50,461,cs),
+(50,284,o),
 (277,140,o),
 (322,140,cs)
 );
@@ -2235,5 +2235,5 @@ type = "italic angle";
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
