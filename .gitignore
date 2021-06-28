@@ -11,6 +11,7 @@ proof
 .Trashes
 ehthumbs.db
 Thumbs.db
+.icloud
 
 # Ignore the venv directory
 venv/
