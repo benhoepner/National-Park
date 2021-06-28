@@ -20,12 +20,7 @@ abcdefgḣijklmnopqrsßtuvwxyz
 ".,:;!?#-–—(){}[]@&|+=><~%58*",
 "Hello” ‘Guys’",
 "ecfg/g.001 qdt",
-Handgloves,
-"",
-"’",
-"",
-c,
-"/g.001"
+Handgloves
 );
 axes = (
 {
@@ -21291,6 +21286,7 @@ instanceInterpolations = {
 m004 = -0.2;
 };
 name = Thin;
+visible = 0;
 weightClass = 100;
 },
 {
@@ -21301,6 +21297,7 @@ instanceInterpolations = {
 "6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 1;
 };
 name = Light;
+visible = 0;
 weightClass = 300;
 },
 {
@@ -21312,6 +21309,7 @@ instanceInterpolations = {
 m01 = 0.51429;
 };
 name = Regular;
+visible = 0;
 },
 {
 axesValues = (
@@ -21321,6 +21319,7 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = Medium;
+visible = 0;
 weightClass = 500;
 },
 {
@@ -21332,6 +21331,7 @@ m004 = 0.32;
 m01 = 0.68;
 };
 name = SemiBold;
+visible = 0;
 weightClass = 600;
 },
 {
@@ -21345,6 +21345,7 @@ m01 = 0.36;
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
+visible = 0;
 weightClass = 700;
 },
 {
@@ -21355,6 +21356,7 @@ instanceInterpolations = {
 m004 = 1;
 };
 name = ExtraBold;
+visible = 0;
 weightClass = 800;
 },
 {
