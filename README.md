@@ -1,17 +1,10 @@
 # National Park
 
-Short description of font goes here.
+The National Park typeface is designed to mimic National Park Service signage carved into wood using a router bit. 
 
-## Building
+## References
 
-To build this font, you will need to install the [`yq` utility](https://github.com/mikefarah/yq). On OS X with Homebrew, type `brew install yq`; on Linux, try `snap install yq`; if all else fails, try the instructions on the linked page.
-
-Then:
-
-* `make build` will produce font files.
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-* `make proof` will generate HTML proof files.
-
+The source materialfor this revival includes [photos and rubbings](https://github.com/benhoepner/National-Park/tree/master/references/photos-rubbings) of National Park signage as well as a [router file](https://github.com/benhoepner/National-Park/tree/master/references/router-file) supplying skeleton paths of a limited glyphset. 
 
 ## License
 
