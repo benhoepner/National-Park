@@ -1406,8 +1406,6 @@ unicode = 8230;
 {
 glyphname = exclam;
 <<<<<<< HEAD
-lastChange = "2021-06-28 17:26:16 +0000";
-=======
 lastChange = "2021-06-28 17:32:20 +0000";
 >>>>>>> afe1311def66def76f78f5bcb94efc9fd0d2a972
 layers = (
