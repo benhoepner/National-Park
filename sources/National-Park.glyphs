@@ -2,7 +2,8 @@
 .appVersion = "3091";
 .formatVersion = 3;
 DisplayStrings = (
-ABCDEFGHIJKLMNOPQRSTUVWXYZa
+ABCDEFGHIJKLMNOPQRSTUVWXYZa,
+A
 );
 axes = (
 {
@@ -15,7 +16,7 @@ familyName = "National Park";
 fontMaster = (
 {
 axesValues = (
-45
+300
 );
 customParameters = (
 {
@@ -84,7 +85,7 @@ stemValues = (
 },
 {
 axesValues = (
-80
+500
 );
 customParameters = (
 {
@@ -5840,7 +5841,7 @@ type = variable;
 },
 {
 axesValues = (
-45
+300
 );
 instanceInterpolations = {
 "7795D2EE-1079-413A-8BA0-F45DF6DE2B55" = 1;
@@ -5850,7 +5851,17 @@ weightClass = 300;
 },
 {
 axesValues = (
-80
+400
+);
+instanceInterpolations = {
+"65988B1E-DCE2-4AC3-A6FF-994A1050067D" = 0.5;
+"7795D2EE-1079-413A-8BA0-F45DF6DE2B55" = 0.5;
+};
+name = Regular;
+},
+{
+axesValues = (
+500
 );
 instanceInterpolations = {
 "65988B1E-DCE2-4AC3-A6FF-994A1050067D" = 1;
