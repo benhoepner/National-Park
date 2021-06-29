@@ -1,6 +1,9 @@
 {
 .appVersion = "3091";
 .formatVersion = 3;
+DisplayStrings = (
+""
+);
 axes = (
 {
 name = Weight;
@@ -3197,6 +3200,18 @@ width = 600;
 }
 );
 unicode = 39;
+}
+);
+instances = (
+{
+axesValues = (
+80
+);
+instanceInterpolations = {
+"65988B1E-DCE2-4AC3-A6FF-994A1050067D" = 1;
+};
+name = Medium;
+weightClass = 500;
 }
 );
 metrics = (
