@@ -1,5 +1,5 @@
 {
-.appVersion = "3058";
+.appVersion = "3091";
 .formatVersion = 3;
 DisplayStrings = (
 "HAMBEROQSK
@@ -158,7 +158,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -5770,9 +5769,8 @@ unicode = 85;
 },
 {
 glyphname = V;
-kernLeft = V;
 kernRight = V;
-lastChange = "2021-06-22 20:15:21 +0000";
+lastChange = "2021-06-29 17:36:22 +0000";
 layers = (
 {
 background = {
