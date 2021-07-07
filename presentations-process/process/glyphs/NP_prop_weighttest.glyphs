@@ -1,5 +1,5 @@
 {
-.appVersion = "3058";
+.appVersion = "3091";
 .formatVersion = 3;
 DisplayStrings = (
 "HAMBEROQSK
@@ -20,7 +20,9 @@ abcdefgḣijklmnopqrsßtuvwxyz
 ".,:;!?#-–—(){}[]@&|+=><~%58*",
 "Hello” ‘Guys’",
 "ecfg/g.001 qdt",
+"Handgloves
 Handgloves
+Handgloves"
 );
 axes = (
 {
@@ -21381,10 +21383,11 @@ name = "2Regular";
 },
 {
 axesValues = (
-80
+76
 );
 instanceInterpolations = {
-m01 = 1;
+"6E2DD877-F1E1-49A3-9E5D-7A76BAA67C2C" = 0.11429;
+m01 = 0.88571;
 };
 name = "2Medium";
 weightClass = 500;
