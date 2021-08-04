@@ -25,7 +25,11 @@ Kopech všakol v kou přírad určitud jenské by aké semíná zvotně Krávě 
 
 /gravecomb.loclVIT/acutecomb.loclVIT/circumflexcomb.loclVIT/brevecomb.loclVIT/tildecomb.loclVIT ̃   /brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_tildecomb ̛
 
-đốngTrương, trường, thương, hướng, sường, tưởng tượng."
+đốngTrương, trường, thương, hướng, sường, tưởng tượng.",
+"&, Testing commas, here are, semi;",
+"/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom ¹²³⁴⁄½¼¾
+# #",
+WX
 );
 axes = (
 {
@@ -573,7 +577,7 @@ stemValues = (
 userData = {
 GSCornerRadius = 10;
 GSOffsetCapStyle = 3;
-GSOffsetHorizontal = 5;
+GSOffsetHorizontal = -3;
 GSOffsetKeepCompatible = 1;
 GSOffsetPosition = 1;
 GSOffsetProportional = 1;
@@ -45835,7 +45839,7 @@ unicode = 8308;
 },
 {
 glyphname = fraction;
-lastChange = "2021-08-04 13:00:21 +0000";
+lastChange = "2021-08-04 18:09:28 +0000";
 layers = (
 {
 layerId = "65988B1E-DCE2-4AC3-A6FF-994A1050067D";
@@ -45843,26 +45847,26 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(362,653,ls),
-(366,659,o),
-(369,665,o),
-(369,673,cs),
-(369,693,o),
-(354,708,o),
+(360,658,l),
+(363,664,o),
+(366,669,o),
+(366,676,cs),
+(366,695,o),
+(353,708,o),
 (334,708,cs),
-(322,708,o),
-(311,702,o),
-(306,694,cs),
-(-149,44,ls),
-(-153,38,o),
-(-156,32,o),
-(-156,24,cs),
-(-156,4,o),
-(-141,-11,o),
+(323,708,o),
+(313,703,o),
+(309,695,c),
+(-147,39,l),
+(-150,33,o),
+(-153,28,o),
+(-153,21,cs),
+(-153,2,o),
+(-140,-11,o),
 (-121,-11,cs),
-(-109,-11,o),
-(-98,-5,o),
-(-93,3,cs)
+(-110,-11,o),
+(-100,-6,o),
+(-96,2,c)
 );
 }
 );
@@ -46332,8 +46336,9 @@ width = 165;
 unicode = 46;
 },
 {
+color = 0;
 glyphname = comma;
-lastChange = "2021-08-04 15:35:52 +0000";
+lastChange = "2021-08-04 18:12:45 +0000";
 layers = (
 {
 background = {
@@ -46649,8 +46654,9 @@ width = 600;
 unicode = 58;
 },
 {
+color = 0;
 glyphname = semicolon;
-lastChange = "2021-08-04 13:00:21 +0000";
+lastChange = "2021-08-04 18:12:45 +0000";
 layers = (
 {
 background = {
@@ -47889,8 +47895,9 @@ width = 600;
 unicode = 42;
 },
 {
+color = 0;
 glyphname = numbersign;
-lastChange = "2021-08-04 13:00:21 +0000";
+lastChange = "2021-08-04 18:12:31 +0000";
 layers = (
 {
 layerId = "65988B1E-DCE2-4AC3-A6FF-994A1050067D";
