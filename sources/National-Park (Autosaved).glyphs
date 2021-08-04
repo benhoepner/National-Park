@@ -1,5 +1,6 @@
 {
 .appVersion = "3091";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "aaa/a.ss01 eıou cdhnr
@@ -13742,6 +13743,7 @@ width = 628;
 }
 );
 unicode = 323;
+changeCount = 1;
 },
 {
 glyphname = Ncaron;
@@ -13788,6 +13790,7 @@ width = 628;
 }
 );
 unicode = 327;
+changeCount = 1;
 },
 {
 glyphname = Ncommaaccent;
