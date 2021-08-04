@@ -1,5 +1,6 @@
 {
 .appVersion = "3094";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "aaa/a.ss01 eıou cdhnr
@@ -22390,6 +22391,7 @@ width = 866;
 }
 );
 unicode = 7808;
+changeCount = 1;
 },
 {
 glyphname = X;
@@ -26352,6 +26354,7 @@ ref = gravecomb;
 width = 600;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = ahookabove;
@@ -41817,6 +41820,7 @@ width = 605;
 }
 );
 unicode = 7809;
+changeCount = 1;
 },
 {
 glyphname = x;
