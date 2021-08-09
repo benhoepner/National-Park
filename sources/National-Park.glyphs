@@ -19,7 +19,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A A.ss01 Aacute Aacute.loclVIT Abreve Abreve.loclVIT Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflex.loclVIT Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Agrave.loclVIT Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde Atilde.loclVIT AE AEacute B B.ss01 C C.ss01 Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E E.ss01 Eacute Eacute.loclVIT Ebreve Ecaron Ecircumflex Ecircumflex.loclVIT Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Egrave.loclVIT Ehookabove Einvertedbreve Emacron Eogonek Etilde F G G.ss01 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H H.ss01 Hbar Hcircumflex I IJ IJ.001 Iacute Iacute.loclVIT Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Igrave.loclVIT Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L L.ss01 LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M M.ss01 N N.ss01 NJ Nacute Ncaron Ncommaaccent Nj Ntilde Eng O O.ss01 Oacute Oacute.loclVIT Obreve Ocircumflex Ocircumflex.loclVIT Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ograve.loclVIT Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otilde.loclVIT Otildemacron OE P P.ss01 Thorn Q R R.ss01 Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S S.ss01 Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Germandbls.ss02 Germandbls.ss03 Germandbls.ss04 Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Uacute.loclVIT Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Ugrave.loclVIT Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W W.ss01 Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Yacute.loclVIT Ycircumflex Ydieresis Ydotbelow Ygrave Ygrave.loclVIT Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Delta Omega";
+code = "A A.ss01 Aacute Aacute.loclVIT Abreve Abreve.loclVIT Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflex.loclVIT Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Agrave.loclVIT Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde Atilde.loclVIT AE AEacute B B.ss01 C C.ss01 Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E E.ss02 Eacute Eacute.loclVIT Ebreve Ecaron Ecircumflex Ecircumflex.loclVIT Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Egrave.loclVIT Ehookabove Einvertedbreve Emacron Eogonek Etilde F G G.ss01 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H H.ss01 Hbar Hcircumflex I IJ IJ.001 Iacute Iacute.loclVIT Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Igrave.loclVIT Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L L.ss01 LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M M.ss01 N N.ss01 NJ Nacute Ncaron Ncommaaccent Nj Ntilde Eng O O.ss01 Oacute Oacute.loclVIT Obreve Ocircumflex Ocircumflex.loclVIT Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ograve.loclVIT Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otilde.loclVIT Otildemacron OE P P.ss01 Thorn Q R R.ss01 Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S S.ss01 Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Germandbls.ss02 Germandbls.ss03 Germandbls.ss04 Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Uacute.loclVIT Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Ugrave.loclVIT Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W W.ss01 Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Yacute.loclVIT Ycircumflex Ydieresis Ydotbelow Ygrave Ygrave.loclVIT Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Delta Omega";
 name = Uppercase;
 }
 );
@@ -64,13 +64,13 @@ feature frac;
 feature ordn;
 feature pnum;
 feature tnum;
+feature case;
+feature zero;
 feature ss01;
 feature ss02;
 feature ss03;
 feature ss04;
 feature ss06;
-feature case;
-feature zero;
 ";
 tag = aalt;
 },
@@ -81,8 +81,8 @@ code = "lookup ccmp_Other_1 {
 	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb];
-	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case brevebelowcomb.case macronbelowcomb.case];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_1;
@@ -306,14 +306,6 @@ sub hookabovecomb by hookabovecomb.case;
 sub dblgravecomb by dblgravecomb.case;
 sub breveinvertedcomb by breveinvertedcomb.case;
 sub commaturnedabovecomb by commaturnedabovecomb.case;
-sub horncomb by horncomb.case;
-sub dotbelowcomb by dotbelowcomb.case;
-sub dieresisbelowcomb by dieresisbelowcomb.case;
-sub commaaccentcomb by commaaccentcomb.case;
-sub cedillacomb by cedillacomb.case;
-sub ogonekcomb by ogonekcomb.case;
-sub brevebelowcomb by brevebelowcomb.case;
-sub macronbelowcomb by macronbelowcomb.case;
 ";
 tag = case;
 },
@@ -339,7 +331,6 @@ automatic = 1;
 code = "sub A by A.ss01;
 sub B by B.ss01;
 sub C by C.ss01;
-sub E by E.ss01;
 sub G by G.ss01;
 sub H by H.ss01;
 sub L by L.ss01;
@@ -386,12 +377,14 @@ tag = ss01;
 },
 {
 automatic = 1;
-code = "sub Germandbls by Germandbls.ss02;
+code = "sub E by E.ss02;
+sub Germandbls by Germandbls.ss02;
 sub a by a.ss02;
 sub f by f.ss02;
 sub j by j.ss02;
 sub jdotless by jdotless.ss02;
 sub t by t.ss02;
+sub y by y.ss02;
 ";
 labels = (
 {
