@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflex.loclVIT" format="2">
+	<advance width="628"/>
+	<outline>
+		<component base="A"/>
+		<component base="circumflexcomb.loclVIT" xOffset="121" yOffset="185"/>
+	</outline>
+</glyph>

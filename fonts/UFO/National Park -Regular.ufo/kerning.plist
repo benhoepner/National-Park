@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>f.ss02</key>
+	<dict>
+		<key>i</key>
+		<integer>-15</integer>
+		<key>l</key>
+		<integer>-15</integer>
+	</dict>
+	<key>r</key>
+	<dict>
+		<key>e</key>
+		<integer>-30</integer>
+		<key>o</key>
+		<integer>-20</integer>
+	</dict>
+	<key>underscore</key>
+	<dict>
+		<key>o</key>
+		<integer>-40</integer>
+	</dict>
+</dict>
+</plist>

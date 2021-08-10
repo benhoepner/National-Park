@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dottedCircle" format="2">
+	<advance width="989"/>
+	<unicode hex="25CC"/>
+	<outline>
+		<contour>
+			<point x="494" y="-75" type="curve" smooth="yes"/>
+			<point x="734" y="-75"/>
+			<point x="929" y="120"/>
+			<point x="929" y="360" type="curve" smooth="yes"/>
+			<point x="929" y="599"/>
+			<point x="734" y="794"/>
+			<point x="494" y="794" type="curve" smooth="yes"/>
+			<point x="255" y="794"/>
+			<point x="60" y="599"/>
+			<point x="60" y="360" type="curve" smooth="yes"/>
+			<point x="60" y="120"/>
+			<point x="255" y="-75"/>
+		</contour>
+		<contour>
+			<point x="494" y="-35" type="curve" smooth="yes"/>
+			<point x="272" y="-35"/>
+			<point x="100" y="137"/>
+			<point x="100" y="360" type="curve" smooth="yes"/>
+			<point x="100" y="582"/>
+			<point x="272" y="754"/>
+			<point x="494" y="754" type="curve" smooth="yes"/>
+			<point x="717" y="754"/>
+			<point x="889" y="582"/>
+			<point x="889" y="360" type="curve" smooth="yes"/>
+			<point x="889" y="137"/>
+			<point x="717" y="-35"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ygrave.loclVIT" format="2">
+	<advance width="596"/>
+	<outline>
+		<component base="Y"/>
+		<component base="gravecomb.loclVIT" xOffset="132" yOffset="185"/>
+	</outline>
+</glyph>

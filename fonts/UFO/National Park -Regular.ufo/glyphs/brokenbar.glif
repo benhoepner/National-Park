@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="2">
+	<advance width="156"/>
+	<unicode hex="00A6"/>
+	<outline>
+		<contour>
+			<point x="78" y="232" type="move"/>
+			<point x="78" y="-183" type="line"/>
+		</contour>
+		<contour>
+			<point x="78" y="796" type="move"/>
+			<point x="78" y="381" type="line"/>
+		</contour>
+	</outline>
+</glyph>

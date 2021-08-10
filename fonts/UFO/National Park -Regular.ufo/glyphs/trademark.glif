@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="2">
+	<advance width="1437"/>
+	<unicode hex="2122"/>
+	<guideline x="165" y="476" angle="0"/>
+	<outline>
+		<component base="T"/>
+		<component base="M" xOffset="605"/>
+	</outline>
+</glyph>

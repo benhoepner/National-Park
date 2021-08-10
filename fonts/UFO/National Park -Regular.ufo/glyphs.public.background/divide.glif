@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+	<advance width="515"/>
+	<outline>
+		<contour>
+			<point x="34" y="290" type="move"/>
+			<point x="481" y="290" type="line"/>
+		</contour>
+	</outline>
+</glyph>
