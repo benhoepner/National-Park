@@ -1,201 +1,6 @@
 {
 .appVersion = "3091";
 .formatVersion = 3;
-DisplayStrings = (
-"Ø/C.ss02",
-"
-Aligned BCPs:
-ȷŋŧπƒµ",
-"Kðßvwxxyy/y.ss02/y.ss02 zzz/a_germandbls 1/one.dnom ™¢₫₲/peseta.ss02 ∏∑∂%‰",
-"
-.
-,
-:
-;
-…
-
-
-
-
-
--
-–
-—
-@
-*
-'
-\"
-•
-|
-¦
-⟨
-⟩
-·
-#
-
-/backslash 
-­
-‐
-_
-",
-"
-.
-,
-:
-;
-…
-
-
-
-
-
--
-–
-—
-@
-*
-'
-\"
-•
-|
-¦
-⟨
-⟩
-·
-#
-
-/backslash 
-­
-‐
-_
-",
-"¿0? ¿1? ¿2? ¿3? ¿4? ¿5? ¿6? ¿7? ¿8? ¿9?
-¿/zero.lf ? ¿/zero.zero ? ¿/one.lf ? ¿/two.lf ? ¿/three.lf ? ¿/four.lf ? ¿/five.lf ? ¿/six.lf ? ¿/seven.lf ? ¿/eight.lf ?
-¿/nine.lf ? ¿/zero.lf.zero ? 
-¡0! ¡1! ¡2! ¡3! ¡4! ¡5! ¡6! ¡7! ¡8! ¡9!
-¡/zero.lf ! ¡/zero.zero ! ¡/one.lf ! ¡/two.lf ! ¡/three.lf ! ¡/four.lf ! ¡/five.lf ! ¡/six.lf ! ¡/seven.lf ! ¡/eight.lf !
-¡/nine.lf ! ¡/zero.lf.zero ! 
-.0.1.2.3.4.5.6.7.8.9.
-./zero.lf ./zero.zero ./one.lf ./two.lf ./three.lf ./four.lf ./five.lf ./six.lf ./seven.lf ./eight.lf .
-./nine.lf ./zero.lf.zero .
-,0,1,2,3,4,5,6,7,8,9,
-,/zero.lf ,/zero.zero ,/one.lf ,/two.lf ,/three.lf ,/four.lf ,/five.lf ,/six.lf ,/seven.lf ,/eight.lf ,
-,/nine.lf ,/zero.lf.zero ,
-:0:1:2:3:4:5:6:7:8:9:
-:/zero.lf :/zero.zero :/one.lf :/two.lf :/three.lf :/four.lf :/five.lf :/six.lf :/seven.lf :/eight.lf :
-:/nine.lf :/zero.lf.zero :
-;0;1;2;3;4;5;6;7;8;9;
-;/zero.lf ;/zero.zero ;/one.lf ;/two.lf ;/three.lf ;/four.lf ;/five.lf ;/six.lf ;/seven.lf ;/eight.lf ;
-;/nine.lf ;/zero.lf.zero ;
-…0…1…2…3…4…5…6…7…8…9…
-…/zero.lf …/zero.zero …/one.lf …/two.lf …/three.lf …/four.lf …/five.lf …/six.lf …/seven.lf …/eight.lf …
-…/nine.lf …/zero.lf.zero …
-(0) (1) (2) (3) (4) (5) (6) (7) (8) (9)
-(/zero.lf ) (/zero.zero ) (/one.lf ) (/two.lf ) (/three.lf ) (/four.lf ) (/five.lf ) (/six.lf ) (/seven.lf ) (/eight.lf )
-(/nine.lf ) (/zero.lf.zero ) 
-[0] [1] [2] [3] [4] [5] [6] [7] [8] [9]
-[/zero.lf ] [/zero.zero ] [/one.lf ] [/two.lf ] [/three.lf ] [/four.lf ] [/five.lf ] [/six.lf ] [/seven.lf ] [/eight.lf ]
-[/nine.lf ] [/zero.lf.zero ] 
-{0} {1} {2} {3} {4} {5} {6} {7} {8} {9}
-{/zero.lf } {/zero.zero } {/one.lf } {/two.lf } {/three.lf } {/four.lf } {/five.lf } {/six.lf } {/seven.lf } {/eight.lf }
-{/nine.lf } {/zero.lf.zero } 
-„0“ „1“ „2“ „3“ „4“ „5“ „6“ „7“ „8“ „9“
-„/zero.lf “ „/zero.zero “ „/one.lf “ „/two.lf “ „/three.lf “ „/four.lf “ „/five.lf “ „/six.lf “ „/seven.lf “ „/eight.lf “
-„/nine.lf “ „/zero.lf.zero “ 
-‚0‘ ‚1‘ ‚2‘ ‚3‘ ‚4‘ ‚5‘ ‚6‘ ‚7‘ ‚8‘ ‚9‘
-‚/zero.lf ‘ ‚/zero.zero ‘ ‚/one.lf ‘ ‚/two.lf ‘ ‚/three.lf ‘ ‚/four.lf ‘ ‚/five.lf ‘ ‚/six.lf ‘ ‚/seven.lf ‘ ‚/eight.lf ‘
-‚/nine.lf ‘ ‚/zero.lf.zero ‘ 
-“0” “1” “2” “3” “4” “5” “6” “7” “8” “9”
-“/zero.lf ” “/zero.zero ” “/one.lf ” “/two.lf ” “/three.lf ” “/four.lf ” “/five.lf ” “/six.lf ” “/seven.lf ” “/eight.lf ”
-“/nine.lf ” “/zero.lf.zero ” 
-‘0’ ‘1’ ‘2’ ‘3’ ‘4’ ‘5’ ‘6’ ‘7’ ‘8’ ‘9’
-‘/zero.lf ’ ‘/zero.zero ’ ‘/one.lf ’ ‘/two.lf ’ ‘/three.lf ’ ‘/four.lf ’ ‘/five.lf ’ ‘/six.lf ’ ‘/seven.lf ’ ‘/eight.lf ’
-‘/nine.lf ’ ‘/zero.lf.zero ’ 
-«0» «1» «2» «3» «4» «5» «6» «7» «8» «9»
-«/zero.lf » «/zero.zero » «/one.lf » «/two.lf » «/three.lf » «/four.lf » «/five.lf » «/six.lf » «/seven.lf » «/eight.lf »
-«/nine.lf » «/zero.lf.zero » 
-»0« »1« »2« »3« »4« »5« »6« »7« »8« »9«
-»/zero.lf « »/zero.zero « »/one.lf « »/two.lf « »/three.lf « »/four.lf « »/five.lf « »/six.lf « »/seven.lf « »/eight.lf «
-»/nine.lf « »/zero.lf.zero « 
-‹0› ‹1› ‹2› ‹3› ‹4› ‹5› ‹6› ‹7› ‹8› ‹9›
-‹/zero.lf › ‹/zero.zero › ‹/one.lf › ‹/two.lf › ‹/three.lf › ‹/four.lf › ‹/five.lf › ‹/six.lf › ‹/seven.lf › ‹/eight.lf ›
-‹/nine.lf › ‹/zero.lf.zero › 
-›0‹ ›1‹ ›2‹ ›3‹ ›4‹ ›5‹ ›6‹ ›7‹ ›8‹ ›9‹
-›/zero.lf ‹ ›/zero.zero ‹ ›/one.lf ‹ ›/two.lf ‹ ›/three.lf ‹ ›/four.lf ‹ ›/five.lf ‹ ›/six.lf ‹ ›/seven.lf ‹ ›/eight.lf ‹
-›/nine.lf ‹ ›/zero.lf.zero ‹ 
--0-1-2-3-4-5-6-7-8-9-
--/zero.lf -/zero.zero -/one.lf -/two.lf -/three.lf -/four.lf -/five.lf -/six.lf -/seven.lf -/eight.lf -
--/nine.lf -/zero.lf.zero -
-–0–1–2–3–4–5–6–7–8–9–
-–/zero.lf –/zero.zero –/one.lf –/two.lf –/three.lf –/four.lf –/five.lf –/six.lf –/seven.lf –/eight.lf –
-–/nine.lf –/zero.lf.zero –
-—0—1—2—3—4—5—6—7—8—9—
-—/zero.lf —/zero.zero —/one.lf —/two.lf —/three.lf —/four.lf —/five.lf —/six.lf —/seven.lf —/eight.lf —
-—/nine.lf —/zero.lf.zero —
-@0@1@2@3@4@5@6@7@8@9@
-@/zero.lf @/zero.zero @/one.lf @/two.lf @/three.lf @/four.lf @/five.lf @/six.lf @/seven.lf @/eight.lf @
-@/nine.lf @/zero.lf.zero @
-*0*1*2*3*4*5*6*7*8*9*
-*/zero.lf */zero.zero */one.lf */two.lf */three.lf */four.lf */five.lf */six.lf */seven.lf */eight.lf *
-*/nine.lf */zero.lf.zero *
-'0'1'2'3'4'5'6'7'8'9'
-'/zero.lf '/zero.zero '/one.lf '/two.lf '/three.lf '/four.lf '/five.lf '/six.lf '/seven.lf '/eight.lf '
-'/nine.lf '/zero.lf.zero '
-\"0\"1\"2\"3\"4\"5\"6\"7\"8\"9\"
-\"/zero.lf \"/zero.zero \"/one.lf \"/two.lf \"/three.lf \"/four.lf \"/five.lf \"/six.lf \"/seven.lf \"/eight.lf \"
-\"/nine.lf \"/zero.lf.zero \"
-•0•1•2•3•4•5•6•7•8•9•
-•/zero.lf •/zero.zero •/one.lf •/two.lf •/three.lf •/four.lf •/five.lf •/six.lf •/seven.lf •/eight.lf •
-•/nine.lf •/zero.lf.zero •
-|0|1|2|3|4|5|6|7|8|9|
-|/zero.lf |/zero.zero |/one.lf |/two.lf |/three.lf |/four.lf |/five.lf |/six.lf |/seven.lf |/eight.lf |
-|/nine.lf |/zero.lf.zero |
-¦0¦1¦2¦3¦4¦5¦6¦7¦8¦9¦
-¦/zero.lf ¦/zero.zero ¦/one.lf ¦/two.lf ¦/three.lf ¦/four.lf ¦/five.lf ¦/six.lf ¦/seven.lf ¦/eight.lf ¦
-¦/nine.lf ¦/zero.lf.zero ¦
-⟨0⟨1⟨2⟨3⟨4⟨5⟨6⟨7⟨8⟨9⟨
-⟨/zero.lf ⟨/zero.zero ⟨/one.lf ⟨/two.lf ⟨/three.lf ⟨/four.lf ⟨/five.lf ⟨/six.lf ⟨/seven.lf ⟨/eight.lf ⟨
-⟨/nine.lf ⟨/zero.lf.zero ⟨
-⟩0⟩1⟩2⟩3⟩4⟩5⟩6⟩7⟩8⟩9⟩
-⟩/zero.lf ⟩/zero.zero ⟩/one.lf ⟩/two.lf ⟩/three.lf ⟩/four.lf ⟩/five.lf ⟩/six.lf ⟩/seven.lf ⟩/eight.lf ⟩
-⟩/nine.lf ⟩/zero.lf.zero ⟩
-·0·1·2·3·4·5·6·7·8·9·
-·/zero.lf ·/zero.zero ·/one.lf ·/two.lf ·/three.lf ·/four.lf ·/five.lf ·/six.lf ·/seven.lf ·/eight.lf ·
-·/nine.lf ·/zero.lf.zero ·
-#0#1#2#3#4#5#6#7#8#9#
-#/zero.lf #/zero.zero #/one.lf #/two.lf #/three.lf #/four.lf #/five.lf #/six.lf #/seven.lf #/eight.lf #
-#/nine.lf #/zero.lf.zero #
-//0//1//2//3//4//5//6//7//8//9//
-///zero.lf///zero.zero///one.lf///two.lf///three.lf///four.lf///five.lf///six.lf///seven.lf///eight.lf// 
-///nine.lf///zero.lf.zero 
-/backslash 0/backslash 1/backslash 2/backslash 3/backslash 4/backslash 5/backslash 6/backslash 7/backslash 8/backslash 9/backslash 
-/backslash/zero.lf/backslash/zero.zero/backslash/one.lf/backslash/two.lf/backslash/three.lf/backslash/four.lf/backslash/five.lf/backslash/six.lf/backslash/seven.lf/backslash/eight.lf/backslash 
-/backslash/nine.lf/backslash/zero.lf.zero/backslash 
-­0­1­2­3­4­5­6­7­8­9­
-­/zero.lf ­/zero.zero ­/one.lf ­/two.lf ­/three.lf ­/four.lf ­/five.lf ­/six.lf ­/seven.lf ­/eight.lf ­
-­/nine.lf ­/zero.lf.zero ­
-‐0‐1‐2‐3‐4‐5‐6‐7‐8‐9‐
-‐/zero.lf ‐/zero.zero ‐/one.lf ‐/two.lf ‐/three.lf ‐/four.lf ‐/five.lf ‐/six.lf ‐/seven.lf ‐/eight.lf ‐
-‐/nine.lf ‐/zero.lf.zero ‐
-_0_1_2_3_4_5_6_7_8_9_
-_/zero.lf _/zero.zero _/one.lf _/two.lf _/three.lf _/four.lf _/five.lf _/six.lf _/seven.lf _/eight.lf _
-_/nine.lf _/zero.lf.zero _
-",
-"«Hello» Yes, maybe? ‘hncon’ “non”
-‹Hi›",
-"(H)[H]{H}⟨H312⟩.,:;…!¡?¿n·nN/periodcentered.case Nl/periodcentered.loclCAT lL/periodcentered.loclCAT.case l.•Desk*#///backslash -­–—‐_(){}[]‚„“”‘’«»‹›\"'′″|¦∙⁒∕+−×÷=≠><≥≤±≈~¬^∞∫∏∑√µ∂%/percent.ss06 ‰↑↗→↘↓↙←↖",
-"A/A.ss02 Á/Aacute.loclVIT Ă/Abreve.loclVIT ẮẶẰẲẴÂ/circumflexcomb.case/Acircumflex.loclVIT ẤẬẦẨẪȀÄẠÀ/Agrave.loclVIT ẢȂĀĄ̊ÅǺÃ/Atilde.loclVIT ÆǼB/B.ss02 C/C.ss02 Ć/caroncomb.case ČÇĈĊDǄÐĎĐǅE/E.ss02 É/Eacute.loclVIT ĔĚÊ/Ecircumflex.loclVIT ẾỆỀỂỄȄËĖẸÈ/Egrave.loclVIT ẺȆĒĘẼFG/G.ss02 ĞǦĜĢĠH/H.ss02 ĦĤIĲ/IJ.001 Í/Iacute.loclVIT ĬÎȈÏİỊÌ/Igrave.loclVIT ỈȊĪĮĨJ/Jacute ĴKĶL/L.ss02 ǇĹĽĻĿǈŁM/M.ss02 N/N.ss02 ǊŃŇŅǋÑŊO/O.ss02 Ó/Oacute.loclVIT ŎÔ/Ocircumflex.loclVIT ỐỘỒỔỖȌÖȪȰỌÒ/Ograve.loclVIT ỎƠỚỢỜỞỠŐȎŌǪØǾÕ/Otilde.loclVIT ȬŒP/P.ss02 ÞQR/R.ss02 ŔŘŖȐȒS/S.ss02 ŚŠŞŜȘẞƏTŦŤŢȚUÚ/Uacute.loclVIT ŬÛȔÜỤÙ/Ugrave.loclVIT ỦƯỨỰỪỬỮŰȖŪŲŮŨVW/W.ss02 ẂŴẄẀXYÝ/Yacute.loclVIT ŶŸỴỲ/Ygrave.loclVIT ỶȲỸZŹŽŻa/a.ss01/a.ss02 á/aacute.loclVIT/aacute.loclVIT.ss01/aacute.ss01 ă/abreve.loclVIT/abreve.loclVIT.ss01/abreve.ss01 ắặ/abrevedotbelow.ss01 ằẳẵâ/acircumflex.loclVIT/acircumflex.loclVIT.ss01/acircumflex.ss01 ấậ/acircumflexdotbelow.ss01 ầẩẫȁ/adblgrave.ss01 ä/adieresis.ss01 ạ/adotbelow.ss01 à/agrave.loclVIT/agrave.loclVIT.ss01/agrave.ss01 ả/ahookabove.ss01 ȃ/ainvertedbreve.ss01 ā/amacron.ss01 ą/aogonek.ss01 å/aring.ss01 ǻ/aringacute.ss01 ã/atilde.loclVIT/atilde.loclVIT.ss01/atilde.ss01 æ/ae.ss01 ǽ/aeacute.ss01 bcćčçĉċdðďđǆeé/eacute.loclVIT ĕěê/ecircumflex.loclVIT ếệềểễȅëėẹè/egrave.loclVIT ẻȇēęẽəf/f.ss02 gğǧĝģġhħĥiıí/iacute.loclVIT ĭîȉï/idotaccent ịì/igrave.loclVIT ỉȋĳīįĩj/j.ss02 ȷ/jdotless.ss02/jacute ĵkķĸlĺľļŀǉłmnńňņǌñŋoó/oacute.loclVIT ŏô/ocircumflex.loclVIT ốộồổỗȍöȫȱọò/ograve.loclVIT ỏơớợờởỡőȏōǫøǿõ/otilde.loclVIT ȭœpþqrŕřŗȑȓs/s.ss02 śšşŝșßt/t.ss02 ŧťţțuú/uacute.loclVIT ŭûȕüụù/ugrave.loclVIT ủưứựừửữűȗūųůũvwẃŵẅẁxy/y.ss02 ý/yacute.loclVIT ŷÿỵỳ/ygrave.loclVIT ỷȳỹzźžż/a_germandbls/f_f/f_f_i/f_f_l ﬂªºΔΩμπ0123456789/zero.lf/zero.tf/zero.zero/one.lf/one.tf/two.lf/two.tf/three.lf/three.tf/four.lf/four.tf/five.lf/five.tf/six.lf/six.tf/seven.lf/seven.tf/eight.lf/eight.tf/nine.lf/nine.tf/zero.lf.zero/zero.tf.zero/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr ¹²³⁴⁄½¼¾⅛⅜⅝⅞/.null \015  ⟨⟩.,/comma.ss05 :;/semicolon.ss05 …!¡?¿·/periodcentered.case/periodcentered.loclCAT/periodcentered.loclCAT.case •*#///backslash -­–—‐_(){}[]‚/quotesinglbase.ss05 „/quotedblbase.ss05 “/quotedblleft.ss05 ”/quotedblright.ss05 ‘/quoteleft.ss05 ’/quoteright.ss05 «»‹›\"'ƒ@&/ampersand.ss06 ¶§©®/registered.ss06 ™°′″|¦†‡/daggerdbl.ss06 №₵¢₡¤$₫€₣₲₭/kip.ss01 ₤₺₼₦₧/peseta.ss01/peseta.ss02 ₱₽₹£₩/won.ss01 ¥∙⁒∕+−×÷=≠><≥≤±≈~¬^∞∫∏∑√µ∂%/percent.ss06 ‰↑↗→↘↓↙←↖◌◊/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ̈/dieresiscomb.case/dieresiscomb.narrow ̇/dotaccentcomb.case ̀/gravecomb.case/gravecomb.loclVIT/gravecomb.loclVIT.narrow/gravecomb.narrow ́/acutecomb.case/acutecomb.loclVIT/acutecomb.loclVIT.narrow/acutecomb.narrow ̋/hungarumlautcomb.case/caroncomb.alt ̂/circumflexcomb.case/circumflexcomb.loclVIT/circumflexcomb.narrow ̌/caroncomb.case ̆/brevecomb.case/brevecomb.loclVIT/brevecomb.narrow ̊/ringcomb.case ̃/tildecomb.case/tildecomb.loclVIT/tildecomb.narrow ̄/macroncomb.case/macroncomb.narrow ̉/hookabovecomb.case ̏/dblgravecomb.case/dblgravecomb.narrow ̑/breveinvertedcomb.case/breveinvertedcomb.narrow ̒/commaturnedabovecomb.case ̵̧̨̛̣̤̦̮̱¨˙`´˝ˆˇ˘˚˜¯¸˛ʼ/apostrophemod.ss05 ʺʹ",
-"Aw/nine.lf/quoteright.ss05/comma.ss05/semicolon.ss05/quotedblleft.ss05/six.lf.001/nine.lf.001/quotedblright.ss05 
-bdpq /b.ss03/d.ss03/p.ss03/q.ss03 
-18/one.lf/eight.lf/one.lf.001/eight.lf 
-17/one.lf/seven.lf/one.lf.001/seven.lf 
-/f_f_i/f_i  ẞ /a_germandbls 
-/caroncomb.alt  Ľ ďábel veľká
-sťatý VEĽTRH
-víla",
-IE,
-H
-);
 axes = (
 {
 name = Weight;
@@ -74238,6 +74043,31 @@ a = -20;
 };
 y = {
 e = -5;
+};
+A.ss02 = {
+A = 10;
+C = -30;
+G = -30;
+J = -15;
+O = -40;
+Q = -30;
+T = -60;
+V = -55;
+W = -35;
+Y = -55;
+a = -10;
+c = -15;
+d = -10;
+e = -10;
+f = -10;
+g = -10;
+j = -5;
+o = -15;
+q = -15;
+t = -25;
+v = -50;
+w = -35;
+y = -35;
 };
 };
 "6242D68C-0A25-4F05-8F2A-2075F7C4A210" = {
