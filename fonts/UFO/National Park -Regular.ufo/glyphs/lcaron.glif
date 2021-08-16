@@ -4,7 +4,7 @@
 	<unicode hex="013E"/>
 	<outline>
 		<component base="l"/>
-		<component base="caroncomb.alt" xOffset="150" yOffset="20"/>
+		<component base="caroncomb.alt" xOffset="170" yOffset="20"/>
 	</outline>
 	<lib>
 		<dict>
@@ -30,7 +30,7 @@
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>l</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>caroncomb.alt</string>
+			<string>=caroncomb.alt-20</string>
 		</dict>
 	</lib>
 </glyph>

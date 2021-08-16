@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.zero" format="2">
-	<advance width="660"/>
+	<advance width="588"/>
 	<outline>
 		<contour>
-			<point x="327" y="666" type="curve" smooth="yes"/>
-			<point x="496" y="666"/>
-			<point x="560" y="495"/>
-			<point x="560" y="349" type="curve" smooth="yes"/>
-			<point x="560" y="202"/>
-			<point x="487" y="25"/>
-			<point x="327" y="25" type="curve" smooth="yes"/>
-			<point x="167" y="25"/>
-			<point x="100" y="204"/>
-			<point x="100" y="347" type="curve" smooth="yes"/>
-			<point x="100" y="486"/>
-			<point x="175" y="666"/>
+			<point x="464" y="566" type="move"/>
+			<point x="140" y="131" type="line"/>
 		</contour>
-		<contour>
-			<point x="494" y="566" type="move"/>
-			<point x="170" y="131" type="line"/>
-		</contour>
+		<component base="zero"/>
 	</outline>
 </glyph>

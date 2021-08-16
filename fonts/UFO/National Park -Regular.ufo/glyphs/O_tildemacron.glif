@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otildemacron" format="2">
-	<advance width="688"/>
+	<advance width="676"/>
 	<unicode hex="022C"/>
 	<outline>
 		<component base="O"/>
-		<component base="tildecomb" xOffset="148" yOffset="185"/>
-		<component base="macroncomb" xOffset="150" yOffset="367"/>
+		<component base="tildecomb" xOffset="137" yOffset="135"/>
+		<component base="macroncomb" xOffset="146" yOffset="337"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tildecomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>macroncomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

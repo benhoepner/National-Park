@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Schwa" format="2">
-	<advance width="681"/>
+	<advance width="673"/>
 	<outline>
-		<component base="e" xScale="-1.3402" yScale="-1.3402" xOffset="704" yOffset="-104"/>
-		<component base="O" xOffset="-4"/>
+		<component base="e" xScale="-1.3402" yScale="-1.3402" xOffset="700" yOffset="-104"/>
+		<component base="O" xOffset="-8"/>
 	</outline>
 	<lib>
 		<dict>

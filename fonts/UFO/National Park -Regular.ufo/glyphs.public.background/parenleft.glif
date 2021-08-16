@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenleft" format="2">
-	<advance width="312"/>
+	<advance width="302"/>
 	<outline>
 		<contour>
 			<point x="244" y="-146" type="move"/>

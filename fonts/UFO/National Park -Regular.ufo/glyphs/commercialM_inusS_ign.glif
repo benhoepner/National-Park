@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commercialMinusSign" format="2">
-	<advance width="600"/>
+	<advance width="457"/>
 	<unicode hex="2052"/>
 	<outline>
+		<component base="bullet" xScale="0.8516" yScale="0.8516" xOffset="6" yOffset="332"/>
+		<component base="bullet" xScale="0.8522" yScale="0.8522" xOffset="235" yOffset="-217"/>
+		<contour>
+			<point x="123" y="21" type="curve" smooth="yes"/>
+			<point x="409" y="639" type="line" smooth="yes"/>
+			<point x="421" y="666"/>
+			<point x="407" y="699"/>
+			<point x="375" y="699" type="curve" smooth="yes"/>
+			<point x="359" y="699"/>
+			<point x="346" y="690"/>
+			<point x="340" y="676" type="curve" smooth="yes"/>
+			<point x="54" y="57" type="line" smooth="yes"/>
+			<point x="42" y="31"/>
+			<point x="56" y="-2"/>
+			<point x="88" y="-2" type="curve" smooth="yes"/>
+			<point x="104" y="-2"/>
+			<point x="117" y="7"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

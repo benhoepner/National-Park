@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three" format="2">
-	<advance width="631"/>
+	<advance width="620"/>
 	<outline>
 		<contour>
 			<point x="724" y="660" type="move"/>

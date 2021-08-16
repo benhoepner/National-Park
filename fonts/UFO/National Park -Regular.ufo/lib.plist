@@ -20,9 +20,9 @@
 				<key>HV</key>
 				<string>80</string>
 				<key>OH</key>
-				<string>82</string>
+				<string>75</string>
 				<key>OV</key>
-				<string>83</string>
+				<string>82</string>
 				<key>nV</key>
 				<string>80</string>
 				<key>nd</key>
@@ -48,11 +48,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
-		<integer>10</integer>
+		<integer>40</integer>
 		<key>GSOffsetCapStyle</key>
-		<integer>3</integer>
+		<integer>2</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>41</integer>
+		<integer>40</integer>
 		<key>GSOffsetKeepCompatible</key>
 		<integer>1</integer>
 		<key>GSOffsetMakeStroke</key>
@@ -78,7 +78,7 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
-		<string>A.ss01</string>
+		<string>A.ss02</string>
 		<string>Aacute</string>
 		<string>Aacute.loclVIT</string>
 		<string>Abreve</string>
@@ -111,9 +111,9 @@
 		<string>AE</string>
 		<string>AEacute</string>
 		<string>B</string>
-		<string>B.ss01</string>
+		<string>B.ss02</string>
 		<string>C</string>
-		<string>C.ss01</string>
+		<string>C.ss02</string>
 		<string>Cacute</string>
 		<string>Ccaron</string>
 		<string>Ccedilla</string>
@@ -151,14 +151,14 @@
 		<string>Etilde</string>
 		<string>F</string>
 		<string>G</string>
-		<string>G.ss01</string>
+		<string>G.ss02</string>
 		<string>Gbreve</string>
 		<string>Gcaron</string>
 		<string>Gcircumflex</string>
 		<string>Gcommaaccent</string>
 		<string>Gdotaccent</string>
 		<string>H</string>
-		<string>H.ss01</string>
+		<string>H.ss02</string>
 		<string>Hbar</string>
 		<string>Hcircumflex</string>
 		<string>I</string>
@@ -185,7 +185,7 @@
 		<string>K</string>
 		<string>Kcommaaccent</string>
 		<string>L</string>
-		<string>L.ss01</string>
+		<string>L.ss02</string>
 		<string>LJ</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
@@ -194,9 +194,9 @@
 		<string>Lj</string>
 		<string>Lslash</string>
 		<string>M</string>
-		<string>M.ss01</string>
+		<string>M.ss02</string>
 		<string>N</string>
-		<string>N.ss01</string>
+		<string>N.ss02</string>
 		<string>NJ</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
@@ -205,7 +205,7 @@
 		<string>Ntilde</string>
 		<string>Eng</string>
 		<string>O</string>
-		<string>O.ss01</string>
+		<string>O.ss02</string>
 		<string>Oacute</string>
 		<string>Oacute.loclVIT</string>
 		<string>Obreve</string>
@@ -241,27 +241,24 @@
 		<string>Otildemacron</string>
 		<string>OE</string>
 		<string>P</string>
-		<string>P.ss01</string>
+		<string>P.ss02</string>
 		<string>Thorn</string>
 		<string>Q</string>
 		<string>R</string>
-		<string>R.ss01</string>
+		<string>R.ss02</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
 		<string>Rcommaaccent</string>
 		<string>Rdblgrave</string>
 		<string>Rinvertedbreve</string>
 		<string>S</string>
-		<string>S.ss01</string>
+		<string>S.ss02</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
 		<string>Germandbls</string>
-		<string>Germandbls.ss02</string>
-		<string>Germandbls.ss03</string>
-		<string>Germandbls.ss04</string>
 		<string>Schwa</string>
 		<string>T</string>
 		<string>Tbar</string>
@@ -293,7 +290,7 @@
 		<string>Utilde</string>
 		<string>V</string>
 		<string>W</string>
-		<string>W.ss01</string>
+		<string>W.ss02</string>
 		<string>Wacute</string>
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
@@ -315,8 +312,6 @@
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>a</string>
-		<string>a.001</string>
-		<string>a.002</string>
 		<string>a.ss01</string>
 		<string>a.ss02</string>
 		<string>aacute</string>
@@ -360,8 +355,7 @@
 		<string>amacron</string>
 		<string>amacron.ss01</string>
 		<string>aogonek</string>
-		<string>aogonek.001</string>
-		<string>aogonek.ss01.001</string>
+		<string>aogonek.ss01</string>
 		<string>aring</string>
 		<string>aring.ss01</string>
 		<string>aringacute</string>
@@ -375,6 +369,7 @@
 		<string>aeacute</string>
 		<string>aeacute.ss01</string>
 		<string>b</string>
+		<string>b.ss03</string>
 		<string>c</string>
 		<string>cacute</string>
 		<string>ccaron</string>
@@ -382,6 +377,7 @@
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
 		<string>d</string>
+		<string>d.ss03</string>
 		<string>eth</string>
 		<string>dcaron</string>
 		<string>dcroat</string>
@@ -408,13 +404,11 @@
 		<string>einvertedbreve</string>
 		<string>emacron</string>
 		<string>eogonek</string>
-		<string>eogonek.001</string>
 		<string>etilde</string>
 		<string>schwa</string>
 		<string>f</string>
 		<string>f.ss02</string>
 		<string>g</string>
-		<string>g.001</string>
 		<string>gbreve</string>
 		<string>gcaron</string>
 		<string>gcircumflex</string>
@@ -440,7 +434,6 @@
 		<string>ij</string>
 		<string>imacron</string>
 		<string>iogonek</string>
-		<string>iogonek.001</string>
 		<string>itilde</string>
 		<string>j</string>
 		<string>j.ss02</string>
@@ -495,7 +488,6 @@
 		<string>oinvertedbreve</string>
 		<string>omacron</string>
 		<string>oogonek</string>
-		<string>oogonek.001</string>
 		<string>oslash</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
@@ -503,8 +495,10 @@
 		<string>otildemacron</string>
 		<string>oe</string>
 		<string>p</string>
+		<string>p.ss03</string>
 		<string>thorn</string>
 		<string>q</string>
+		<string>q.ss03</string>
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
@@ -512,14 +506,13 @@
 		<string>rdblgrave</string>
 		<string>rinvertedbreve</string>
 		<string>s</string>
-		<string>s.ss01</string>
+		<string>s.ss02</string>
 		<string>sacute</string>
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
 		<string>germandbls</string>
-		<string>germandbls.ss03</string>
 		<string>t</string>
 		<string>t.ss02</string>
 		<string>tbar</string>
@@ -547,7 +540,6 @@
 		<string>uinvertedbreve</string>
 		<string>umacron</string>
 		<string>uogonek</string>
-		<string>uogonek.001</string>
 		<string>uring</string>
 		<string>utilde</string>
 		<string>v</string>
@@ -573,15 +565,18 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>a_germandbls</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
 		<string>f_f_l</string>
-		<string>fi</string>
+		<string>f_i</string>
 		<string>fl</string>
+		<string>idieresis_idieresis</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>Delta</string>
 		<string>Omega</string>
+		<string>mu</string>
 		<string>pi</string>
 		<string>zero</string>
 		<string>one</string>
@@ -594,17 +589,31 @@
 		<string>eight</string>
 		<string>nine</string>
 		<string>zero.lf</string>
+		<string>zero.tf</string>
 		<string>zero.zero</string>
 		<string>one.lf</string>
 		<string>one.tf</string>
 		<string>two.lf</string>
+		<string>two.tf</string>
 		<string>three.lf</string>
+		<string>three.tf</string>
 		<string>four.lf</string>
+		<string>four.tf</string>
 		<string>five.lf</string>
+		<string>five.tf</string>
 		<string>six.lf</string>
+		<string>six.tf</string>
 		<string>seven.lf</string>
+		<string>seven.tf</string>
 		<string>eight.lf</string>
+		<string>eight.tf</string>
 		<string>nine.lf</string>
+		<string>nine.tf</string>
+		<string>zero.lf.zero</string>
+		<string>zero.tf.zero</string>
+		<string>one.lf.001</string>
+		<string>six.lf.001</string>
+		<string>nine.lf.001</string>
 		<string>zero.dnom</string>
 		<string>one.dnom</string>
 		<string>two.dnom</string>
@@ -615,6 +624,16 @@
 		<string>seven.dnom</string>
 		<string>eight.dnom</string>
 		<string>nine.dnom</string>
+		<string>zero.numr</string>
+		<string>one.numr</string>
+		<string>two.numr</string>
+		<string>three.numr</string>
+		<string>four.numr</string>
+		<string>five.numr</string>
+		<string>six.numr</string>
+		<string>seven.numr</string>
+		<string>eight.numr</string>
+		<string>nine.numr</string>
 		<string>onesuperior</string>
 		<string>twosuperior</string>
 		<string>threesuperior</string>
@@ -623,6 +642,10 @@
 		<string>onehalf</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
+		<string>seveneighths</string>
 		<string>.null</string>
 		<string>CR</string>
 		<string>space</string>
@@ -631,8 +654,10 @@
 		<string>rightanglebracket-math</string>
 		<string>period</string>
 		<string>comma</string>
+		<string>comma.ss05</string>
 		<string>colon</string>
 		<string>semicolon</string>
+		<string>semicolon.ss05</string>
 		<string>ellipsis</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
@@ -645,6 +670,7 @@
 		<string>bullet</string>
 		<string>asterisk</string>
 		<string>numbersign</string>
+		<string>numbersign.001</string>
 		<string>slash</string>
 		<string>backslash</string>
 		<string>hyphen</string>
@@ -660,11 +686,17 @@
 		<string>bracketleft</string>
 		<string>bracketright</string>
 		<string>quotesinglbase</string>
+		<string>quotesinglbase.ss05</string>
 		<string>quotedblbase</string>
+		<string>quotedblbase.ss05</string>
 		<string>quotedblleft</string>
+		<string>quotedblleft.ss05</string>
 		<string>quotedblright</string>
+		<string>quotedblright.ss05</string>
 		<string>quoteleft</string>
+		<string>quoteleft.ss05</string>
 		<string>quoteright</string>
+		<string>quoteright.ss05</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
 		<string>guilsinglleft</string>
@@ -673,7 +705,6 @@
 		<string>quotesingle</string>
 		<string>florin</string>
 		<string>at</string>
-		<string>at.ss06</string>
 		<string>ampersand</string>
 		<string>ampersand.ss06</string>
 		<string>paragraph</string>
@@ -697,21 +728,28 @@
 		<string>currency</string>
 		<string>dollar</string>
 		<string>dong</string>
-		<string>kip</string>
-		<string>rupeeIndian</string>
 		<string>euro</string>
 		<string>franc</string>
 		<string>guarani</string>
+		<string>kip</string>
+		<string>kip.ss01</string>
 		<string>lira</string>
 		<string>liraTurkish</string>
 		<string>manat</string>
 		<string>naira</string>
 		<string>peseta</string>
+		<string>peseta.ss01</string>
+		<string>peseta.ss02</string>
 		<string>peso</string>
 		<string>ruble</string>
+		<string>rupeeIndian</string>
 		<string>sterling</string>
 		<string>won</string>
+		<string>won.ss01</string>
 		<string>yen</string>
+		<string>bulletoperator</string>
+		<string>commercialMinusSign</string>
+		<string>divisionslash</string>
 		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
@@ -733,13 +771,18 @@
 		<string>summation</string>
 		<string>radical</string>
 		<string>micro</string>
+		<string>partialdiff</string>
 		<string>percent</string>
 		<string>percent.ss06</string>
 		<string>perthousand</string>
-		<string>bulletoperator</string>
-		<string>commercialMinusSign</string>
-		<string>divisionslash</string>
-		<string>partialdiff</string>
+		<string>upArrow</string>
+		<string>northEastArrow</string>
+		<string>rightArrow</string>
+		<string>southEastArrow</string>
+		<string>downArrow</string>
+		<string>southWestArrow</string>
+		<string>leftArrow</string>
+		<string>northWestArrow</string>
 		<string>dottedCircle</string>
 		<string>lozenge</string>
 		<string>brevecomb_acutecomb</string>
@@ -805,6 +848,7 @@
 		<string>ogonekcomb</string>
 		<string>brevebelowcomb</string>
 		<string>macronbelowcomb</string>
+		<string>strokeshortcomb</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>
@@ -818,10 +862,10 @@
 		<string>macron</string>
 		<string>cedilla</string>
 		<string>ogonek</string>
-		<string>strokeshortcomb</string>
+		<string>apostrophemod</string>
+		<string>apostrophemod.ss05</string>
 		<string>doubleprimemod</string>
 		<string>primemod</string>
-		<string>apostrophemod</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict>
@@ -883,12 +927,6 @@
 		<string>uni0122</string>
 		<key>Germandbls</key>
 		<string>uni1E9E</string>
-		<key>Germandbls.ss02</key>
-		<string>uni1E9E.ss02</string>
-		<key>Germandbls.ss03</key>
-		<string>uni1E9E.ss03</string>
-		<key>Germandbls.ss04</key>
-		<string>uni1E9E.ss04</string>
 		<key>Idblgrave</key>
 		<string>uni0208</string>
 		<key>Idotbelow</key>
@@ -1033,6 +1071,8 @@
 		<string>uni0203.ss01</string>
 		<key>apostrophemod</key>
 		<string>uni02BC</string>
+		<key>apostrophemod.ss05</key>
+		<string>uni02BC.ss05</string>
 		<key>brevebelowcomb</key>
 		<string>uni032E</string>
 		<key>brevecomb</key>
@@ -1119,6 +1159,8 @@
 		<string>uni25CC</string>
 		<key>doubleprimemod</key>
 		<string>uni02BA</string>
+		<key>downArrow</key>
+		<string>arrowdown</string>
 		<key>dzcaron</key>
 		<string>uni01C6</string>
 		<key>ecircumflexacute</key>
@@ -1183,8 +1225,12 @@
 		<string>uni0137</string>
 		<key>kip</key>
 		<string>uni20AD</string>
+		<key>kip.ss01</key>
+		<string>uni20AD.ss01</string>
 		<key>lcommaaccent</key>
 		<string>uni013C</string>
+		<key>leftArrow</key>
+		<string>arrowleft</string>
 		<key>leftanglebracket-math</key>
 		<string>uni27E8</string>
 		<key>liraTurkish</key>
@@ -1203,6 +1249,8 @@
 		<string>uni20BC</string>
 		<key>micro</key>
 		<string>uni00B5</string>
+		<key>mu</key>
+		<string>uni03BC</string>
 		<key>naira</key>
 		<string>uni20A6</string>
 		<key>nbspace</key>
@@ -1211,6 +1259,10 @@
 		<string>uni0146</string>
 		<key>nj</key>
 		<string>uni01CC</string>
+		<key>northEastArrow</key>
+		<string>uni2197</string>
+		<key>northWestArrow</key>
+		<string>uni2196</string>
 		<key>numero</key>
 		<string>uni2116</string>
 		<key>ocircumflexacute</key>
@@ -1251,8 +1303,6 @@
 		<string>uni00B9</string>
 		<key>oogonek</key>
 		<string>uni01EB</string>
-		<key>oogonek.001</key>
-		<string>uni01EB.001</string>
 		<key>otildemacron</key>
 		<string>uni022D</string>
 		<key>peso</key>
@@ -1263,6 +1313,8 @@
 		<string>uni0157</string>
 		<key>rdblgrave</key>
 		<string>uni0211</string>
+		<key>rightArrow</key>
+		<string>arrowright</string>
 		<key>rightanglebracket-math</key>
 		<string>uni27E9</string>
 		<key>ringcomb</key>
@@ -1281,6 +1333,10 @@
 		<string>uni0219</string>
 		<key>softhyphen</key>
 		<string>uni00AD</string>
+		<key>southEastArrow</key>
+		<string>uni2198</string>
+		<key>southWestArrow</key>
+		<string>uni2199</string>
 		<key>strokeshortcomb</key>
 		<string>uni0335</string>
 		<key>tcedilla</key>
@@ -1309,8 +1365,12 @@
 		<string>uni1EEF</string>
 		<key>uinvertedbreve</key>
 		<string>uni0217</string>
+		<key>upArrow</key>
+		<string>arrowup</string>
 		<key>won</key>
 		<string>uni20A9</string>
+		<key>won.ss01</key>
+		<string>uni20A9.ss01</string>
 		<key>ydotbelow</key>
 		<string>uni1EF5</string>
 		<key>yhookabove</key>
@@ -1320,29 +1380,5 @@
 		<key>ytilde</key>
 		<string>uni1EF9</string>
 	</dict>
-	<key>public.skipExportGlyphs</key>
-	<array>
-		<string>leftanglebracket-math</string>
-		<string>rightanglebracket-math</string>
-		<string>euro</string>
-		<string>franc</string>
-		<string>guarani</string>
-		<string>lira</string>
-		<string>liraTurkish</string>
-		<string>manat</string>
-		<string>naira</string>
-		<string>peseta</string>
-		<string>peso</string>
-		<string>ruble</string>
-		<string>sterling</string>
-		<string>won</string>
-		<string>yen</string>
-		<string>bulletoperator</string>
-		<string>commercialMinusSign</string>
-		<string>divisionslash</string>
-		<string>partialdiff</string>
-		<string>strokeshortcomb</string>
-		<string>apostrophemod</string>
-	</array>
 </dict>
 </plist>

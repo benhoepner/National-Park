@@ -3,6 +3,6 @@
 	<advance width="490"/>
 	<outline>
 		<component base="y"/>
-		<component base="gravecomb.loclVIT" xOffset="84"/>
+		<component base="gravecomb.loclVIT" xOffset="83"/>
 	</outline>
 </glyph>

@@ -2,23 +2,23 @@
 <glyph name="i" format="2">
 	<advance width="238"/>
 	<unicode hex="0069"/>
-	<anchor x="114" y="0" name="bottom"/>
+	<anchor x="119" y="0" name="bottom"/>
 	<outline>
 		<contour>
-			<point x="114" y="-10" type="curve" smooth="yes"/>
-			<point x="136" y="-10"/>
-			<point x="154" y="8"/>
-			<point x="154" y="30" type="curve" smooth="yes"/>
-			<point x="154" y="485" type="line" smooth="yes"/>
-			<point x="154" y="507"/>
-			<point x="136" y="525"/>
-			<point x="114" y="525" type="curve" smooth="yes"/>
-			<point x="91" y="525"/>
-			<point x="74" y="507"/>
-			<point x="74" y="485" type="curve" smooth="yes"/>
-			<point x="74" y="30" type="line" smooth="yes"/>
-			<point x="74" y="8"/>
-			<point x="91" y="-10"/>
+			<point x="119" y="-10" type="curve" smooth="yes"/>
+			<point x="141" y="-10"/>
+			<point x="159" y="8"/>
+			<point x="159" y="30" type="curve" smooth="yes"/>
+			<point x="159" y="485" type="line" smooth="yes"/>
+			<point x="159" y="507"/>
+			<point x="141" y="525"/>
+			<point x="119" y="525" type="curve" smooth="yes"/>
+			<point x="97" y="525"/>
+			<point x="79" y="507"/>
+			<point x="79" y="485" type="curve" smooth="yes"/>
+			<point x="79" y="30" type="line" smooth="yes"/>
+			<point x="79" y="8"/>
+			<point x="97" y="-10"/>
 		</contour>
 		<component base="dotaccentcomb" xOffset="29"/>
 	</outline>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde.loclVIT" format="2">
-	<advance width="688"/>
+	<advance width="676"/>
 	<outline>
 		<component base="O"/>
-		<component base="tildecomb.loclVIT" xOffset="143" yOffset="185"/>
+		<component base="tildecomb.loclVIT" xOffset="137" yOffset="185"/>
 	</outline>
 </glyph>

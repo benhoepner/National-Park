@@ -2,9 +2,9 @@
 <glyph name="dotbelowcomb" format="2">
 	<advance width="0"/>
 	<unicode hex="0323"/>
-	<anchor x="85" y="0" name="_bottom"/>
-	<anchor x="85" y="-175" name="bottom"/>
+	<anchor x="89" y="0" name="_bottom"/>
+	<anchor x="89" y="-175" name="bottom"/>
 	<outline>
-		<component base="dotaccentcomb" yScale="1.0381" yOffset="-780"/>
+		<component base="dotaccentcomb" yScale="1.0381" xOffset="-1" yOffset="-780"/>
 	</outline>
 </glyph>

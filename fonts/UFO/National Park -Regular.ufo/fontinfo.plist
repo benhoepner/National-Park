@@ -16,21 +16,13 @@
 			<key>angle</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>491</integer>
-			<key>y</key>
-			<integer>64</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>x</key>
 			<integer>156</integer>
 			<key>y</key>
 			<integer>891</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2021/06/29 17:27:46</string>
+	<string>2021/08/11 14:44:05</string>
 	<key>openTypeHheaAscender</key>
 	<integer>0</integer>
 	<key>openTypeHheaDescender</key>
@@ -78,7 +70,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>5</integer>
 	<key>xHeight</key>
 	<integer>515</integer>
 </dict>

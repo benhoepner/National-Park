@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="2">
-	<advance width="642"/>
+	<advance width="557"/>
 	<unicode hex="010F"/>
 	<outline>
 		<component base="d"/>
-		<component base="caroncomb.alt" xOffset="500" yOffset="20"/>
+		<component base="caroncomb.alt" xOffset="515" yOffset="20"/>
 	</outline>
 	<lib>
 		<dict>
@@ -18,19 +18,11 @@
 					<key>name</key>
 					<string>d</string>
 				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>caroncomb.alt</string>
-				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=d</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>=caroncomb.alt</string>
+			<string>=caroncomb.alt-100</string>
 		</dict>
 	</lib>
 </glyph>

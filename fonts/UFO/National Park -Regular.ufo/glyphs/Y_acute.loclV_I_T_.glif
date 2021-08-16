@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacute.loclVIT" format="2">
-	<advance width="596"/>
+	<advance width="561"/>
 	<outline>
 		<component base="Y"/>
-		<component base="acutecomb.loclVIT" xOffset="206" yOffset="185"/>
+		<component base="acutecomb.loclVIT" xOffset="191" yOffset="185"/>
 	</outline>
 </glyph>

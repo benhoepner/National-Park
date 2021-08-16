@@ -6,7 +6,7 @@
 		<component base="Ohorn"/>
 		<component base="acutecomb" xOffset="251" yOffset="170"/>
 		<contour>
-			<point x="344" y="-14" type="curve"/>
+			<point x="344" y="-14" type="curve" smooth="yes" name="💚"/>
 			<point x="168" y="-14"/>
 			<point x="60" y="130"/>
 			<point x="60" y="350" type="curve" smooth="yes"/>

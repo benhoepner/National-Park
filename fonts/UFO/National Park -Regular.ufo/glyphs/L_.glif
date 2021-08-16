@@ -4,7 +4,7 @@
 	<unicode hex="004C"/>
 	<anchor x="277" y="0" name="bottom"/>
 	<anchor x="267" y="350" name="center"/>
-	<anchor x="124" y="700" name="top"/>
+	<anchor x="192" y="700" name="top"/>
 	<anchor x="514" y="700" name="topright"/>
 	<outline>
 		<contour>
@@ -33,4 +33,10 @@
 			<point x="146" y="76" type="line"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
 </glyph>

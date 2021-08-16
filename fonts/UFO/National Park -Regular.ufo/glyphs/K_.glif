@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-	<advance width="631"/>
+	<advance width="611"/>
 	<unicode hex="004B"/>
 	<anchor x="307" y="0" name="bottom"/>
 	<anchor x="307" y="700" name="top"/>
@@ -50,4 +50,10 @@
 			<point x="516" y="-7"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
 </glyph>

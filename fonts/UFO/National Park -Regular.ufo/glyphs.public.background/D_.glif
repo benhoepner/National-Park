@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-	<advance width="647"/>
+	<advance width="639"/>
 	<outline>
 		<contour>
 			<point x="162" y="36" type="curve" smooth="yes"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek" format="2">
-	<advance width="295"/>
+	<advance width="294"/>
 	<outline>
-		<component base="ogonekcomb" xOffset="-22"/>
+		<component base="ogonekcomb.002" xOffset="28"/>
 	</outline>
 </glyph>

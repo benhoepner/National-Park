@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-	<advance width="647"/>
+	<advance width="639"/>
 	<unicode hex="0044"/>
 	<anchor x="304" y="0" name="bottom"/>
 	<anchor x="324" y="350" name="center"/>
@@ -39,4 +39,10 @@
 			<point x="98" y="0"/>
 		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
 </glyph>

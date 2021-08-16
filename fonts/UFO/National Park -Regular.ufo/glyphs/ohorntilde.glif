@@ -6,7 +6,7 @@
 	<anchor x="275" y="515" name="top"/>
 	<outline>
 		<contour>
-			<point x="426" y="259" type="curve"/>
+			<point x="426" y="259" type="curve" smooth="yes" name="💚"/>
 			<point x="426" y="136"/>
 			<point x="373" y="62"/>
 			<point x="273" y="62" type="curve" smooth="yes"/>
