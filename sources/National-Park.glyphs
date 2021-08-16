@@ -1,5 +1,5 @@
 {
-.appVersion = "3091";
+.appVersion = "3095";
 .formatVersion = 3;
 DisplayStrings = (
 "/A.ss02 Aardvark Ablution Acrimonious Adventures Aeolian Africa Agamemnon Ahoy Aileron Ajax Akimbo Altruism America Anecdote Aorta Aptitude Aquarium Arcade Aspartame Attrition Aurelius Avuncular Awning Axminster Ayers Azure Await Aware Afford Attain Answer Actor Abolish",
@@ -46770,8 +46770,8 @@ metricLeft = f;
 metricRight = l;
 },
 {
-glyphname = f_i;
-lastChange = "2021-08-15 17:26:48 +0000";
+glyphname = fi;
+lastChange = "2021-08-16 12:26:50 +0000";
 layers = (
 {
 layerId = "65988B1E-DCE2-4AC3-A6FF-994A1050067D";
@@ -47041,6 +47041,7 @@ width = 477;
 );
 metricLeft = f;
 metricRight = i;
+unicode = 64257;
 },
 {
 glyphname = fl;
@@ -74374,6 +74375,18 @@ t = -30;
 u = -30;
 y = -30;
 };
+P.ss02 = {
+A = -60;
+T = -30;
+a = -30;
+d = -30;
+e = -30;
+g = -20;
+o = -30;
+p = -20;
+s = -20;
+y = -2;
+};
 Q = {
 a = -10;
 };
@@ -74531,18 +74544,6 @@ z = -20;
 };
 z = {
 a = -20;
-};
-P.ss02 = {
-A = -60;
-T = -30;
-a = -30;
-d = -30;
-e = -30;
-g = -20;
-o = -30;
-p = -20;
-s = -20;
-y = -2;
 };
 };
 "6242D68C-0A25-4F05-8F2A-2075F7C4A210" = {
