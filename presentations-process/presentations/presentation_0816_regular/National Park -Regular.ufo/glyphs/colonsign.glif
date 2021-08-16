@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsign" format="2">
+	<advance width="600"/>
+	<unicode hex="20A1"/>
+	<outline>
+		<component base="C" xOffset="-14"/>
+		<contour>
+			<point x="287" y="777" type="move"/>
+			<point x="141" y="-65" type="line"/>
+		</contour>
+		<contour>
+			<point x="437" y="777" type="move"/>
+			<point x="291" y="-65" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>C</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>
