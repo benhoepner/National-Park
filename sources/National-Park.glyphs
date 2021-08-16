@@ -43,7 +43,9 @@ niOininOminous Onerous Oogamous Opine Ornate Ossified Othello Oubliette Ovens Ow
 "niEinoEo
 Eames Ebullient Echo Edify Eels Eftsoons Egress Ehrlich Eindhoven Eject Ekistics Elzevir Eminence Ennoble Eocene Ephemeral Equator Erstwhile Estienne Etiquette Eucalyptus Evoveryman Ewen Exeter Eyelet Ezekiel Eaglets Eardops Earthly Ebonize Echelon Eclipse Ecology Earthquakes Effectively Educational Elementary Electrojets Enjabments Engineering Erratically Escalations Excitations Exculpation  Exaggeration Exceedances Eyedroppers Exiler 
 ",
-"/P.ss02 Aer"
+"/P.ss02 Aer",
+"SSalacious Sbeitla Scherzo Serpentine Sforza Shackles Sinful Sjoerd Skull Slalom Smelting Snipe Sorbonne Spartan Squire Sri Stultified Summoner Svelte Swarthy Sykes Szentendre 
+"
 );
 axes = (
 {
@@ -41307,7 +41309,7 @@ unicode = 223;
 },
 {
 glyphname = t;
-lastChange = "2021-08-16 00:42:05 +0000";
+lastChange = "2021-08-16 00:48:02 +0000";
 layers = (
 {
 anchors = (
@@ -43142,7 +43144,7 @@ unicode = 361;
 },
 {
 glyphname = v;
-lastChange = "2021-08-16 00:38:15 +0000";
+lastChange = "2021-08-16 00:47:57 +0000";
 layers = (
 {
 layerId = "65988B1E-DCE2-4AC3-A6FF-994A1050067D";
@@ -43274,7 +43276,7 @@ unicode = 118;
 },
 {
 glyphname = w;
-lastChange = "2021-08-16 00:38:28 +0000";
+lastChange = "2021-08-16 00:47:40 +0000";
 layers = (
 {
 anchors = (
@@ -45051,7 +45053,7 @@ unicode = 7929;
 },
 {
 glyphname = z;
-lastChange = "2021-08-16 00:38:19 +0000";
+lastChange = "2021-08-16 00:47:45 +0000";
 layers = (
 {
 anchors = (
@@ -74316,7 +74318,6 @@ f = -10;
 o = -10;
 q = -10;
 u = -10;
-v = -10;
 w = -20;
 x = 0;
 y = -10;
@@ -74339,7 +74340,7 @@ l = 0;
 o = -50;
 r = -5;
 u = -10;
-v = -45;
+v = -40;
 w = -40;
 y = -50;
 };
@@ -74385,6 +74386,10 @@ w = -10;
 };
 S = {
 T = -20;
+t = -10;
+v = -20;
+w = -20;
+z = -10;
 };
 T = {
 A = -55;
