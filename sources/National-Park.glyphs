@@ -42,7 +42,8 @@ niOininOminous Onerous Oogamous Opine Ornate Ossified Othello Oubliette Ovens Ow
 "Kaiser Kenilworth Khaki Kindred Klondike Knowledge Kohlrabi Kraken Kudzu Kvetch Kwacha Kyrie liniGinoGarrulous Generous Ghastly Gimlet Glorious Gnomon Golfer Grizzled Gumption Gwendolyn Gymkhana  Gallon Gnarly Gnomes Gyppos Gryrate Gpysum Guy Gutter Gusset Guard Grumpy Growls Groeavaoel Grouts Ground Guilty Gumboz Gastroscope Gawkishness Geometrical S",
 "niEinoEo
 Eames Ebullient Echo Edify Eels Eftsoons Egress Ehrlich Eindhoven Eject Ekistics Elzevir Eminence Ennoble Eocene Ephemeral Equator Erstwhile Estienne Etiquette Eucalyptus Evoveryman Ewen Exeter Eyelet Ezekiel Eaglets Eardops Earthly Ebonize Echelon Eclipse Ecology Earthquakes Effectively Educational Elementary Electrojets Enjabments Engineering Erratically Escalations Excitations Exculpation  Exaggeration Exceedances Eyedroppers Exiler 
-"
+",
+"/P.ss02 Aer"
 );
 axes = (
 {
@@ -15658,7 +15659,7 @@ unicode = 338;
 },
 {
 glyphname = P;
-lastChange = "2021-08-11 18:42:51 +0000";
+lastChange = "2021-08-16 00:41:45 +0000";
 layers = (
 {
 anchors = (
@@ -15747,7 +15748,7 @@ nodes = (
 );
 }
 );
-width = 594;
+width = 589;
 },
 {
 anchors = (
@@ -15959,11 +15960,12 @@ width = 568;
 }
 );
 metricLeft = H;
+metricRight = P;
 unicode = 80;
 },
 {
 glyphname = P.ss02;
-lastChange = "2021-08-11 18:42:51 +0000";
+lastChange = "2021-08-16 00:44:43 +0000";
 layers = (
 {
 layerId = "65988B1E-DCE2-4AC3-A6FF-994A1050067D";
@@ -16009,7 +16011,7 @@ nodes = (
 );
 }
 );
-width = 618;
+width = 581;
 },
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -22170,7 +22172,7 @@ unicode = 379;
 },
 {
 glyphname = a;
-lastChange = "2021-08-16 00:37:22 +0000";
+lastChange = "2021-08-16 00:41:00 +0000";
 layers = (
 {
 anchors = (
@@ -27699,7 +27701,7 @@ unicode = 267;
 },
 {
 glyphname = d;
-lastChange = "2021-08-16 00:37:31 +0000";
+lastChange = "2021-08-16 00:42:26 +0000";
 layers = (
 {
 anchors = (
@@ -28588,7 +28590,7 @@ unicode = 454;
 },
 {
 glyphname = e;
-lastChange = "2021-08-16 00:39:13 +0000";
+lastChange = "2021-08-16 00:41:07 +0000";
 layers = (
 {
 anchors = (
@@ -30348,7 +30350,7 @@ width = 600;
 },
 {
 glyphname = g;
-lastChange = "2021-08-15 21:13:14 +0000";
+lastChange = "2021-08-16 00:42:00 +0000";
 layers = (
 {
 background = {
@@ -35924,7 +35926,7 @@ unicode = 331;
 },
 {
 glyphname = o;
-lastChange = "2021-08-16 00:37:39 +0000";
+lastChange = "2021-08-16 00:41:10 +0000";
 layers = (
 {
 anchors = (
@@ -37888,7 +37890,7 @@ unicode = 339;
 },
 {
 glyphname = p;
-lastChange = "2021-08-15 21:14:14 +0000";
+lastChange = "2021-08-16 00:42:17 +0000";
 layers = (
 {
 layerId = "65988B1E-DCE2-4AC3-A6FF-994A1050067D";
@@ -39622,7 +39624,7 @@ unicode = 531;
 },
 {
 glyphname = s;
-lastChange = "2021-08-16 00:02:53 +0000";
+lastChange = "2021-08-16 00:41:15 +0000";
 layers = (
 {
 anchors = (
@@ -41305,7 +41307,7 @@ unicode = 223;
 },
 {
 glyphname = t;
-lastChange = "2021-08-16 00:01:49 +0000";
+lastChange = "2021-08-16 00:42:05 +0000";
 layers = (
 {
 anchors = (
@@ -41948,7 +41950,7 @@ unicode = 539;
 },
 {
 glyphname = u;
-lastChange = "2021-08-16 00:38:11 +0000";
+lastChange = "2021-08-16 00:41:20 +0000";
 layers = (
 {
 anchors = (
@@ -44079,7 +44081,7 @@ unicode = 120;
 },
 {
 glyphname = y;
-lastChange = "2021-08-16 00:38:24 +0000";
+lastChange = "2021-08-16 00:45:52 +0000";
 layers = (
 {
 anchors = (
@@ -74360,6 +74362,16 @@ z = -10;
 P = {
 A = -60;
 T = -40;
+a = -40;
+d = -40;
+e = -40;
+g = -30;
+o = -40;
+p = -20;
+s = -40;
+t = -30;
+u = -30;
+y = -30;
 };
 Q = {
 a = -10;
@@ -74379,7 +74391,7 @@ A = -55;
 O = -40;
 T = -40;
 a = -80;
-c = -80;
+c = -10;
 e = -80;
 i = -20;
 l = -10;
@@ -74399,7 +74411,7 @@ V = {
 A = -70;
 };
 W = {
-A = -30;
+A = -27;
 a = -35;
 e = -30;
 o = -30;
@@ -74514,6 +74526,18 @@ z = -20;
 };
 z = {
 a = -20;
+};
+P.ss02 = {
+A = -60;
+T = -30;
+a = -30;
+d = -30;
+e = -30;
+g = -20;
+o = -30;
+p = -20;
+s = -20;
+y = -2;
 };
 };
 "6242D68C-0A25-4F05-8F2A-2075F7C4A210" = {
