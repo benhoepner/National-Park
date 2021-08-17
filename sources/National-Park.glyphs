@@ -1,5 +1,5 @@
 {
-.appVersion = "3095";
+.appVersion = "3097";
 .formatVersion = 3;
 DisplayStrings = (
 "/A.ss02 Aardvark Ablution Acrimonious Adventures Aeolian Africa Agamemnon Ahoy Aileron Ajax Akimbo Altruism America Anecdote Aorta Aptitude Aquarium Arcade Aspartame Attrition Aurelius Avuncular Awning Axminster Ayers Azure Await Aware Afford Attain Answer Actor Abolish",
@@ -62,11 +62,16 @@ name = Uppercase;
 );
 customParameters = (
 {
+disabled = 1;
 name = glyphOrder;
 value = (
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 abcdefghijklmnopqrstuvwxyz
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2021-08-11 14:44:05 +0000";
@@ -534,16 +539,16 @@ axesValues = (
 );
 customParameters = (
 {
-name = typoAscender;
-value = 0;
+name = "Master Icon Glyph Name";
+value = a;
 },
 {
 name = typoAscender;
-value = 0;
+value = 965;
 },
 {
 name = typoDescender;
-value = -170;
+value = -215;
 },
 {
 name = typoLineGap;
@@ -551,27 +556,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 765;
+value = 1086;
 },
 {
 name = winDescent;
-value = 170;
+value = 215;
 },
 {
 name = hheaAscender;
-value = 0;
+value = 965;
 },
 {
 name = hheaDescender;
-value = -170;
+value = -215;
 },
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Master Icon Glyph Name";
-value = a;
 }
 );
 iconName = Light;
@@ -594,7 +595,7 @@ over = -15;
 },
 {
 over = -15;
-pos = -170;
+pos = -200;
 },
 {
 }
@@ -616,24 +617,16 @@ axesValues = (
 );
 customParameters = (
 {
-name = hheaAscender;
-value = 0;
-},
-{
-name = hheaDescender;
-value = -170;
-},
-{
-name = hheaLineGap;
-value = 0;
+name = "Master Icon Glyph Name";
+value = a;
 },
 {
 name = typoAscender;
-value = 0;
+value = 965;
 },
 {
 name = typoDescender;
-value = -170;
+value = -215;
 },
 {
 name = typoLineGap;
@@ -641,15 +634,23 @@ value = 0;
 },
 {
 name = winAscent;
-value = 765;
+value = 1086;
 },
 {
 name = winDescent;
-value = 170;
+value = 215;
 },
 {
-name = "Master Icon Glyph Name";
-value = a;
+name = hheaAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -215;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 guides = (
@@ -676,7 +677,7 @@ over = -15;
 },
 {
 over = -15;
-pos = -170;
+pos = -200;
 },
 {
 }
@@ -704,6 +705,38 @@ customParameters = (
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = typoAscender;
+value = 965;
+},
+{
+name = typoDescender;
+value = -215;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1086;
+},
+{
+name = winDescent;
+value = 215;
+},
+{
+name = hheaAscender;
+value = 965;
+},
+{
+name = hheaDescender;
+value = -215;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 id = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -725,7 +758,7 @@ over = -15;
 },
 {
 over = -15;
-pos = -170;
+pos = -200;
 },
 {
 }
@@ -30352,7 +30385,7 @@ width = 600;
 },
 {
 glyphname = g;
-lastChange = "2021-08-16 00:42:00 +0000";
+lastChange = "2021-08-17 16:29:41 +0000";
 layers = (
 {
 background = {
@@ -30520,9 +30553,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(410,-180,o),
-(492,-95,o),
-(492,52,cs),
+(410,-215,o),
+(492,-130,o),
+(492,17,cs),
 (492,485,ls),
 (492,507,o),
 (474,525,o),
@@ -30544,22 +30577,22 @@ nodes = (
 (378,23,o),
 (411,79,c),
 (415,79,l),
-(415,55,ls),
-(415,-25,o),
-(372,-106,o),
-(268,-106,cs),
-(197,-106,o),
-(163,-73,o),
-(151,-61,cs),
-(135,-45,o),
-(134,-32,o),
-(109,-32,cs),
-(90,-32,o),
-(72,-50,o),
-(72,-72,cs),
-(72,-118,o),
-(151,-180,o),
-(268,-180,cs)
+(415,20,ls),
+(415,-60,o),
+(372,-141,o),
+(268,-141,cs),
+(197,-141,o),
+(163,-108,o),
+(151,-96,cs),
+(135,-80,o),
+(134,-67,o),
+(109,-67,cs),
+(90,-67,o),
+(72,-85,o),
+(72,-107,cs),
+(72,-153,o),
+(151,-215,o),
+(268,-215,cs)
 );
 },
 {
@@ -44083,7 +44116,7 @@ unicode = 120;
 },
 {
 glyphname = y;
-lastChange = "2021-08-16 00:45:52 +0000";
+lastChange = "2021-08-17 16:29:17 +0000";
 layers = (
 {
 anchors = (
@@ -44117,24 +44150,24 @@ name = "❌";
 {
 closed = 1;
 nodes = (
-(164,-88,o),
-(151,-105,o),
-(131,-105,cs),
-(114,-105,o),
-(102,-93,o),
-(91,-82,cs),
-(85,-76,o),
-(77,-71,o),
-(65,-71,cs),
-(43,-71,o),
-(30,-89,o),
-(30,-110,cs),
-(30,-148,o),
-(74,-185,o),
-(129,-185,cs),
-(175,-185,o),
-(219,-159,o),
-(251,-75,cs),
+(165,-118,o),
+(151,-135,o),
+(131,-135,cs),
+(114,-135,o),
+(102,-123,o),
+(91,-112,cs),
+(85,-106,o),
+(77,-101,o),
+(65,-101,cs),
+(43,-101,o),
+(30,-119,o),
+(30,-140,cs),
+(30,-178,o),
+(74,-215,o),
+(129,-215,cs),
+(175,-215,o),
+(221,-191,o),
+(251,-105,cs),
 (456,471,ls),
 (467,501,o),
 (451,525,o),
@@ -44142,9 +44175,9 @@ nodes = (
 name = "❌";
 }),
 (402,525,o),
-(389,514,o),
+(388,514,o),
 (383,499,cs),
-(176,-57,ls)
+(176,-87,ls)
 );
 }
 );
