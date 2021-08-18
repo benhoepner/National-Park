@@ -5,3 +5,8 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
+Andrea Herstowski, Ben Hoepner, The University of Kansas.
+
+Andrea Herstowski, aherstowski@ku.edu
+Ben Hoepner, hoepnerben@gmail.com
+The University of Kansas.
