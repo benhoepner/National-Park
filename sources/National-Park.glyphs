@@ -8,7 +8,8 @@ the quick brown fox jumpgbds over the lazy dog.!",
 "/f_f_i",
 "ııi",
 j,
-M
+M,
+"ıi"
 );
 axes = (
 {
@@ -38854,7 +38855,7 @@ unicode = 293;
 {
 export = 0;
 glyphname = idotless;
-lastChange = "2021-08-24 19:37:43 +0000";
+lastChange = "2021-08-26 17:02:56 +0000";
 layers = (
 {
 anchors = (
@@ -38954,10 +38955,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(72,12,ls),
-(72,-1,o),
-(81,-10,o),
-(94,-10,cs),
 (107,-10,o),
 (117,-1,o),
 (117,12,cs),
@@ -38967,7 +38964,11 @@ nodes = (
 (94,525,cs),
 (81,525,o),
 (72,516,o),
-(72,503,cs)
+(72,503,cs),
+(72,12,ls),
+(72,-1,o),
+(81,-10,o),
+(94,-10,cs)
 );
 }
 );
