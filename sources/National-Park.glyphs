@@ -4,7 +4,7 @@
 DisplayStrings = (
 "ę",
 C,
-01H2H3H4H5H8H6H56H9H,
+01H2H3H4H5H8H6H5H6H9H,
 "3H6H/six.001",
 "335869"
 );
@@ -62606,7 +62606,7 @@ unicode = 55;
 {
 export = 0;
 glyphname = nine;
-lastChange = "2021-10-05 19:00:46 +0000";
+lastChange = "2021-10-05 19:01:40 +0000";
 layers = (
 {
 background = {
@@ -62975,7 +62975,7 @@ nodes = (
 );
 }
 );
-width = 589;
+width = 611;
 },
 {
 associatedMasterId = "65988B1E-DCE2-4AC3-A6FF-994A1050067D";
