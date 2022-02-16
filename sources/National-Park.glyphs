@@ -43526,7 +43526,7 @@ unicode = 318;
 },
 {
 glyphname = lcommaaccent;
-lastChange = "2022-02-03 22:42:59 +0000";
+lastChange = "2022-02-07 17:35:48 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -56119,7 +56119,7 @@ unicode = 122;
 },
 {
 glyphname = zacute;
-lastChange = "2022-02-03 22:20:21 +0000";
+lastChange = "2022-02-07 17:35:48 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -56141,11 +56141,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (169,0);
+pos = (159,0);
 ref = acutecomb;
 }
 );
-width = 462;
+width = 442;
 },
 {
 layerId = "CF015620-3929-45BF-A6BE-C5D8AFCEAD19";
