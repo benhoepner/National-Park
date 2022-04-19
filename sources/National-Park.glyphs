@@ -39,7 +39,9 @@ AÁÀÂ",
 
 ̣ẠẸỊỌỤỴạ/adotbelow.ss01 ẹịọụỵỢỰợựẶặ/abrevedotbelow.ss01 ẬỆỘậ/acircumflexdotbelow.ss01 ệộ
 
-ƠỚỢỜỞỠơớợờở/tildecomb.narrow ĨỠĩỡỡ"
+ƠỚỢỜỞỠơớợờở/tildecomb.narrow ĨỠĩỡỡ",
+"/A.ss02 A
+/B.ss02 B/E.ss02/G.ss02/H.ss02/L.ss02/M.ss02/N.ss02/O.ss02/P.ss02/R.ss02/W.ss02/a.ss01/a.ss02/aacute.loclVIT.ss01/aacute.ss01/abreve.loclVIT.ss01/abreve.ss01/abrevedotbelow.ss01/acircumflex.loclVIT.ss01/acircumflex.ss01/acircumflexdotbelow.ss01/adblgrave.ss01/adieresis.ss01/adotbelow.ss01/agrave.loclVIT.ss01/agrave.ss01/ahookabove.ss01/ainvertedbreve.ss01/amacron.ss01/aogonek.ss01/aring.ss01/aringacute.ss01/atilde.loclVIT.ss01/atilde.ss01/ae.ss01/aeacute.ss01/f.ss02/j.ss02/jdotless.ss02/t.ss02/y.ss02/comma.ss05/semicolon.ss05/quotesinglbase.ss05/quotedblbase.ss05/quotedblleft.ss05/quotedblright.ss05/quoteleft.ss05/quoteright.ss05/ampersand.ss06/registered.ss06/peseta.ss02/won.ss01/percent.ss06/apostrophemod.ss05"
 );
 axes = (
 {
@@ -6951,7 +6953,7 @@ name = "💚";
 );
 }
 );
-width = 599;
+width = 600;
 },
 {
 anchors = (
