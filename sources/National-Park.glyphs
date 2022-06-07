@@ -1,5 +1,5 @@
 {
-.appVersion = "3124";
+.appVersion = "3131";
 .formatVersion = 3;
 DisplayStrings = (
 "HAHBRNNAMEILHFAHHDCCCCCOCCSCGQJ S BPR
@@ -41,7 +41,8 @@ AÁÀÂ",
 
 ƠỚỢỜỞỠơớợờở/tildecomb.narrow ĨỠĩỡỡ",
 "/A.ss02 A
-/B.ss02 B/E.ss02/G.ss02/H.ss02/L.ss02/M.ss02/N.ss02/O.ss02/P.ss02/R.ss02/W.ss02/a.ss01/a.ss02/aacute.loclVIT.ss01/aacute.ss01/abreve.loclVIT.ss01/abreve.ss01/abrevedotbelow.ss01/acircumflex.loclVIT.ss01/acircumflex.ss01/acircumflexdotbelow.ss01/adblgrave.ss01/adieresis.ss01/adotbelow.ss01/agrave.loclVIT.ss01/agrave.ss01/ahookabove.ss01/ainvertedbreve.ss01/amacron.ss01/aogonek.ss01/aring.ss01/aringacute.ss01/atilde.loclVIT.ss01/atilde.ss01/ae.ss01/aeacute.ss01/f.ss02/j.ss02/jdotless.ss02/t.ss02/y.ss02/comma.ss05/semicolon.ss05/quotesinglbase.ss05/quotedblbase.ss05/quotedblleft.ss05/quotedblright.ss05/quoteleft.ss05/quoteright.ss05/ampersand.ss06/registered.ss06/peseta.ss02/won.ss01/percent.ss06/apostrophemod.ss05"
+/B.ss02 B/E.ss02/G.ss02/H.ss02/L.ss02/M.ss02/N.ss02/O.ss02/P.ss02/R.ss02/W.ss02/a.ss01/a.ss02/aacute.loclVIT.ss01/aacute.ss01/abreve.loclVIT.ss01/abreve.ss01/abrevedotbelow.ss01/acircumflex.loclVIT.ss01/acircumflex.ss01/acircumflexdotbelow.ss01/adblgrave.ss01/adieresis.ss01/adotbelow.ss01/agrave.loclVIT.ss01/agrave.ss01/ahookabove.ss01/ainvertedbreve.ss01/amacron.ss01/aogonek.ss01/aring.ss01/aringacute.ss01/atilde.loclVIT.ss01/atilde.ss01/ae.ss01/aeacute.ss01/f.ss02/j.ss02/jdotless.ss02/t.ss02/y.ss02/comma.ss05/semicolon.ss05/quotesinglbase.ss05/quotedblbase.ss05/quotedblleft.ss05/quotedblright.ss05/quoteleft.ss05/quoteright.ss05/ampersand.ss06/registered.ss06/peseta.ss02/won.ss01/percent.ss06/apostrophemod.ss05",
+"/macroncomb.case/dieresiscomb.case Ȫ/tildecomb.case Ȭĥ"
 );
 axes = (
 {
@@ -17516,7 +17517,7 @@ unicode = 214;
 },
 {
 glyphname = Odieresismacron;
-lastChange = "2022-04-15 19:23:53 +0000";
+lastChange = "2022-06-07 14:38:08 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -17529,7 +17530,7 @@ pos = (145,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (156,227);
+pos = (156,197);
 ref = macroncomb.case;
 }
 );
@@ -17563,7 +17564,7 @@ pos = (159,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (147,58);
+pos = (147,148);
 ref = macroncomb.case;
 }
 );
@@ -17580,7 +17581,7 @@ pos = (184,0);
 ref = dieresiscomb.case;
 },
 {
-pos = (147,65);
+pos = (147,143);
 ref = macroncomb.case;
 }
 );
@@ -19019,7 +19020,7 @@ width = 666;
 },
 {
 glyphname = Otildemacron;
-lastChange = "2022-04-15 19:26:02 +0000";
+lastChange = "2022-06-07 14:38:23 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -19032,7 +19033,7 @@ pos = (129,0);
 ref = tildecomb.case;
 },
 {
-pos = (156,208);
+pos = (156,198);
 ref = macroncomb.case;
 }
 );
@@ -19083,7 +19084,7 @@ pos = (140,0);
 ref = tildecomb.case;
 },
 {
-pos = (147,110);
+pos = (147,170);
 ref = macroncomb.case;
 }
 );
@@ -40634,7 +40635,7 @@ unicode = 295;
 },
 {
 glyphname = hcircumflex;
-lastChange = "2022-02-01 17:13:56 +0000";
+lastChange = "2022-06-07 14:39:52 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -40644,7 +40645,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (-47,40);
+pos = (-47,38);
 ref = circumflexcomb.case;
 }
 );
@@ -40658,7 +40659,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (-79,205);
+pos = (-79,14);
 ref = circumflexcomb.case;
 }
 );
@@ -40672,7 +40673,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (-72,36);
+pos = (-72,35);
 ref = circumflexcomb.case;
 }
 );
@@ -40686,7 +40687,7 @@ ref = h;
 },
 {
 alignment = -1;
-pos = (-80,120);
+pos = (-80,24);
 ref = circumflexcomb.case;
 }
 );
@@ -44053,7 +44054,7 @@ unicode = 318;
 },
 {
 glyphname = lcommaaccent;
-lastChange = "2022-02-16 19:57:06 +0000";
+lastChange = "2022-06-07 14:22:33 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -93149,7 +93150,7 @@ unicode = 776;
 },
 {
 glyphname = dieresiscomb.case;
-lastChange = "2022-01-26 16:30:56 +0000";
+lastChange = "2022-06-07 14:38:08 +0000";
 layers = (
 {
 anchors = (
@@ -93179,7 +93180,7 @@ pos = (231,700);
 },
 {
 name = top;
-pos = (231,927);
+pos = (231,897);
 }
 );
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -93199,7 +93200,7 @@ pos = (189,700);
 },
 {
 name = top;
-pos = (189,758);
+pos = (189,848);
 }
 );
 layerId = "CF015620-3929-45BF-A6BE-C5D8AFCEAD19";
@@ -93220,7 +93221,7 @@ pos = (149,700);
 },
 {
 name = top;
-pos = (149,765);
+pos = (149,843);
 }
 );
 layerId = "0A7BF5CC-8360-449C-B03A-1C2F0CDBB92F";
@@ -97485,7 +97486,7 @@ unicode = 771;
 },
 {
 glyphname = tildecomb.case;
-lastChange = "2022-04-15 18:21:35 +0000";
+lastChange = "2022-06-07 14:38:23 +0000";
 layers = (
 {
 anchors = (
@@ -97515,7 +97516,7 @@ pos = (247,700);
 },
 {
 name = top;
-pos = (247,908);
+pos = (247,898);
 }
 );
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -97556,7 +97557,7 @@ pos = (193,700);
 },
 {
 name = top;
-pos = (193,810);
+pos = (193,870);
 }
 );
 layerId = "0A7BF5CC-8360-449C-B03A-1C2F0CDBB92F";
@@ -98879,7 +98880,7 @@ unicode = 783;
 },
 {
 glyphname = dblgravecomb.case;
-lastChange = "2022-01-26 16:30:56 +0000";
+lastChange = "2022-06-07 14:35:36 +0000";
 layers = (
 {
 anchors = (
@@ -98938,7 +98939,7 @@ layerId = "CF015620-3929-45BF-A6BE-C5D8AFCEAD19";
 shapes = (
 {
 alignment = -1;
-pos = (436,-132);
+pos = (436,-4);
 ref = hungarumlautcomb.case;
 scale = (-1,1);
 }
@@ -98960,7 +98961,7 @@ layerId = "0A7BF5CC-8360-449C-B03A-1C2F0CDBB92F";
 shapes = (
 {
 alignment = -1;
-pos = (403,-89);
+pos = (403,-2);
 ref = hungarumlautcomb.case;
 scale = (-1,1);
 }
