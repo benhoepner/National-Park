@@ -1,49 +1,6 @@
 {
-.appVersion = "3131";
+.appVersion = "3108";
 .formatVersion = 3;
-DisplayStrings = (
-"HAHBRNNAMEILHFAHHDCCCCCOCCSCGQJ S BPR
-KXANVMYXZMWM
-LITE
-SCUO",
-"BBBBAB
-CCCCOC
-DDDDD
-EEEEE
-FFFGFF
-GGGGG
-HIJKLMNO
-PQRSTUV
- WXYZ",
-"alaaaa
-asS
-lbnpqd 
-qpqgocs c eaeso sa goesc
-nnnjifiiiin/f.001 tji 
-rhnmui
-kxyvwnzni",
-"ǼĎǅǅÍÍ/Iacute.loclVIT/Iacute.loclVIT ĬÎȈȈÌ/Igrave.loclVIT ỈȊĪĨ/Jacute ĴĴÓ/Oacute.loclVIT/brevecomb.case ŎŎŎÔÔ/circumflexcomb.case Ô/Ocircumflex.loclVIT/Ocircumflex.loclVIT/Ocircumflex.loclVIT ỐỐỐỒỔỔỖỖ/tildecomb.loclVIT/circumflexcomb_tildecomb ỖȌȌ/gravecomb.case ÒÒ/Ograve.loclVIT/Ograve.loclVIT ỎỎỎƠƠỚỜỞỞỞỠỠŐȎȎȎŌŌǾǾÕÕ/Otilde.loclVIT/Otilde.loclVIT ȬȬŔŖŖȐȐȒȒȒŢŢȚŴŴÝÝÝÝ/Yacute.loclVIT/Yacute.loclVIT/Yacute.loclVIT/Yacute.loclVIT ŶŶŶŶỲỲỲỲ/Ygrave.loclVIT/Ygrave.loclVIT/Ygrave.loclVIT/Ygrave.loclVIT ỶỶỶỶȲȲȲȲỸỸỸỸŹ/aacute.loclVIT.ss01/aacute.loclVIT.ss01/aacute.ss01/aacute.ss01/abreve.loclVIT/abreve.loclVIT.ss01/abreve.loclVIT.ss01/abreve.ss01/abreve.ss01 ắẵ/acircumflex.loclVIT.ss01/acircumflex.loclVIT.ss01/acircumflex.loclVIT.ss01/acircumflex.ss01/acircumflex.ss01/acircumflex.ss01 ấ/adblgrave.ss01/adblgrave.ss01/agrave.loclVIT.ss01/agrave.ss01/ahookabove.ss01/ahookabove.ss01/ahookabove.ss01/ainvertedbreve.ss01/ainvertedbreve.ss01 ā/amacron.ss01/amacron.ss01/amacron.ss01/aring.ss01/aring.ss01/aringacute.ss01 ã/atilde.loclVIT/atilde.loclVIT.ss01/atilde.loclVIT.ss01/atilde.loclVIT.ss01/atilde.ss01/atilde.ss01/atilde.ss01 ǽǽ/aeacute.ss01/aeacute.ss01 ććčççĉĉĉǆǆé/eacute.loclVIT ĕěěê/ecircumflex.loclVIT ếếểễȅẻȇēēẽẽəí/iacute.loclVIT/iacute.loclVIT ĭîȉȉì/igrave.loclVIT/igrave.loclVIT ỉȋīĩ/jacute ĵĵķĺĺļļóó/oacute.loclVIT/oacute.loclVIT ŏŏôôô/ocircumflex.loclVIT/ocircumflex.loclVIT/ocircumflex.loclVIT ốốốốồổổỗỗỗȍȍòò/ograve.loclVIT/ograve.loclVIT ỏỏ̉ỏơớớờởởỡỡőőőȏȏȏōōōōǿõõõõ/otilde.loclVIT/otilde.loclVIT/otilde.loclVIT/otilde.loclVIT ȭȭŕŗȑȓśşŝșẃźźźźžž",
-"/brevecomb_hookabovecomb ̉/horncomb.case",
-"a/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ̈/dieresiscomb.case/dieresiscomb.narrow ̇/dotaccentcomb.case ̀/gravecomb.case/gravecomb.loclVIT/gravecomb.loclVIT.narrow/gravecomb.narrow ́/acutecomb.case/acutecomb.loclVIT/acutecomb.loclVIT.narrow/acutecomb.narrow ̋/hungarumlautcomb.case/caroncomb.alt ̂/circumflexcomb.case/circumflexcomb.loclVIT/circumflexcomb.narrow ̌/caroncomb.case ̆/brevecomb.case/brevecomb.loclVIT/brevecomb.narrow ̊/ringcomb.case ̃/tildecomb.case/tildecomb.loclVIT/tildecomb.narrow ̄/macroncomb.case/macroncomb.narrow ̉/hookabovecomb.case ̏/dblgravecomb.case/dblgravecomb.narrow ̑/breveinvertedcomb.case/breveinvertedcomb.narrow ̒/commaturnedabovecomb.case ̛/horncomb.case ̧̣̤̦/cedillacomb.case ̵̨̮̱¨˙`´˝ˆˇ˘˚˜¯¸˛",
-"CĈ̉/hookabovecomb.case Ẻ/breveinvertedcomb.case Ȇ/macroncomb.case Ē/tildecomb.case ẼGĜ
-
-aáàâăāȁäã
-eéèê
-
-AÁÀÂ",
-"/circumflexcomb_tildecomb",
-"A/A.ss02 Á/Aacute.loclVIT Ă/Abreve.loclVIT ẮẶẰẲẴÂ/Acircumflex.loclVIT ẤẬẦẨẪȀÄẠÀ/Agrave.loclVIT ẢȂĀĄÅǺÃ/Atilde.loclVIT ÆǼB/B.ss02 C/C.001 ĆČÇĈĊDǄÐĎĐǅE/E.001/E.ss02 É/Eacute.loclVIT ĔĚÊ/Ecircumflex.loclVIT ẾỆỀỂỄȄËĖẸÈ/Egrave.loclVIT ẺȆĒĘẼƏF/F.001 G/G.ss02 ĞǦĜĢĠH/H.ss02 ĦĤIĲ/IJ.001 Í/Iacute.loclVIT ĬÎȈÏİỊÌ/Igrave.loclVIT ỈȊĪĮĨJ/Jacute ĴKĶL/L.ss02 ǇĹĽĻĿǈŁM/M.ss02 N/N.ss02 ǊŃŇŅǋÑŊO/O.ss02 Ó/Oacute.loclVIT ŎÔ/Ocircumflex.loclVIT ỐỘỒỔỖȌÖȪȰỌÒ/Ograve.loclVIT ỎƠỚỢỜỞỠŐȎŌǪØǾÕ/Otilde.loclVIT ȬŒP/P.ss02 ÞQR/R.ss02 ŔŘŖȐȒSŚŠŞŜȘẞTŦŤŢȚUÚ/Uacute.loclVIT ŬÛȔÜỤÙ/Ugrave.loclVIT ỦƯỨỰỪỬỮŰȖŪŲŮŨVW/W.ss02 ẂŴẄẀXYÝ/Yacute.loclVIT ŶŸỴỲ/Ygrave.loclVIT ỶȲỸZŹŽŻa/a.ss01/a.ss02 á/aacute.loclVIT/aacute.loclVIT.ss01/aacute.ss01 ă/abreve.loclVIT/abreve.loclVIT.ss01/abreve.ss01 ắặ/abrevedotbelow.ss01 ằẳẵâ/acircumflex.loclVIT/acircumflex.loclVIT.ss01/acircumflex.ss01 ấậ/acircumflexdotbelow.ss01 ầẩẫȁ/adblgrave.ss01 ä/adieresis.ss01 ạ/adotbelow.ss01 à/agrave.loclVIT/agrave.loclVIT.ss01/agrave.ss01 ả/ahookabove.ss01 ȃ/ainvertedbreve.ss01 ā/amacron.ss01 ą/aogonek.ss01 å/aring.ss01 ǻ/aringacute.ss01 ã/atilde.loclVIT/atilde.loclVIT.ss01/atilde.ss01 æ/ae.ss01 ǽ/aeacute.ss01 bcćčçĉċdðďđǆeé/eacute.loclVIT ĕěê/ecircumflex.loclVIT ếệềểễȅëėẹè/egrave.loclVIT ẻȇēęẽəf/f.001/f.ss02 gğǧĝģġhħĥiıí/iacute.loclVIT ĭîȉï/idotaccent ịì/igrave.loclVIT ỉȋĳīįĩj/j.ss02 ȷ/jdotless.ss02/jacute ĵkķĸlĺľļŀǉłmnńňņǌñŋoó/oacute.loclVIT ŏô/ocircumflex.loclVIT ốộồổỗȍöȫȱọò/ograve.loclVIT ỏơớợờởỡőȏōǫøǿõ/otilde.loclVIT ȭœpþqrŕřŗȑȓsśšşŝșßt/t.ss02 ŧťţțuú/uacute.loclVIT ŭûȕüụù/ugrave.loclVIT ủưứựừửữűȗūųůũvwẃŵẅẁxy/y.ss02 ý/yacute.loclVIT ŷÿỵỳ/ygrave.loclVIT ỷȳỹzźžż/a_germandbls/f_f/f_f_i/f_f_l ﬁﬂ/idieresis_idieresis ªºΔΩμπ0123456789/zero.lf/zero.tf/one.lf/one.001/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/nine.001/zero.tf.zero ⁄½¼¾¹²³⁴/.null \015  ⟨⟩.,/comma.ss05 :;/semicolon.ss05 …!¡?¿·/periodcentered.case/periodcentered.loclCAT/periodcentered.loclCAT.case •*#/numbersign.001///backslash -­–—‐_(){}[]‚/quotesinglbase.ss05 „/quotedblbase.ss05 “/quotedblleft.ss05 ”/quotedblright.ss05 ‘/quoteleft.ss05 ’/quoteright.ss05 «»‹›\"'ƒ@&/ampersand.ss06 ¶§©®/registered.ss06 ™°′″|¦†‡№₵¢₡¤$₫€₣₲₭₤₺₼₦₧/peseta.ss02 ₱₽₹£₩/won.ss01 ¥∙⁒∕+−×÷=≠><≥≤±≈~¬^∞∫∏∑√µ∂%/percent.ss06 ‰↑↗→↘↓↙←↖◌◊/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb ̈/dieresiscomb.case/dieresiscomb.narrow ̇/dotaccentcomb.case ̀/gravecomb.case/gravecomb.loclVIT/gravecomb.loclVIT.narrow/gravecomb.narrow ́/acutecomb.case/acutecomb.loclVIT/acutecomb.loclVIT.narrow/acutecomb.narrow ̋/hungarumlautcomb.case/caroncomb.alt ̂/circumflexcomb.case/circumflexcomb.loclVIT/circumflexcomb.narrow ̌/caroncomb.case ̆/brevecomb.case/brevecomb.loclVIT/brevecomb.narrow ̊/ringcomb.case ̃/tildecomb.case/tildecomb.loclVIT/tildecomb.narrow ̄/macroncomb.case/macroncomb.narrow ̉/hookabovecomb.case ̏/dblgravecomb.case/dblgravecomb.narrow ̑/breveinvertedcomb.case/breveinvertedcomb.narrow ̒/commaturnedabovecomb.case ̛/horncomb.case ̧̣̤̦/cedillacomb.case ̵̨̮̱¨˙`´˝ˆˇ˘˚˜¯¸˛ʼ/apostrophemod.ss05 ʺʹ",
-"̋/hungarumlautcomb.case ˝ŐŰőű
-
-̇/dotaccentcomb.case ˙ĊĖĠİȰŻċėġ/idotaccent ȱż
-
-̣ẠẸỊỌỤỴạ/adotbelow.ss01 ẹịọụỵỢỰợựẶặ/abrevedotbelow.ss01 ẬỆỘậ/acircumflexdotbelow.ss01 ệộ
-
-ƠỚỢỜỞỠơớợờở/tildecomb.narrow ĨỠĩỡỡ",
-"/A.ss02 A
-/B.ss02 B/E.ss02/G.ss02/H.ss02/L.ss02/M.ss02/N.ss02/O.ss02/P.ss02/R.ss02/W.ss02/a.ss01/a.ss02/aacute.loclVIT.ss01/aacute.ss01/abreve.loclVIT.ss01/abreve.ss01/abrevedotbelow.ss01/acircumflex.loclVIT.ss01/acircumflex.ss01/acircumflexdotbelow.ss01/adblgrave.ss01/adieresis.ss01/adotbelow.ss01/agrave.loclVIT.ss01/agrave.ss01/ahookabove.ss01/ainvertedbreve.ss01/amacron.ss01/aogonek.ss01/aring.ss01/aringacute.ss01/atilde.loclVIT.ss01/atilde.ss01/ae.ss01/aeacute.ss01/f.ss02/j.ss02/jdotless.ss02/t.ss02/y.ss02/comma.ss05/semicolon.ss05/quotesinglbase.ss05/quotedblbase.ss05/quotedblleft.ss05/quotedblright.ss05/quoteleft.ss05/quoteright.ss05/ampersand.ss06/registered.ss06/peseta.ss02/won.ss01/percent.ss06/apostrophemod.ss05",
-"/macroncomb.case/dieresiscomb.case Ȫ/tildecomb.case Ȭĥ"
-);
 axes = (
 {
 name = Weight;
