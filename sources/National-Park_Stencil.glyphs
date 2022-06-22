@@ -7,7 +7,9 @@ r,
 "ttŧ",
 "ŧ",
 k,
-"kĸ"
+"kĸ",
+A,
+PAKHE
 );
 axes = (
 {
@@ -45935,7 +45937,7 @@ unicode = 529;
 },
 {
 glyphname = rinvertedbreve;
-lastChange = "2022-06-22 01:15:22 +0000";
+lastChange = "2022-06-22 12:28:40 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
