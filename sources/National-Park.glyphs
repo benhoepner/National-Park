@@ -37,6 +37,11 @@ value = 1;
 {
 name = "Enforce Compatibility Check";
 value = 1;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2021-08-11 14:44:05 +0000";
@@ -104186,13 +104191,31 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Andrea Herstowski";
-},
-{
-language = dflt;
-value = "Ben Hoepner";
+value = "Andrea Herstowski, Ben Hoepner";
 }
 );
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2020 The Geologica Project Authors (https://github.com/monokromskriftforlag/geologisk)";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 settings = {
