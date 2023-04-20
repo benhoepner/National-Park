@@ -64030,7 +64030,9 @@ metricLeft = nine;
 metricRight = nine;
 },
 {
+color = 0;
 glyphname = fraction;
+lastChange = "2023-04-20 00:50:47 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -64052,7 +64054,9 @@ width = 600;
 unicode = 8260;
 },
 {
+color = 0;
 glyphname = onehalf;
+lastChange = "2023-04-20 00:50:47 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -64074,7 +64078,9 @@ width = 600;
 unicode = 189;
 },
 {
+color = 0;
 glyphname = onequarter;
+lastChange = "2023-04-20 00:50:47 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -64096,7 +64102,9 @@ width = 600;
 unicode = 188;
 },
 {
+color = 0;
 glyphname = threequarters;
+lastChange = "2023-04-20 00:50:47 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -104209,7 +104217,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2020 The Geologica Project Authors (https://github.com/monokromskriftforlag/geologisk)";
+value = "Copyright 2021 The National Park Project Authors (https://github.com/benhoepner/National-Park)";
 }
 );
 },
