@@ -1,5 +1,6 @@
 sources:
-    - National-Park.glyphs
+    - NationalPark.glyphs
 familyName: National Park
 outputDir: "../fonts"
+buildOTF: False
 
