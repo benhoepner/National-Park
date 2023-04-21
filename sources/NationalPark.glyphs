@@ -320,6 +320,12 @@ sub ae by ae.ss01;
 sub aeacute by aeacute.ss01;
 sub f by f.ss01;
 ";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
 tag = ss01;
 },
 {
