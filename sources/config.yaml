@@ -1,5 +1,4 @@
 sources:
-    - National-Park.glyphs
-familyName: National Park
-outputDir: "../fonts"
-
+    - NationalPark.glyphs
+familyName: "National Park"
+buildOTF: False
