@@ -99104,7 +99104,7 @@ width = 225;
 },
 {
 glyphname = dotbelowcomb;
-lastChange = "2022-04-15 16:22:23 +0000";
+lastChange = "2023-06-14 14:01:13 +0000";
 layers = (
 {
 anchors = (
@@ -99194,6 +99194,7 @@ width = 117;
 }
 );
 unicode = 803;
+changeCount = 8;
 },
 {
 glyphname = dotbelowcomb.case;
