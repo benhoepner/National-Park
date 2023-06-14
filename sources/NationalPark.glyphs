@@ -2,13 +2,35 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"̱̄¯",
-"/strokelongcomb.case HĦH",
-abcdefghijklmnopqrstuvwxyz,
-"/comma.ss05/semicolon.ss05/quotesinglbase.ss05/quotedblbase.ss05/quotedblleft.ss05/quotedblright.ss05/quoteleft.ss05 ’&",
-"aā",
-"ậ",
-"%/percent.ss06"
+"HH/Placeholder HO/Placeholder OOFAF GAG
+A/Placeholder A B/Placeholder B C/Placeholder C D/Placeholder D E/Placeholder E F/Placeholder F G/Placeholder G H/Placeholder H I/Placeholder I  J/Placeholder J K/Placeholder K L/Placeholder L M/Placeholder M N/Placeholder N O/Placeholder O P/Placeholder P Q/Placeholder Q R/Placeholder R S/Placeholder S T/Placeholder T U/Placeholder U V/Placeholder V W/Placeholder W X/Placeholder X Y/Placeholder Y Z/Placeholder Z HH/Placeholder HO/Placeholder OO
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+ADD AFAIK AGRADO ALTAR ALVARO AMAYA ARVO AUSTRAL AVATAR AVIÓN AWARD AYUDA AYUNO BAOARLEY CHERVIL FALAZ FAMILY FAVOR FOLD FOSFORO HOYO KALE KELLOGS KILO KUNST LONDRES LYCHEE LYON MARVELOUS MONTH MUG MY OVOIDE OXATAIL OXO PAIN PATO PIZZA POINT RAYA ROTO RYAN SQUASH SXS TAIWAN TALL TARA TEMPERTURE TERMO TÌNH TIRO TOFU TOMATO TUVO TWARDOCK TWOMBLI UPPUMA VACA VANILLA VARIAR VELOCIDAD VIAJAR VIENE VOLCAN WALKING WALS WC WD WHEAT WINSTON WONDER WULC XERGIS XEROX YALE YEYO YIN YOGURT YOU ZUCCHINI ZWEIBACK NGƯỜI THẤY VƯƠNG TRỜI
+
+VẬY CHẠY ĐỨT ỚT THƯƠNG TẤY ",
+"nn/Placeholder no/Placeholder oo HH/Placeholder HO/Placeholder OO
+o.,:;…!¡?¿nn?·•*#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­–—‐_o‚„
+“”‘’«»‹›\"'⟨⟩@",
+"HH0H1HH2HH3H
+HH4HH5HH6HH
+HH7H8HH9HH/zero.lf 
+0/Placeholder 0 1/Placeholder 1 2/Placeholder 2 3/Placeholder 3 4/Placeholder 4 5/Placeholder 5 6/Placeholder 6 7/Placeholder 7 8/Placeholder 8 9/Placeholder 9
+012347507647989 
+/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf 
+nn/Placeholder no/Placeholder oo",
+"a/Placeholder a b/Placeholder b c/Placeholder c d/Placeholder d e/Placeholder e f/Placeholder f g/Placeholder g h/Placeholder h i/Placeholder i jjj k/Placeholder k l/Placeholder l m/Placeholder m n/Placeholder n o/Placeholder o p/Placeholder p q/Placeholder q r/Placeholder r s/Placeholder s t/Placeholder t u/Placeholder u v/Placeholder v w/Placeholder w x/Placeholder x y/Placeholder y z/Placeholder z
+nn/Placeholder no/Placeholder oo
+
+abcdefghijklmnopqrstuvwxyz
+
+fear fall kilo long ovoide want wind oxo zapato
+
+Twombli Tgmaiwan Taiwan Tomato Temperture Tiro Twardock Walking Wonder Wc Wd Wrcnder You Family Fear Furor Vocal Viajar Zusam Pearl Point Pain Ayuda godq obp
+Kilo Londres Leon Lio Month Lyon Tốt
+
+Thương Tốt tất Nhất Vồng Đứng Bứt Đốc kỵ. người Ngưỡng 4"
 );
 axes = (
 {
@@ -19282,7 +19304,7 @@ unicode = 338;
 },
 {
 glyphname = P;
-lastChange = "2022-01-26 16:30:56 +0000";
+lastChange = "2023-06-14 16:13:54 +0000";
 layers = (
 {
 anchors = (
@@ -47239,7 +47261,9 @@ unicode = 111;
 },
 {
 glyphname = oacute;
-lastChange = "2022-01-26 16:30:56 +0000";
+kernLeft = o;
+kernRight = o;
+lastChange = "2023-06-14 16:12:24 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -47298,7 +47322,8 @@ unicode = 243;
 },
 {
 glyphname = oacute.loclVIT;
-lastChange = "2022-01-26 16:30:56 +0000";
+kernLeft = o;
+lastChange = "2023-06-14 16:12:53 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -47415,7 +47440,8 @@ unicode = 335;
 },
 {
 glyphname = ocircumflex;
-lastChange = "2022-01-26 16:30:56 +0000";
+kernLeft = o;
+lastChange = "2023-06-14 16:13:02 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -47474,7 +47500,8 @@ unicode = 244;
 },
 {
 glyphname = ocircumflex.loclVIT;
-lastChange = "2022-01-26 16:30:56 +0000";
+kernLeft = o;
+lastChange = "2023-06-14 16:13:03 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -49334,7 +49361,9 @@ unicode = 557;
 },
 {
 glyphname = oe;
-lastChange = "2022-01-26 16:30:56 +0000";
+kernLeft = o;
+kernRight = e;
+lastChange = "2023-06-14 16:12:40 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -65099,9 +65128,9 @@ metricLeft = one;
 metricRight = one;
 },
 {
-color = 9;
+color = 0;
 glyphname = one.001;
-lastChange = "2022-01-26 16:30:56 +0000";
+lastChange = "2023-06-14 16:07:07 +0000";
 layers = (
 {
 background = {
@@ -65744,7 +65773,9 @@ width = 600;
 unicode = 190;
 },
 {
+color = 0;
 glyphname = onesuperior;
+lastChange = "2023-06-14 16:07:14 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -65788,7 +65819,9 @@ metricRight = one;
 unicode = 185;
 },
 {
+color = 0;
 glyphname = twosuperior;
+lastChange = "2023-06-14 16:07:14 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -65832,7 +65865,9 @@ metricRight = two;
 unicode = 178;
 },
 {
+color = 0;
 glyphname = threesuperior;
+lastChange = "2023-06-14 16:07:14 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -65876,7 +65911,9 @@ metricRight = three;
 unicode = 179;
 },
 {
+color = 0;
 glyphname = foursuperior;
+lastChange = "2023-06-14 16:07:14 +0000";
 layers = (
 {
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -104578,7 +104615,7 @@ a = -40;
 d = -40;
 e = -40;
 g = -30;
-o = -40;
+o = -10;
 p = -20;
 s = -40;
 t = -30;
