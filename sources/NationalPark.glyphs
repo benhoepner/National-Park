@@ -45,7 +45,8 @@ kxvwyz",
 "/_pathCurrencyDiagLong",
 "ıįjǉjjǌŋ/f_f_i ﬁ₵₡",
 t,
-t
+t,
+J
 );
 axes = (
 {
@@ -119,7 +120,6 @@ feature ordn;
 feature case;
 feature zero;
 feature ss01;
-feature ss02;
 feature ss05;
 feature ss06;
 ";
@@ -375,6 +375,7 @@ sub atilde by atilde.ss01;
 sub ae by ae.ss01;
 sub aeacute by aeacute.ss01;
 sub ampersand by ampersand.ss01;
+sub peseta by peseta.ss01;
 sub won by won.ss01;
 ";
 labels = (
@@ -384,19 +385,6 @@ value = Cursive;
 }
 );
 tag = ss01;
-},
-{
-automatic = 1;
-code = "sub y by y.ss02;
-sub peseta by peseta.ss02;
-";
-labels = (
-{
-language = dflt;
-value = "Flat endings";
-}
-);
-tag = ss02;
 },
 {
 automatic = 1;
