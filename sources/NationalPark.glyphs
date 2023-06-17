@@ -40192,7 +40192,7 @@ width = 204;
 },
 {
 glyphname = idotbelow;
-lastChange = "2023-06-15 21:27:03 +0000";
+lastChange = "2023-06-17 20:39:08 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -40240,11 +40240,11 @@ shapes = (
 ref = i;
 },
 {
-pos = (56,0);
+pos = (51,0);
 ref = dotbelowcomb;
 }
 );
-width = 227;
+width = 217;
 }
 );
 unicode = 7883;
