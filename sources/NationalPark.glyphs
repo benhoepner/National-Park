@@ -97747,11 +97747,10 @@ width = 357;
 instances = (
 {
 axesValues = (
-758.001
+200
 );
 instanceInterpolations = {
-"6242D68C-0A25-4F05-8F2A-2075F7C4A210" = 0.86;
-"CF015620-3929-45BF-A6BE-C5D8AFCEAD19" = 0.14;
+"3D52442A-254C-4C79-B742-A98FD72DF947" = 1;
 };
 name = ExtraLight;
 weightClass = 200;
