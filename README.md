@@ -1,6 +1,31 @@
 # National Park
 
-The National Park typeface is designed to mimic National Park Service signage carved into wood using a router bit. 
+The letterforms found on the wooden signage at the Rocky Mountain National Park inspired the creation of the National Park Typeface. 
+
+The letters on these wooden trail and directional signs are a system of paths, points, and curves that a router follows. The router’s "bit" follows the path and gives the letters its stroke weight or thickness when engraving a sign. Our National Park Typeface walks along the path of both honoring the quirky nature of the forms being created by a router bit and optimizing the forms to work in a variety of sizes and languages for print, web, and mobile platforms. 
+
+add image/s
+
+The design of each character begins with a vector skeleton, represented by a series of coordinates that a router would typically interpret and carve into a wooden sign. From there adjustments were made to each skeleton to ensure comfortable legibility at different weights, and we also incorporate optical adjustments where the capabilities of an analog router falls short. The result is a typeface that stays true to its unique inspiration, maintaining its inviting warmth and distinctive character. It can be effectively utilized across a wide range of applications while preserving the essence that makes it truly special.
+
+National Park is offered in 6 weights/masters (Extra Light, Light, Regular, Medium, SemiBold, Bold and Extra Bold and a variable version that bridges the gap between weights.  
+
+Character set….(need to add)
+
+To contribute, see github.com/googlefonts/XXXXXXX
+
+## About
+
+Digitizing this charming router-carved type of US National Parks and designing National Park is our way to document, archive, and celebrate this lettering while making it accessible for all to use. The first version of the National Park typeface was released in 2018. In 2023, the family was completely redrawn by Andrea Herstowski and Ben Hoepner and became part of the Google Font Library.
+
+## Designers
+
+Andrea Herstowski lives, teaches, and works in the university town of Lawrence, Kansas. Teaches typography, design, and professional practice at the University of Kansas. Her Typographic Universe course introduces design students to the vast world of type design. Before joining KU she worked as a graphic designer in San Francisco, Basel, and Frankfurt. https://andreaherstowski.xyz
+ 
+Ben Hoepner is a designer drawn toward type design, publication, and arts and cultural heritage work.
+As a Visual Communication Design undergraduate student at the University of Kansas. Ben was instrumental in developing National Park for the Google Library. 
+
+Jeremy Shellhorn is a designer, illustrator, and educator. He runs the DO (Design Outside) Studio and teaches Visual Communication Design at the University of Kansas. As a designer, he specializes in the outdoor industry, works as “designer-in-residence” at Tenkara USA, and has been collaborating with Rocky Mountain National Park since 2012. https://jeremyshellhorn.com
 
 ## References
 
@@ -9,8 +34,8 @@ The source materialfor this revival includes [photos and rubbings](https://githu
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at
-http://scripts.sil.org/OFL
+This license is available with a FAQ at
+https://scripts.sil.org/OFL
 
 ## Repository Layout
 
