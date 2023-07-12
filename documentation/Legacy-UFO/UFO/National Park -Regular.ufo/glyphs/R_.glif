@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="2">
+	<advance width="629"/>
+	<unicode hex="0052"/>
+	<anchor x="316" y="0" name="bottom"/>
+	<anchor x="305" y="700" name="top"/>
+	<outline>
+		<contour>
+			<point x="121" y="-10" type="curve" smooth="yes"/>
+			<point x="144" y="-10"/>
+			<point x="162" y="8"/>
+			<point x="162" y="31" type="curve" smooth="yes"/>
+			<point x="162" y="700" type="line"/>
+			<point x="121" y="700" type="line" smooth="yes"/>
+			<point x="98" y="700"/>
+			<point x="80" y="682"/>
+			<point x="80" y="659" type="curve" smooth="yes"/>
+			<point x="80" y="31" type="line" smooth="yes"/>
+			<point x="80" y="8"/>
+			<point x="98" y="-10"/>
+		</contour>
+		<contour>
+			<point x="125" y="328" type="line"/>
+			<point x="374" y="328" type="line" smooth="yes"/>
+			<point x="484" y="328"/>
+			<point x="570" y="404"/>
+			<point x="570" y="513" type="curve" smooth="yes"/>
+			<point x="570" y="623"/>
+			<point x="483" y="700"/>
+			<point x="367" y="700" type="curve" smooth="yes"/>
+			<point x="121" y="700" type="line"/>
+			<point x="121" y="622" type="line"/>
+			<point x="373" y="622" type="line" smooth="yes"/>
+			<point x="442" y="622"/>
+			<point x="489" y="578"/>
+			<point x="489" y="513" type="curve" smooth="yes"/>
+			<point x="489" y="450"/>
+			<point x="446" y="406"/>
+			<point x="382" y="406" type="curve" smooth="yes"/>
+			<point x="125" y="406" type="line"/>
+		</contour>
+		<contour>
+			<point x="538" y="-10" type="curve" smooth="yes"/>
+			<point x="561" y="-10"/>
+			<point x="579" y="9"/>
+			<point x="579" y="31" type="curve" smooth="yes"/>
+			<point x="579" y="38"/>
+			<point x="578" y="44"/>
+			<point x="575" y="49" type="curve" smooth="yes"/>
+			<point x="427" y="354" type="line"/>
+			<point x="341" y="354" type="line"/>
+			<point x="502" y="13" type="line" smooth="yes"/>
+			<point x="509" y="-1"/>
+			<point x="523" y="-10"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

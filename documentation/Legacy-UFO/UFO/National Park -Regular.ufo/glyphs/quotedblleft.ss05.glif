@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft.ss05" format="2">
+	<advance width="365"/>
+	<outline>
+		<component base="quoteleft.ss05"/>
+		<component base="quoteleft.ss05" xOffset="164"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=quoteleft.001</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=quoteleft.001</string>
+		</dict>
+	</lib>
+</glyph>

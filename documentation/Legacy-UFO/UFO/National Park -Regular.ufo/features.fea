@@ -1,0 +1,1339 @@
+@MMK_L_Z = [Z];
+@MMK_R_Z = [Z];
+@MMK_R_n = [n];
+	markClass [brevecomb_acutecomb] <anchor 197 515> @mark_top;
+	markClass [brevecomb_gravecomb] <anchor 197 515> @mark_top;
+	markClass [brevecomb_hookabovecomb] <anchor 191 515> @mark_top;
+	markClass [brevecomb_tildecomb] <anchor 201 515> @mark_top;
+	markClass [circumflexcomb_acutecomb] <anchor 183 515> @mark_top;
+	markClass [circumflexcomb_gravecomb] <anchor 183 515> @mark_top;
+	markClass [circumflexcomb_hookabovecomb] <anchor 183 515> @mark_top;
+	markClass [circumflexcomb_tildecomb] <anchor 200 515> @mark_top;
+	markClass [dieresiscomb] <anchor 177 515> @mark_top;
+	markClass [dieresiscomb.case] <anchor 177 515> @mark_top;
+	markClass [dieresiscomb.narrow] <anchor 157 515> @mark_top;
+	markClass [dotaccentcomb] <anchor 90 515> @mark_top;
+	markClass [dotaccentcomb.case] <anchor 90 515> @mark_top;
+	markClass [gravecomb] <anchor 143 515> @mark_top;
+	markClass [gravecomb.case] <anchor 148 515> @mark_top;
+	markClass [gravecomb.loclVIT] <anchor 166 515> @mark_top;
+	markClass [gravecomb.loclVIT.narrow] <anchor 166 515> @mark_top;
+	markClass [gravecomb.narrow] <anchor 140 515> @mark_top;
+	markClass [acutecomb] <anchor 92 515> @mark_top;
+	markClass [acutecomb.case] <anchor 92 515> @mark_top;
+	markClass [acutecomb.loclVIT] <anchor 92 515> @mark_top;
+	markClass [acutecomb.loclVIT.narrow] <anchor 92 515> @mark_top;
+	markClass [acutecomb.narrow] <anchor 76 515> @mark_top;
+	markClass [hungarumlautcomb] <anchor 188 515> @mark_top;
+	markClass [hungarumlautcomb.case] <anchor 196 700> @mark_top;
+	markClass [caroncomb.alt] <anchor 0 700> @mark_top;
+	markClass [circumflexcomb] <anchor 186 515> @mark_top;
+	markClass [circumflexcomb.case] <anchor 195 700> @mark_top;
+	markClass [circumflexcomb.loclVIT] <anchor 193 515> @mark_top;
+	markClass [circumflexcomb.narrow] <anchor 162 515> @mark_top;
+	markClass [caroncomb] <anchor 188 515> @mark_top;
+	markClass [caroncomb.case] <anchor 195 700> @mark_top;
+	markClass [brevecomb] <anchor 207 515> @mark_top;
+	markClass [brevecomb.case] <anchor 207 515> @mark_top;
+	markClass [brevecomb.loclVIT] <anchor 207 515> @mark_top;
+	markClass [brevecomb.narrow] <anchor 171 515> @mark_top;
+	markClass [ringcomb] <anchor 146 515> @mark_top;
+	markClass [ringcomb.case] <anchor 146 515> @mark_top;
+	markClass [tildecomb] <anchor 196 515> @mark_top;
+	markClass [tildecomb.case] <anchor 201 515> @mark_top;
+	markClass [tildecomb.loclVIT] <anchor 201 515> @mark_top;
+	markClass [tildecomb.narrow] <anchor 179 515> @mark_top;
+	markClass [macroncomb] <anchor 194 515> @mark_top;
+	markClass [macroncomb.case] <anchor 194 515> @mark_top;
+	markClass [macroncomb.narrow] <anchor 159 515> @mark_top;
+	markClass [hookabovecomb] <anchor 133 515> @mark_top;
+	markClass [hookabovecomb.case] <anchor 133 515> @mark_top;
+	markClass [dblgravecomb] <anchor 235 515> @mark_top;
+	markClass [dblgravecomb.case] <anchor 196 700> @mark_top;
+	markClass [dblgravecomb.narrow] <anchor 198 515> @mark_top;
+	markClass [breveinvertedcomb] <anchor 208 515> @mark_top;
+	markClass [breveinvertedcomb.case] <anchor 207 700> @mark_top;
+	markClass [breveinvertedcomb.narrow] <anchor 171 515> @mark_top;
+	markClass [commaturnedabovecomb] <anchor 119 515> @mark_top;
+	markClass [commaturnedabovecomb.case] <anchor 119 515> @mark_top;
+	markClass [horncomb] <anchor -244 515> @mark_top;
+	markClass [dotbelowcomb] <anchor 89 0> @mark_bottom;
+	markClass [dieresisbelowcomb] <anchor 171 0> @mark_bottom;
+	markClass [commaaccentcomb] <anchor 114 0> @mark_bottom;
+	markClass [cedillacomb] <anchor 156 0> @mark_bottom;
+	markClass [brevebelowcomb] <anchor 182 0> @mark_bottom;
+	markClass [macronbelowcomb] <anchor 194 0> @mark_bottom;
+	markClass [strokeshortcomb] <anchor 212 370> @mark_center;
+### class:0:Uppercase ###
+@Uppercase = [
+### open class 'Uppercase' ###
+A A.ss02 Aacute Aacute.loclVIT Abreve Abreve.loclVIT Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflex.loclVIT Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Agrave.loclVIT Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde Atilde.loclVIT AE AEacute B B.ss02 C C.ss02 Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E E.ss02 Eacute Eacute.loclVIT Ebreve Ecaron Ecircumflex Ecircumflex.loclVIT Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Egrave.loclVIT Ehookabove Einvertedbreve Emacron Eogonek Etilde F G G.ss02 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H H.ss02 Hbar Hcircumflex I IJ IJ.001 Iacute Iacute.loclVIT Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Igrave.loclVIT Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L L.ss02 LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M M.ss02 N N.ss02 NJ Nacute Ncaron Ncommaaccent Nj Ntilde Eng O O.ss02 Oacute Oacute.loclVIT Obreve Ocircumflex Ocircumflex.loclVIT Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ograve.loclVIT Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otilde.loclVIT Otildemacron OE P P.ss02 Thorn Q R R.ss02 Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S S.ss02 Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Uacute.loclVIT Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Ugrave.loclVIT Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W W.ss02 Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Yacute.loclVIT Ycircumflex Ydieresis Ydotbelow Ygrave Ygrave.loclVIT Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Delta Omega
+### close class 'Uppercase' ###
+];
+
+### prefix:-1:Languagesystems ###
+### open prefix 'Languagesystems' ###
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn VIT;
+languagesystem latn CAT;
+languagesystem latn NLD;
+### close prefix 'Languagesystems' ###
+
+### feature:0:aalt ###
+feature aalt {
+### open feature 'aalt' ###
+feature locl;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature pnum;
+feature tnum;
+feature case;
+feature zero;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss05;
+feature ss06;
+### close feature 'aalt' ###
+} aalt;
+
+### feature:1:ccmp ###
+feature ccmp {
+### open feature 'ccmp' ###
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
+	sub lj by l j;
+	sub Lj by L j;
+	sub LJ by L J;
+	sub nj by n j;
+	sub Nj by N j;
+	sub NJ by N J;
+	sub dzcaron by d zcaron;
+	sub Dzcaron by D zcaron;
+	sub DZcaron by D Zcaron;
+} ccmp_latn_1;
+
+lookup ccmp_latn_2 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+} ccmp_latn_2;
+
+script latn;
+lookup ccmp_latn_1;
+lookup ccmp_latn_2;
+### close feature 'ccmp' ###
+} ccmp;
+
+### feature:2:locl ###
+feature locl {
+### open feature 'locl' ###
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language VIT;
+	sub Aacute by Aacute.loclVIT;
+	sub Abreve by Abreve.loclVIT;
+	sub Acircumflex by Acircumflex.loclVIT;
+	sub Agrave by Agrave.loclVIT;
+	sub Atilde by Atilde.loclVIT;
+	sub Eacute by Eacute.loclVIT;
+	sub Ecircumflex by Ecircumflex.loclVIT;
+	sub Egrave by Egrave.loclVIT;
+	sub Iacute by Iacute.loclVIT;
+	sub Igrave by Igrave.loclVIT;
+	sub Oacute by Oacute.loclVIT;
+	sub Ocircumflex by Ocircumflex.loclVIT;
+	sub Ograve by Ograve.loclVIT;
+	sub Otilde by Otilde.loclVIT;
+	sub Uacute by Uacute.loclVIT;
+	sub Ugrave by Ugrave.loclVIT;
+	sub Yacute by Yacute.loclVIT;
+	sub Ygrave by Ygrave.loclVIT;
+	sub aacute by aacute.loclVIT;
+	sub abreve by abreve.loclVIT;
+	sub acircumflex by acircumflex.loclVIT;
+	sub agrave by agrave.loclVIT;
+	sub atilde by atilde.loclVIT;
+	sub eacute by eacute.loclVIT;
+	sub ecircumflex by ecircumflex.loclVIT;
+	sub egrave by egrave.loclVIT;
+	sub iacute by iacute.loclVIT;
+	sub igrave by igrave.loclVIT;
+	sub oacute by oacute.loclVIT;
+	sub ocircumflex by ocircumflex.loclVIT;
+	sub ograve by ograve.loclVIT;
+	sub otilde by otilde.loclVIT;
+	sub uacute by uacute.loclVIT;
+	sub ugrave by ugrave.loclVIT;
+	sub yacute by yacute.loclVIT;
+	sub ygrave by ygrave.loclVIT;
+	sub gravecomb by gravecomb.loclVIT;
+	sub acutecomb by acutecomb.loclVIT;
+	sub circumflexcomb by circumflexcomb.loclVIT;
+	sub brevecomb by brevecomb.loclVIT;
+	sub tildecomb by tildecomb.loclVIT;
+} locl_latn_2;
+
+lookup locl_latn_3 {
+	script latn;
+	language CAT;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+lookup locl_latn_4 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_4;
+### close feature 'locl' ###
+} locl;
+
+### feature:3:sups ###
+feature sups {
+### open feature 'sups' ###
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+### close feature 'sups' ###
+} sups;
+
+### feature:4:numr ###
+feature numr {
+### open feature 'numr' ###
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+### close feature 'numr' ###
+} numr;
+
+### feature:5:dnom ###
+feature dnom {
+### open feature 'dnom' ###
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+### close feature 'dnom' ###
+} dnom;
+
+### feature:6:frac ###
+feature frac {
+### open feature 'frac' ###
+lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+### close feature 'frac' ###
+} frac;
+
+### feature:7:ordn ###
+feature ordn {
+### open feature 'ordn' ###
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+### close feature 'ordn' ###
+} ordn;
+
+### feature:8:pnum ###
+feature pnum {
+### open feature 'pnum' ###
+sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+### close feature 'pnum' ###
+} pnum;
+
+### feature:9:tnum ###
+feature tnum {
+### open feature 'tnum' ###
+sub zero.lf by zero;
+sub one.lf by one;
+sub two.lf by two;
+sub three.lf by three;
+sub four.lf by four;
+sub five.lf by five;
+sub six.lf by six;
+sub seven.lf by seven;
+sub eight.lf by eight;
+sub nine.lf by nine;
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+### close feature 'tnum' ###
+} tnum;
+
+### feature:10:case ###
+feature case {
+### open feature 'case' ###
+sub periodcentered by periodcentered.case;
+sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub hookabovecomb by hookabovecomb.case;
+sub dblgravecomb by dblgravecomb.case;
+sub breveinvertedcomb by breveinvertedcomb.case;
+sub commaturnedabovecomb by commaturnedabovecomb.case;
+### close feature 'case' ###
+} case;
+
+### feature:11:dlig ###
+feature dlig {
+### open feature 'dlig' ###
+lookupflag IgnoreMarks;
+sub a germandbls by a_germandbls;
+sub idieresis idieresis by idieresis_idieresis;
+### close feature 'dlig' ###
+} dlig;
+
+### feature:12:liga ###
+feature liga {
+### open feature 'liga' ###
+lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by f_i;
+sub f l by fl;
+### close feature 'liga' ###
+} liga;
+
+### feature:13:zero ###
+feature zero {
+### open feature 'zero' ###
+sub zero by zero.zero;
+sub zero.lf by zero.lf.zero;
+sub zero.tf by zero.tf.zero;
+### close feature 'zero' ###
+} zero;
+
+### feature:14:ss01 ###
+feature ss01 {
+featureNames {
+	name 3 1 0x409 "Single Storey a";
+};
+### open feature 'ss01' ###
+sub a by a.ss01;
+sub aacute.loclVIT by aacute.loclVIT.ss01;
+sub aacute by aacute.ss01;
+sub abreve.loclVIT by abreve.loclVIT.ss01;
+sub abreve by abreve.ss01;
+sub abrevedotbelow by abrevedotbelow.ss01;
+sub acircumflex.loclVIT by acircumflex.loclVIT.ss01;
+sub acircumflex by acircumflex.ss01;
+sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub adblgrave by adblgrave.ss01;
+sub adieresis by adieresis.ss01;
+sub adotbelow by adotbelow.ss01;
+sub agrave.loclVIT by agrave.loclVIT.ss01;
+sub agrave by agrave.ss01;
+sub ahookabove by ahookabove.ss01;
+sub ainvertedbreve by ainvertedbreve.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub aringacute by aringacute.ss01;
+sub atilde.loclVIT by atilde.loclVIT.ss01;
+sub atilde by atilde.ss01;
+sub ae by ae.ss01;
+sub aeacute by aeacute.ss01;
+sub kip by kip.ss01;
+sub peseta by peseta.ss01;
+sub won by won.ss01;
+### close feature 'ss01' ###
+} ss01;
+
+### feature:15:ss02 ###
+feature ss02 {
+featureNames {
+	name 3 1 0x409 "Router Forms";
+};
+### open feature 'ss02' ###
+sub A by A.ss02;
+sub B by B.ss02;
+sub C by C.ss02;
+sub E by E.ss02;
+sub G by G.ss02;
+sub H by H.ss02;
+sub L by L.ss02;
+sub M by M.ss02;
+sub N by N.ss02;
+sub O by O.ss02;
+sub P by P.ss02;
+sub R by R.ss02;
+sub S by S.ss02;
+sub W by W.ss02;
+sub a by a.ss02;
+sub f by f.ss02;
+sub j by j.ss02;
+sub jdotless by jdotless.ss02;
+sub s by s.ss02;
+sub t by t.ss02;
+sub y by y.ss02;
+sub peseta by peseta.ss02;
+### close feature 'ss02' ###
+} ss02;
+
+### feature:16:ss03 ###
+feature ss03 {
+featureNames {
+	name 3 1 0x409 "TEST: Inktrap Bowls";
+};
+### open feature 'ss03' ###
+sub b by b.ss03;
+sub d by d.ss03;
+sub p by p.ss03;
+sub q by q.ss03;
+### close feature 'ss03' ###
+} ss03;
+
+### feature:17:ss05 ###
+feature ss05 {
+featureNames {
+	name 3 1 0x409 "Curly Comma, Semicolon, Quotes, etc.";
+};
+### open feature 'ss05' ###
+sub comma by comma.ss05;
+sub semicolon by semicolon.ss05;
+sub quotesinglbase by quotesinglbase.ss05;
+sub quotedblbase by quotedblbase.ss05;
+sub quotedblleft by quotedblleft.ss05;
+sub quotedblright by quotedblright.ss05;
+sub quoteleft by quoteleft.ss05;
+sub quoteright by quoteright.ss05;
+sub apostrophemod by apostrophemod.ss05;
+### close feature 'ss05' ###
+} ss05;
+
+### feature:18:ss06 ###
+feature ss06 {
+featureNames {
+	name 3 1 0x409 "Symbol Alternates";
+};
+### open feature 'ss06' ###
+sub ampersand by ampersand.ss06;
+sub registered by registered.ss06;
+sub daggerdbl by daggerdbl.ss06;
+sub percent by percent.ss06;
+### close feature 'ss06' ###
+} ss06;
+
+### feature:-1:kern ###
+feature kern {
+### open feature 'kern' ###
+	lookup kern_latn {
+	lookupflag IgnoreMarks;
+		pos A A 10;
+		pos A C -40;
+		pos A G -30;
+		pos A J -15;
+		pos A O -40;
+		pos A Q -30;
+		pos A T -60;
+		pos A V -55;
+		pos A W -35;
+		pos A Y -55;
+		pos A a -10;
+		pos A c -15;
+		pos A d -10;
+		pos A e -10;
+		pos A f -10;
+		pos A g -10;
+		pos A j -5;
+		pos A o -15;
+		pos A q -15;
+		pos A t -25;
+		pos A v -50;
+		pos A w -35;
+		pos A y -35;
+		pos A.ss02 A 10;
+		pos A.ss02 C -30;
+		pos A.ss02 G -30;
+		pos A.ss02 J -15;
+		pos A.ss02 O -40;
+		pos A.ss02 Q -30;
+		pos A.ss02 T -60;
+		pos A.ss02 V -55;
+		pos A.ss02 W -35;
+		pos A.ss02 Y -55;
+		pos A.ss02 a -10;
+		pos A.ss02 c -15;
+		pos A.ss02 d -10;
+		pos A.ss02 e -10;
+		pos A.ss02 f -10;
+		pos A.ss02 g -10;
+		pos A.ss02 j -5;
+		pos A.ss02 o -15;
+		pos A.ss02 q -15;
+		pos A.ss02 t -25;
+		pos A.ss02 v -50;
+		pos A.ss02 w -35;
+		pos A.ss02 y -35;
+		pos B A -10;
+		pos B J -10;
+		pos B Y -30;
+		pos B a -5;
+		pos B w -10;
+		pos B.ss02 A -10;
+		pos B.ss02 J -10;
+		pos B.ss02 Y -30;
+		pos B.ss02 a -5;
+		pos B.ss02 w -10;
+		pos C T -30;
+		pos C a -10;
+		pos C e -10;
+		pos C o -10;
+		pos C y -10;
+		pos C.ss02 T -30;
+		pos C.ss02 a -10;
+		pos C.ss02 e -10;
+		pos C.ss02 o -10;
+		pos C.ss02 y -10;
+		pos D V -11;
+		pos E a -10;
+		pos E c -10;
+		pos E d -10;
+		pos E e -10;
+		pos E f -10;
+		pos E o -10;
+		pos E q -10;
+		pos E u -10;
+		pos E w -20;
+		pos E x 0;
+		pos E y -10;
+		pos E z -10;
+		pos G A 5;
+		pos J A -20;
+		pos K G -30;
+		pos K O -30;
+		pos K a -50;
+		pos K e -40;
+		pos K i -5;
+		pos K l 0;
+		pos K o -50;
+		pos K r -5;
+		pos K u -10;
+		pos K v -40;
+		pos K w -40;
+		pos K y -50;
+		pos L O -30;
+		pos L T -80;
+		pos L U -5;
+		pos O Y -30;
+		pos O f -5;
+		pos O s -5;
+		pos O t -10;
+		pos O v -15;
+		pos O w -10;
+		pos O x -10;
+		pos O y -20;
+		pos O z -10;
+		pos P A -60;
+		pos P T -40;
+		pos P a -40;
+		pos P d -40;
+		pos P e -40;
+		pos P g -30;
+		pos P o -40;
+		pos P p -20;
+		pos P s -40;
+		pos P t -30;
+		pos P u -30;
+		pos P y -30;
+		pos P.ss02 A -60;
+		pos P.ss02 T -30;
+		pos P.ss02 a -30;
+		pos P.ss02 d -30;
+		pos P.ss02 e -30;
+		pos P.ss02 g -20;
+		pos P.ss02 o -30;
+		pos P.ss02 p -20;
+		pos P.ss02 s -20;
+		pos P.ss02 y -2;
+		pos Q a -10;
+		pos R O -10;
+		pos R T -30;
+		pos R a -10;
+		pos R d -30;
+		pos R w -10;
+		pos S T -20;
+		pos S t -10;
+		pos S v -20;
+		pos S w -20;
+		pos S z -10;
+		pos T A -55;
+		pos T O -40;
+		pos T T -40;
+		pos T a -80;
+		pos T c -10;
+		pos T e -80;
+		pos T i -20;
+		pos T l -10;
+		pos T o -80;
+		pos T r -50;
+		pos T s -80;
+		pos T t -80;
+		pos T u -80;
+		pos T w -80;
+		pos T y -80;
+		pos T z -80;
+		pos U A -5;
+		pos V A -70;
+		pos W A -27;
+		pos W a -35;
+		pos W e -30;
+		pos W o -30;
+		pos W r -10;
+		pos W.ss02 A -30;
+		pos W.ss02 a -35;
+		pos W.ss02 e -30;
+		pos W.ss02 o -30;
+		pos W.ss02 r -10;
+		pos Y O -30;
+		pos Y a -80;
+		pos Y c -80;
+		pos Y d -80;
+		pos Y e -80;
+		pos Y g -80;
+		pos Y i -30;
+		pos Y o -80;
+		pos Y p -60;
+		pos Y q -80;
+		pos Y r -30;
+		pos Y s -50;
+		pos Y t -20;
+		pos Y u -60;
+		pos Y v -30;
+		pos a v -20;
+		pos a w -17;
+		pos a y -5;
+		pos b period -30;
+		pos e a -10;
+		pos e v -10;
+		pos e y -5;
+		pos e period -30;
+		pos f a -20;
+		pos f f -20;
+		pos f i -30;
+		pos f l -30;
+		pos f o -20;
+		pos f.ss02 i -15;
+		pos f.ss02 l -15;
+		pos k e -30;
+		pos k g -10;
+		pos k o -30;
+		pos k w -10;
+		pos o Y -60;
+		pos o v -10;
+		pos o w -20;
+		pos o y -5;
+		pos o z -20;
+		pos o period -30;
+		pos p t -5;
+		pos p y -10;
+		pos p period -30;
+		pos r a -20;
+		pos r c -20;
+		pos r d -20;
+		pos r e -20;
+		pos r o -20;
+		pos r s -20;
+		pos r t 10;
+		pos t a -15;
+		pos t e -10;
+		pos t o -10;
+		pos t t -20;
+		pos t period -30;
+		pos v a -20;
+		pos v e -10;
+		pos v o -10;
+		pos w a -20;
+		pos w e -15;
+		pos w o -15;
+		pos w r -5;
+		pos w t -10;
+		pos x e -10;
+		pos y e -5;
+		pos y g -15;
+		pos y z -20;
+		pos z a -20;
+		pos @MMK_L_Z U -5;
+		pos @MMK_L_Z a -30;
+		pos @MMK_L_Z e -30;
+		pos @MMK_L_Z o -30;
+		pos @MMK_L_Z u -30;
+		pos @MMK_L_Z w -30;
+		pos @MMK_L_Z y -30;
+		pos K @MMK_R_n -10;
+	} kern_latn;
+	lookupflag 0;
+	script latn;
+	lookup kern_latn;
+	lookupflag 0;
+### close feature 'kern' ###
+} kern;
+
+### feature:-1:mark ###
+feature mark {
+	lookup mark_DFLT {
+		pos base trademark  <anchor 324 0> mark @mark_bottom <anchor 323 350> mark @mark_center <anchor 323 700> mark @mark_top;
+		pos base cedi  <anchor 328 14> mark @mark_bottom <anchor 327 685> mark @mark_top;
+		pos base colonsign  <anchor 315 0> mark @mark_bottom <anchor 313 700> mark @mark_top;
+		pos base dollar  <anchor 320 16> mark @mark_bottom <anchor 309 690> mark @mark_top;
+	} mark_DFLT;
+	lookup mark_grek {
+		pos base pi  <anchor 181 0> mark @mark_bottom;
+	} mark_grek;
+	lookup mark_latn {
+		pos base A  <anchor 304 0> mark @mark_bottom <anchor 304 700> mark @mark_top;
+		pos base A.ss02  <anchor 324 0> mark @mark_bottom <anchor 324 700> mark @mark_top;
+		pos base Aacute  <anchor 304 0> mark @mark_bottom <anchor 324 953> mark @mark_top;
+		pos base Aacute.loclVIT  <anchor 304 0> mark @mark_bottom <anchor 324 953> mark @mark_top;
+		pos base Abreve  <anchor 304 0> mark @mark_bottom <anchor 1175 953> mark @mark_top;
+		pos base Abreve.loclVIT  <anchor 304 0> mark @mark_bottom <anchor 1175 953> mark @mark_top;
+		pos base Abreveacute  <anchor 304 0> mark @mark_bottom <anchor 336 1086> mark @mark_top;
+		pos base Abrevedotbelow  <anchor 304 -175> mark @mark_bottom <anchor 1175 953> mark @mark_top;
+		pos base Abrevegrave  <anchor 304 0> mark @mark_bottom <anchor 268 1086> mark @mark_top;
+		pos base Abrevehookabove  <anchor 304 0> mark @mark_bottom <anchor 298 1067> mark @mark_top;
+		pos base Abrevetilde  <anchor 304 0> mark @mark_bottom <anchor 304 1071> mark @mark_top;
+		pos base Acircumflex  <anchor 304 0> mark @mark_bottom <anchor 304 923> mark @mark_top;
+		pos base Acircumflex.loclVIT  <anchor 304 0> mark @mark_bottom <anchor 304 768> mark @mark_top;
+		pos base Acircumflexacute  <anchor 304 0> mark @mark_bottom <anchor 483 1066> mark @mark_top;
+		pos base Acircumflexdotbelow  <anchor 304 -175> mark @mark_bottom <anchor 304 953> mark @mark_top;
+		pos base Acircumflexgrave  <anchor 304 0> mark @mark_bottom <anchor 420 1084> mark @mark_top;
+		pos base Acircumflexhookabove  <anchor 304 0> mark @mark_bottom <anchor 454 1067> mark @mark_top;
+		pos base Acircumflextilde  <anchor 304 0> mark @mark_bottom <anchor 304 953> mark @mark_top;
+		pos base Adblgrave  <anchor 304 0> mark @mark_bottom <anchor 304 754> mark @mark_top;
+		pos base Adieresis  <anchor 304 0> mark @mark_bottom <anchor 304 872> mark @mark_top;
+		pos base Adotbelow  <anchor 304 -175> mark @mark_bottom <anchor 304 700> mark @mark_top;
+		pos base Agrave  <anchor 304 0> mark @mark_bottom <anchor 264 953> mark @mark_top;
+		pos base Agrave.loclVIT  <anchor 304 0> mark @mark_bottom <anchor 264 953> mark @mark_top;
+		pos base Ahookabove  <anchor 304 0> mark @mark_bottom <anchor 298 958> mark @mark_top;
+		pos base Ainvertedbreve  <anchor 304 0> mark @mark_bottom <anchor 304 747> mark @mark_top;
+		pos base Amacron  <anchor 304 0> mark @mark_bottom <anchor 304 859> mark @mark_top;
+		pos base Aogonek  <anchor 304 0> mark @mark_bottom <anchor 304 700> mark @mark_top;
+		pos base Aring  <anchor 304 0> mark @mark_bottom <anchor 304 854> mark @mark_top;
+		pos base Aringacute  <anchor 304 0> mark @mark_bottom <anchor 324 1107> mark @mark_top;
+		pos base Atilde  <anchor 304 0> mark @mark_bottom <anchor 304 913> mark @mark_top;
+		pos base Atilde.loclVIT  <anchor 304 0> mark @mark_bottom <anchor 304 913> mark @mark_top;
+		pos base AE  <anchor 424 0> mark @mark_bottom <anchor 424 700> mark @mark_top;
+		pos base AEacute  <anchor 424 0> mark @mark_bottom <anchor 444 953> mark @mark_top;
+		pos base B  <anchor 292 0> mark @mark_bottom <anchor 292 350> mark @mark_center <anchor 292 700> mark @mark_top;
+		pos base C  <anchor 329 0> mark @mark_bottom <anchor 327 700> mark @mark_top;
+		pos base Cacute  <anchor 329 0> mark @mark_bottom <anchor 347 953> mark @mark_top;
+		pos base Ccaron  <anchor 329 0> mark @mark_bottom <anchor 327 759> mark @mark_top;
+		pos base Ccedilla  <anchor 329 -200> mark @mark_bottom <anchor 327 700> mark @mark_top;
+		pos base Ccircumflex  <anchor 329 0> mark @mark_bottom <anchor 327 768> mark @mark_top;
+		pos base Cdotaccent  <anchor 329 0> mark @mark_bottom <anchor 327 872> mark @mark_top;
+		pos base D  <anchor 304 0> mark @mark_bottom <anchor 324 350> mark @mark_center <anchor 304 700> mark @mark_top;
+		pos base DZcaron  <anchor 860 0> mark @mark_bottom <anchor 860 350> mark @mark_center <anchor 860 759> mark @mark_top;
+		pos base Eth  <anchor 355 0> mark @mark_bottom <anchor 375 350> mark @mark_center <anchor 355 700> mark @mark_top;
+		pos base Dcaron  <anchor 304 0> mark @mark_bottom <anchor 324 350> mark @mark_center <anchor 304 759> mark @mark_top;
+		pos base Dcroat  <anchor 355 0> mark @mark_bottom <anchor 375 350> mark @mark_center <anchor 355 700> mark @mark_top;
+		pos base Dzcaron  <anchor 882 0> mark @mark_bottom <anchor 882 258> mark @mark_center <anchor 882 768> mark @mark_top;
+		pos base E  <anchor 282 0> mark @mark_bottom <anchor 282 700> mark @mark_top;
+		pos base Eacute  <anchor 282 0> mark @mark_bottom <anchor 302 953> mark @mark_top;
+		pos base Eacute.loclVIT  <anchor 282 0> mark @mark_bottom <anchor 302 953> mark @mark_top;
+		pos base Ebreve  <anchor 282 0> mark @mark_bottom <anchor 1153 953> mark @mark_top;
+		pos base Ecaron  <anchor 282 0> mark @mark_bottom <anchor 282 759> mark @mark_top;
+		pos base Ecircumflex  <anchor 282 0> mark @mark_bottom <anchor 282 768> mark @mark_top;
+		pos base Ecircumflex.loclVIT  <anchor 282 0> mark @mark_bottom <anchor 282 768> mark @mark_top;
+		pos base Ecircumflexacute  <anchor 282 0> mark @mark_bottom <anchor 461 1086> mark @mark_top;
+		pos base Ecircumflexdotbelow  <anchor 282 -175> mark @mark_bottom <anchor 282 768> mark @mark_top;
+		pos base Ecircumflexgrave  <anchor 282 0> mark @mark_bottom <anchor 398 1084> mark @mark_top;
+		pos base Ecircumflexhookabove  <anchor 282 0> mark @mark_bottom <anchor 432 1067> mark @mark_top;
+		pos base Ecircumflextilde  <anchor 282 0> mark @mark_bottom <anchor 282 953> mark @mark_top;
+		pos base Edblgrave  <anchor 282 0> mark @mark_bottom <anchor 282 754> mark @mark_top;
+		pos base Edieresis  <anchor 282 0> mark @mark_bottom <anchor 282 872> mark @mark_top;
+		pos base Edotaccent  <anchor 282 0> mark @mark_bottom <anchor 282 872> mark @mark_top;
+		pos base Edotbelow  <anchor 282 -175> mark @mark_bottom <anchor 282 700> mark @mark_top;
+		pos base Egrave  <anchor 282 0> mark @mark_bottom <anchor 242 953> mark @mark_top;
+		pos base Egrave.loclVIT  <anchor 282 0> mark @mark_bottom <anchor 242 953> mark @mark_top;
+		pos base Ehookabove  <anchor 282 0> mark @mark_bottom <anchor 276 958> mark @mark_top;
+		pos base Einvertedbreve  <anchor 282 0> mark @mark_bottom <anchor 282 747> mark @mark_top;
+		pos base Emacron  <anchor 282 0> mark @mark_bottom <anchor 282 859> mark @mark_top;
+		pos base Eogonek  <anchor 282 0> mark @mark_bottom <anchor 282 700> mark @mark_top;
+		pos base Etilde  <anchor 282 0> mark @mark_bottom <anchor 282 913> mark @mark_top;
+		pos base G  <anchor 320 0> mark @mark_bottom <anchor 331 700> mark @mark_top;
+		pos base G.ss02  <anchor 366 0> mark @mark_bottom <anchor 337 700> mark @mark_top;
+		pos base Gbreve  <anchor 320 0> mark @mark_bottom <anchor 1202 953> mark @mark_top;
+		pos base Gcaron  <anchor 320 0> mark @mark_bottom <anchor 331 759> mark @mark_top;
+		pos base Gcircumflex  <anchor 320 0> mark @mark_bottom <anchor 331 768> mark @mark_top;
+		pos base Gcommaaccent  <anchor 320 -230> mark @mark_bottom <anchor 331 700> mark @mark_top;
+		pos base Gdotaccent  <anchor 320 0> mark @mark_bottom <anchor 331 872> mark @mark_top;
+		pos base H  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 700> mark @mark_top;
+		pos base H.ss02  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 700> mark @mark_top;
+		pos base Hbar  <anchor 398 0> mark @mark_bottom <anchor 398 350> mark @mark_center <anchor 398 700> mark @mark_top;
+		pos base Hcircumflex  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 768> mark @mark_top;
+		pos base I  <anchor 121 0> mark @mark_bottom <anchor 121 700> mark @mark_top;
+		pos base Iacute  <anchor 121 0> mark @mark_bottom <anchor 141 953> mark @mark_top;
+		pos base Iacute.loclVIT  <anchor 121 0> mark @mark_bottom <anchor 141 953> mark @mark_top;
+		pos base Ibreve  <anchor 121 0> mark @mark_bottom <anchor 992 953> mark @mark_top;
+		pos base Icircumflex  <anchor 121 0> mark @mark_bottom <anchor 121 768> mark @mark_top;
+		pos base Idblgrave  <anchor 121 0> mark @mark_bottom <anchor 121 754> mark @mark_top;
+		pos base Idieresis  <anchor 121 0> mark @mark_bottom <anchor 121 872> mark @mark_top;
+		pos base Idotaccent  <anchor 121 0> mark @mark_bottom <anchor 121 872> mark @mark_top;
+		pos base Idotbelow  <anchor 121 -175> mark @mark_bottom <anchor 121 700> mark @mark_top;
+		pos base Igrave  <anchor 121 0> mark @mark_bottom <anchor 81 953> mark @mark_top;
+		pos base Igrave.loclVIT  <anchor 121 0> mark @mark_bottom <anchor 81 953> mark @mark_top;
+		pos base Ihookabove  <anchor 121 0> mark @mark_bottom <anchor 115 958> mark @mark_top;
+		pos base Iinvertedbreve  <anchor 121 0> mark @mark_bottom <anchor 121 747> mark @mark_top;
+		pos base Imacron  <anchor 121 0> mark @mark_bottom <anchor 121 859> mark @mark_top;
+		pos base Iogonek  <anchor 121 0> mark @mark_bottom <anchor 121 700> mark @mark_top;
+		pos base Itilde  <anchor 121 0> mark @mark_bottom <anchor 111 882> mark @mark_top;
+		pos base J  <anchor 250 0> mark @mark_bottom <anchor 380 700> mark @mark_top;
+		pos base Jacute  <anchor 250 0> mark @mark_bottom <anchor 400 953> mark @mark_top;
+		pos base Jcircumflex  <anchor 250 0> mark @mark_bottom <anchor 380 768> mark @mark_top;
+		pos base K  <anchor 307 0> mark @mark_bottom <anchor 307 700> mark @mark_top;
+		pos base Kcommaaccent  <anchor 307 -230> mark @mark_bottom <anchor 307 700> mark @mark_top;
+		pos base L  <anchor 277 0> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 192 700> mark @mark_top;
+		pos base L.ss02  <anchor 277 0> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 124 700> mark @mark_top;
+		pos base LJ  <anchor 764 0> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 894 700> mark @mark_top;
+		pos base Lacute  <anchor 277 0> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 212 953> mark @mark_top;
+		pos base Lcaron  <anchor 277 0> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 192 700> mark @mark_top;
+		pos base Lcommaaccent  <anchor 277 -230> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 192 700> mark @mark_top;
+		pos base Ldot  <anchor 277 0> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 124 700> mark @mark_top;
+		pos base Lj  <anchor 643 -170> mark @mark_bottom <anchor 267 350> mark @mark_center <anchor 643 687> mark @mark_top;
+		pos base N  <anchor 329 0> mark @mark_bottom <anchor 329 700> mark @mark_top;
+		pos base NJ  <anchor 907 0> mark @mark_bottom <anchor 1037 700> mark @mark_top;
+		pos base Nacute  <anchor 329 0> mark @mark_bottom <anchor 349 953> mark @mark_top;
+		pos base Ncaron  <anchor 329 0> mark @mark_bottom <anchor 329 759> mark @mark_top;
+		pos base Ncommaaccent  <anchor 329 -230> mark @mark_bottom <anchor 329 700> mark @mark_top;
+		pos base Nj  <anchor 786 -170> mark @mark_bottom <anchor 786 687> mark @mark_top;
+		pos base Ntilde  <anchor 329 0> mark @mark_bottom <anchor 329 913> mark @mark_top;
+		pos base Eng  <anchor 907 0> mark @mark_bottom <anchor 1037 700> mark @mark_top;
+		pos base O  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 700> mark @mark_top;
+		pos base O.ss02  <anchor 347 0> mark @mark_bottom <anchor 347 350> mark @mark_center <anchor 347 700> mark @mark_top;
+		pos base Oacute  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 358 953> mark @mark_top;
+		pos base Oacute.loclVIT  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 358 953> mark @mark_top;
+		pos base Obreve  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 1209 953> mark @mark_top;
+		pos base Ocircumflex  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 768> mark @mark_top;
+		pos base Ocircumflex.loclVIT  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 768> mark @mark_top;
+		pos base Ocircumflexacute  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 517 1086> mark @mark_top;
+		pos base Ocircumflexdotbelow  <anchor 338 -175> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 953> mark @mark_top;
+		pos base Ocircumflexgrave  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 454 1084> mark @mark_top;
+		pos base Ocircumflexhookabove  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 488 1067> mark @mark_top;
+		pos base Ocircumflextilde  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 953> mark @mark_top;
+		pos base Odblgrave  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 754> mark @mark_top;
+		pos base Odieresis  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 872> mark @mark_top;
+		pos base Odieresismacron  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 1031> mark @mark_top;
+		pos base Odotaccentmacron  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 1031> mark @mark_top;
+		pos base Odotbelow  <anchor 338 -175> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 700> mark @mark_top;
+		pos base Ograve  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 298 953> mark @mark_top;
+		pos base Ograve.loclVIT  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 298 953> mark @mark_top;
+		pos base Ohookabove  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 332 958> mark @mark_top;
+		pos base Ohorn  <anchor 344 0> mark @mark_bottom <anchor 344 700> mark @mark_top;
+		pos base Ohornacute  <anchor 344 0> mark @mark_bottom <anchor 363 938> mark @mark_top;
+		pos base Ohorndotbelow  <anchor 344 -175> mark @mark_bottom <anchor 344 700> mark @mark_top;
+		pos base Ohorngrave  <anchor 344 0> mark @mark_bottom <anchor 304 953> mark @mark_top;
+		pos base Ohornhookabove  <anchor 344 0> mark @mark_bottom <anchor 338 958> mark @mark_top;
+		pos base Ohorntilde  <anchor 344 0> mark @mark_bottom <anchor 344 700> mark @mark_top;
+		pos base Ohungarumlaut  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 754> mark @mark_top;
+		pos base Oinvertedbreve  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 747> mark @mark_top;
+		pos base Omacron  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 859> mark @mark_top;
+		pos base Oogonek  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 700> mark @mark_top;
+		pos base Oslash  <anchor 355 0> mark @mark_bottom <anchor 355 700> mark @mark_top;
+		pos base Oslashacute  <anchor 355 0> mark @mark_bottom <anchor 375 953> mark @mark_top;
+		pos base Otilde  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 913> mark @mark_top;
+		pos base Otilde.loclVIT  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 338 913> mark @mark_top;
+		pos base Otildemacron  <anchor 338 0> mark @mark_bottom <anchor 338 350> mark @mark_center <anchor 340 1011> mark @mark_top;
+		pos base OE  <anchor 472 0> mark @mark_bottom <anchor 472 700> mark @mark_top;
+		pos base P  <anchor 289 0> mark @mark_bottom <anchor 289 700> mark @mark_top;
+		pos base R  <anchor 316 0> mark @mark_bottom <anchor 305 700> mark @mark_top;
+		pos base R.ss02  <anchor 316 0> mark @mark_bottom <anchor 320 700> mark @mark_top;
+		pos base Racute  <anchor 316 0> mark @mark_bottom <anchor 325 953> mark @mark_top;
+		pos base Rcaron  <anchor 316 0> mark @mark_bottom <anchor 305 759> mark @mark_top;
+		pos base Rcommaaccent  <anchor 316 -230> mark @mark_bottom <anchor 305 700> mark @mark_top;
+		pos base Rdblgrave  <anchor 316 0> mark @mark_bottom <anchor 305 754> mark @mark_top;
+		pos base Rinvertedbreve  <anchor 316 0> mark @mark_bottom <anchor 305 747> mark @mark_top;
+		pos base S  <anchor 310 0> mark @mark_bottom <anchor 298 700> mark @mark_top;
+		pos base S.ss02  <anchor 292 0> mark @mark_bottom <anchor 292 700> mark @mark_top;
+		pos base Sacute  <anchor 310 0> mark @mark_bottom <anchor 318 953> mark @mark_top;
+		pos base Scaron  <anchor 310 0> mark @mark_bottom <anchor 298 759> mark @mark_top;
+		pos base Scedilla  <anchor 310 -200> mark @mark_bottom <anchor 298 700> mark @mark_top;
+		pos base Scircumflex  <anchor 310 0> mark @mark_bottom <anchor 298 768> mark @mark_top;
+		pos base Scommaaccent  <anchor 310 -230> mark @mark_bottom <anchor 298 700> mark @mark_top;
+		pos base T  <anchor 279 0> mark @mark_bottom <anchor 278 350> mark @mark_center <anchor 278 700> mark @mark_top;
+		pos base Tbar  <anchor 259 0> mark @mark_bottom <anchor 258 350> mark @mark_center <anchor 258 700> mark @mark_top;
+		pos base Tcaron  <anchor 279 0> mark @mark_bottom <anchor 278 350> mark @mark_center <anchor 278 759> mark @mark_top;
+		pos base Tcedilla  <anchor 279 -200> mark @mark_bottom <anchor 278 350> mark @mark_center <anchor 278 700> mark @mark_top;
+		pos base Tcommaaccent  <anchor 279 -230> mark @mark_bottom <anchor 278 350> mark @mark_center <anchor 278 700> mark @mark_top;
+		pos base U  <anchor 325 0> mark @mark_bottom <anchor 325 700> mark @mark_top;
+		pos base Uacute  <anchor 325 0> mark @mark_bottom <anchor 345 953> mark @mark_top;
+		pos base Uacute.loclVIT  <anchor 325 0> mark @mark_bottom <anchor 345 953> mark @mark_top;
+		pos base Ubreve  <anchor 325 0> mark @mark_bottom <anchor 1196 953> mark @mark_top;
+		pos base Ucircumflex  <anchor 325 0> mark @mark_bottom <anchor 325 768> mark @mark_top;
+		pos base Udblgrave  <anchor 325 0> mark @mark_bottom <anchor 325 754> mark @mark_top;
+		pos base Udieresis  <anchor 325 0> mark @mark_bottom <anchor 325 872> mark @mark_top;
+		pos base Udotbelow  <anchor 325 -175> mark @mark_bottom <anchor 325 700> mark @mark_top;
+		pos base Ugrave  <anchor 325 0> mark @mark_bottom <anchor 285 953> mark @mark_top;
+		pos base Ugrave.loclVIT  <anchor 325 0> mark @mark_bottom <anchor 285 953> mark @mark_top;
+		pos base Uhookabove  <anchor 325 0> mark @mark_bottom <anchor 319 958> mark @mark_top;
+		pos base Uhorn  <anchor 330 0> mark @mark_bottom <anchor 330 700> mark @mark_top;
+		pos base Uhornacute  <anchor 330 0> mark @mark_bottom <anchor 350 953> mark @mark_top;
+		pos base Uhorndotbelow  <anchor 330 -175> mark @mark_bottom <anchor 330 700> mark @mark_top;
+		pos base Uhorngrave  <anchor 330 0> mark @mark_bottom <anchor 290 953> mark @mark_top;
+		pos base Uhornhookabove  <anchor 330 0> mark @mark_bottom <anchor 324 958> mark @mark_top;
+		pos base Uhorntilde  <anchor 330 0> mark @mark_bottom <anchor 330 913> mark @mark_top;
+		pos base Uhungarumlaut  <anchor 325 0> mark @mark_bottom <anchor 325 754> mark @mark_top;
+		pos base Uinvertedbreve  <anchor 325 0> mark @mark_bottom <anchor 325 747> mark @mark_top;
+		pos base Umacron  <anchor 325 0> mark @mark_bottom <anchor 325 859> mark @mark_top;
+		pos base Uogonek  <anchor 325 0> mark @mark_bottom <anchor 325 700> mark @mark_top;
+		pos base Uring  <anchor 325 0> mark @mark_bottom <anchor 326 954> mark @mark_top;
+		pos base Utilde  <anchor 325 0> mark @mark_bottom <anchor 325 913> mark @mark_top;
+		pos base W  <anchor 411 0> mark @mark_bottom <anchor 411 700> mark @mark_top;
+		pos base Wacute  <anchor 411 0> mark @mark_bottom <anchor 431 953> mark @mark_top;
+		pos base Wcircumflex  <anchor 411 0> mark @mark_bottom <anchor 411 768> mark @mark_top;
+		pos base Wdieresis  <anchor 411 0> mark @mark_bottom <anchor 411 872> mark @mark_top;
+		pos base Wgrave  <anchor 411 0> mark @mark_bottom <anchor 371 953> mark @mark_top;
+		pos base X  <anchor 314 0> mark @mark_bottom <anchor 314 700> mark @mark_top;
+		pos base Y  <anchor 276 0> mark @mark_bottom <anchor 283 700> mark @mark_top;
+		pos base Yacute  <anchor 276 0> mark @mark_bottom <anchor 303 953> mark @mark_top;
+		pos base Yacute.loclVIT  <anchor 276 0> mark @mark_bottom <anchor 303 953> mark @mark_top;
+		pos base Ycircumflex  <anchor 276 0> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base Ydieresis  <anchor 276 0> mark @mark_bottom <anchor 283 872> mark @mark_top;
+		pos base Ydotbelow  <anchor 276 -175> mark @mark_bottom <anchor 283 700> mark @mark_top;
+		pos base Ygrave  <anchor 276 0> mark @mark_bottom <anchor 243 953> mark @mark_top;
+		pos base Ygrave.loclVIT  <anchor 276 0> mark @mark_bottom <anchor 243 953> mark @mark_top;
+		pos base Yhookabove  <anchor 276 0> mark @mark_bottom <anchor 277 958> mark @mark_top;
+		pos base Ymacron  <anchor 276 0> mark @mark_bottom <anchor 283 859> mark @mark_top;
+		pos base Ytilde  <anchor 276 0> mark @mark_bottom <anchor 283 913> mark @mark_top;
+		pos base Z  <anchor 283 0> mark @mark_bottom <anchor 283 350> mark @mark_center <anchor 283 700> mark @mark_top;
+		pos base Zacute  <anchor 283 0> mark @mark_bottom <anchor 283 350> mark @mark_center <anchor 303 953> mark @mark_top;
+		pos base Zcaron  <anchor 283 0> mark @mark_bottom <anchor 283 350> mark @mark_center <anchor 283 759> mark @mark_top;
+		pos base Zdotaccent  <anchor 283 0> mark @mark_bottom <anchor 283 350> mark @mark_center <anchor 283 872> mark @mark_top;
+		pos base a  <anchor 263 0> mark @mark_bottom <anchor 268 515> mark @mark_top;
+		pos base a.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 515> mark @mark_top;
+		pos base a.ss02  <anchor 295 0> mark @mark_bottom <anchor 295 515> mark @mark_top;
+		pos base aacute  <anchor 263 0> mark @mark_bottom <anchor 288 768> mark @mark_top;
+		pos base aacute.loclVIT  <anchor 263 0> mark @mark_bottom <anchor 288 768> mark @mark_top;
+		pos base aacute.loclVIT.ss01  <anchor 268 -16> mark @mark_bottom <anchor 303 768> mark @mark_top;
+		pos base aacute.ss01  <anchor 268 -16> mark @mark_bottom <anchor 303 768> mark @mark_top;
+		pos base abreve  <anchor 263 0> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base abreve.loclVIT  <anchor 263 0> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base abreve.loclVIT.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base abreve.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base abreveacute  <anchor 263 0> mark @mark_bottom <anchor 300 901> mark @mark_top;
+		pos base abrevedotbelow  <anchor 263 -175> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base abrevedotbelow.ss01  <anchor 268 -191> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base abrevegrave  <anchor 263 0> mark @mark_bottom <anchor 232 901> mark @mark_top;
+		pos base abrevehookabove  <anchor 263 0> mark @mark_bottom <anchor 262 882> mark @mark_top;
+		pos base abrevetilde  <anchor 263 0> mark @mark_bottom <anchor 268 886> mark @mark_top;
+		pos base acircumflex  <anchor 263 0> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base acircumflex.loclVIT  <anchor 263 0> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base acircumflex.loclVIT.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base acircumflex.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base acircumflexacute  <anchor 263 0> mark @mark_bottom <anchor 447 901> mark @mark_top;
+		pos base acircumflexdotbelow  <anchor 263 -175> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base acircumflexdotbelow.ss01  <anchor 268 -191> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base acircumflexgrave  <anchor 263 0> mark @mark_bottom <anchor 384 899> mark @mark_top;
+		pos base acircumflexhookabove  <anchor 263 0> mark @mark_bottom <anchor 418 882> mark @mark_top;
+		pos base acircumflextilde  <anchor 263 0> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base adblgrave  <anchor 263 0> mark @mark_bottom <anchor 238 768> mark @mark_top;
+		pos base adblgrave.ss01  <anchor 268 -16> mark @mark_bottom <anchor 253 768> mark @mark_top;
+		pos base adieresis  <anchor 263 0> mark @mark_bottom <anchor 268 687> mark @mark_top;
+		pos base adieresis.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 687> mark @mark_top;
+		pos base adotbelow  <anchor 263 -175> mark @mark_bottom <anchor 268 515> mark @mark_top;
+		pos base adotbelow.ss01  <anchor 268 -191> mark @mark_bottom <anchor 283 515> mark @mark_top;
+		pos base agrave  <anchor 263 0> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base agrave.loclVIT  <anchor 263 0> mark @mark_bottom <anchor 268 768> mark @mark_top;
+		pos base agrave.loclVIT.ss01  <anchor 268 -16> mark @mark_bottom <anchor 243 768> mark @mark_top;
+		pos base agrave.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 768> mark @mark_top;
+		pos base ahookabove  <anchor 263 0> mark @mark_bottom <anchor 262 773> mark @mark_top;
+		pos base ahookabove.ss01  <anchor 268 -16> mark @mark_bottom <anchor 277 773> mark @mark_top;
+		pos base ainvertedbreve  <anchor 263 0> mark @mark_bottom <anchor 242 773> mark @mark_top;
+		pos base ainvertedbreve.ss01  <anchor 268 -16> mark @mark_bottom <anchor 257 773> mark @mark_top;
+		pos base amacron  <anchor 263 0> mark @mark_bottom <anchor 268 674> mark @mark_top;
+		pos base amacron.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 674> mark @mark_top;
+		pos base aogonek.ss01  <anchor 237 -16> mark @mark_bottom <anchor 252 515> mark @mark_top;
+		pos base aring  <anchor 263 0> mark @mark_bottom <anchor 269 769> mark @mark_top;
+		pos base aring.ss01  <anchor 268 -16> mark @mark_bottom <anchor 284 769> mark @mark_top;
+		pos base aringacute  <anchor 263 0> mark @mark_bottom <anchor 309 942> mark @mark_top;
+		pos base aringacute.ss01  <anchor 268 -16> mark @mark_bottom <anchor 314 942> mark @mark_top;
+		pos base atilde  <anchor 263 0> mark @mark_bottom <anchor 268 697> mark @mark_top;
+		pos base atilde.loclVIT  <anchor 263 0> mark @mark_bottom <anchor 268 697> mark @mark_top;
+		pos base atilde.loclVIT.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 697> mark @mark_top;
+		pos base atilde.ss01  <anchor 268 -16> mark @mark_bottom <anchor 283 697> mark @mark_top;
+		pos base ae  <anchor 415 0> mark @mark_bottom <anchor 435 515> mark @mark_top;
+		pos base ae.ss01  <anchor 456 0> mark @mark_bottom <anchor 456 515> mark @mark_top;
+		pos base aeacute  <anchor 415 0> mark @mark_bottom <anchor 455 768> mark @mark_top;
+		pos base aeacute.ss01  <anchor 456 0> mark @mark_bottom <anchor 476 768> mark @mark_top;
+		pos base c  <anchor 265 0> mark @mark_bottom <anchor 266 515> mark @mark_top;
+		pos base cacute  <anchor 265 0> mark @mark_bottom <anchor 286 768> mark @mark_top;
+		pos base ccaron  <anchor 265 0> mark @mark_bottom <anchor 266 768> mark @mark_top;
+		pos base ccedilla  <anchor 265 -200> mark @mark_bottom <anchor 266 515> mark @mark_top;
+		pos base ccircumflex  <anchor 265 0> mark @mark_bottom <anchor 266 768> mark @mark_top;
+		pos base cdotaccent  <anchor 265 0> mark @mark_bottom <anchor 266 687> mark @mark_top;
+		pos base d  <anchor 285 0> mark @mark_bottom <anchor 285 258> mark @mark_center <anchor 515 720> mark @mark_top;
+		pos base d.ss03  <anchor 285 0> mark @mark_bottom <anchor 285 258> mark @mark_center <anchor 515 720> mark @mark_top;
+		pos base dcaron  <anchor 285 0> mark @mark_bottom <anchor 285 258> mark @mark_center <anchor 515 720> mark @mark_top;
+		pos base dzcaron  <anchor 813 0> mark @mark_bottom <anchor 813 258> mark @mark_center <anchor 813 768> mark @mark_top;
+		pos base e  <anchor 270 0> mark @mark_bottom <anchor 270 515> mark @mark_top;
+		pos base eacute  <anchor 270 0> mark @mark_bottom <anchor 290 768> mark @mark_top;
+		pos base eacute.loclVIT  <anchor 270 0> mark @mark_bottom <anchor 290 768> mark @mark_top;
+		pos base ebreve  <anchor 270 0> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base ecaron  <anchor 270 0> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base ecircumflex  <anchor 270 0> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base ecircumflex.loclVIT  <anchor 270 0> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base ecircumflexacute  <anchor 270 0> mark @mark_bottom <anchor 449 901> mark @mark_top;
+		pos base ecircumflexdotbelow  <anchor 270 -175> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base ecircumflexgrave  <anchor 270 0> mark @mark_bottom <anchor 386 899> mark @mark_top;
+		pos base ecircumflexhookabove  <anchor 270 0> mark @mark_bottom <anchor 420 882> mark @mark_top;
+		pos base ecircumflextilde  <anchor 270 0> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base edblgrave  <anchor 270 0> mark @mark_bottom <anchor 240 768> mark @mark_top;
+		pos base edieresis  <anchor 270 0> mark @mark_bottom <anchor 270 687> mark @mark_top;
+		pos base edotaccent  <anchor 270 0> mark @mark_bottom <anchor 270 687> mark @mark_top;
+		pos base edotbelow  <anchor 270 -175> mark @mark_bottom <anchor 270 515> mark @mark_top;
+		pos base egrave  <anchor 270 0> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base egrave.loclVIT  <anchor 270 0> mark @mark_bottom <anchor 270 768> mark @mark_top;
+		pos base ehookabove  <anchor 270 0> mark @mark_bottom <anchor 264 773> mark @mark_top;
+		pos base einvertedbreve  <anchor 270 0> mark @mark_bottom <anchor 244 773> mark @mark_top;
+		pos base emacron  <anchor 270 0> mark @mark_bottom <anchor 270 674> mark @mark_top;
+		pos base eogonek  <anchor 270 0> mark @mark_bottom <anchor 270 515> mark @mark_top;
+		pos base etilde  <anchor 270 0> mark @mark_bottom <anchor 270 697> mark @mark_top;
+		pos base schwa  <anchor 258 0> mark @mark_bottom <anchor 258 515> mark @mark_top;
+		pos base f  <anchor 173 0> mark @mark_bottom <anchor 173 720> mark @mark_top;
+		pos base gbreve  <anchor 281 768> mark @mark_top;
+		pos base gcaron  <anchor 281 768> mark @mark_top;
+		pos base gcircumflex  <anchor 281 768> mark @mark_top;
+		pos base gcommaaccent  <anchor 286 838> mark @mark_top;
+		pos base gdotaccent  <anchor 281 687> mark @mark_top;
+		pos base h  <anchor 273 0> mark @mark_bottom <anchor 273 360> mark @mark_center <anchor 273 720> mark @mark_top;
+		pos base hbar  <anchor 273 0> mark @mark_bottom <anchor 273 360> mark @mark_center <anchor 273 720> mark @mark_top;
+		pos base hcircumflex  <anchor 273 0> mark @mark_bottom <anchor 273 360> mark @mark_center <anchor 273 973> mark @mark_top;
+		pos base i  <anchor 119 0> mark @mark_bottom <anchor 119 687> mark @mark_top;
+		pos base idotless  <anchor 111 0> mark @mark_bottom <anchor 111 515> mark @mark_top;
+		pos base iacute  <anchor 111 0> mark @mark_bottom <anchor 131 768> mark @mark_top;
+		pos base iacute.loclVIT  <anchor 111 0> mark @mark_bottom <anchor 131 768> mark @mark_top;
+		pos base ibreve  <anchor 111 0> mark @mark_bottom <anchor 982 768> mark @mark_top;
+		pos base icircumflex  <anchor 111 0> mark @mark_bottom <anchor 111 768> mark @mark_top;
+		pos base idblgrave  <anchor 111 0> mark @mark_bottom <anchor -204 768> mark @mark_top;
+		pos base idieresis  <anchor 111 0> mark @mark_bottom <anchor 111 687> mark @mark_top;
+		pos base idotaccent  <anchor 111 0> mark @mark_bottom <anchor 111 687> mark @mark_top;
+		pos base idotbelow  <anchor 119 -175> mark @mark_bottom <anchor 119 687> mark @mark_top;
+		pos base igrave  <anchor 111 0> mark @mark_bottom <anchor 81 768> mark @mark_top;
+		pos base igrave.loclVIT  <anchor 111 0> mark @mark_bottom <anchor 71 768> mark @mark_top;
+		pos base ihookabove  <anchor 111 0> mark @mark_bottom <anchor 105 773> mark @mark_top;
+		pos base iinvertedbreve  <anchor 111 0> mark @mark_bottom <anchor 122 773> mark @mark_top;
+		pos base ij  <anchor 367 -170> mark @mark_bottom <anchor 367 687> mark @mark_top;
+		pos base imacron  <anchor 111 0> mark @mark_bottom <anchor 111 674> mark @mark_top;
+		pos base iogonek  <anchor 161 0> mark @mark_bottom <anchor 161 687> mark @mark_top;
+		pos base itilde  <anchor 111 0> mark @mark_bottom <anchor 101 697> mark @mark_top;
+		pos base j  <anchor 129 -170> mark @mark_bottom <anchor 129 687> mark @mark_top;
+		pos base j.ss02  <anchor 104 -170> mark @mark_bottom <anchor 104 687> mark @mark_top;
+		pos base jdotless  <anchor 129 -170> mark @mark_bottom <anchor 129 515> mark @mark_top;
+		pos base jdotless.ss02  <anchor 104 -170> mark @mark_bottom <anchor 104 515> mark @mark_top;
+		pos base jacute  <anchor 129 -170> mark @mark_bottom <anchor 149 768> mark @mark_top;
+		pos base jcircumflex  <anchor 129 -170> mark @mark_bottom <anchor 129 768> mark @mark_top;
+		pos base k  <anchor 261 0> mark @mark_bottom <anchor 261 720> mark @mark_top;
+		pos base kcommaaccent  <anchor 261 -230> mark @mark_bottom <anchor 261 720> mark @mark_top;
+		pos base l  <anchor 110 0> mark @mark_bottom <anchor 110 360> mark @mark_center <anchor 110 720> mark @mark_top;
+		pos base lacute  <anchor 110 0> mark @mark_bottom <anchor 110 360> mark @mark_center <anchor 130 973> mark @mark_top;
+		pos base lcaron  <anchor 110 0> mark @mark_bottom <anchor 110 360> mark @mark_center <anchor 110 720> mark @mark_top;
+		pos base lcommaaccent  <anchor 80 -230> mark @mark_bottom <anchor 110 360> mark @mark_center <anchor 110 720> mark @mark_top;
+		pos base ldot  <anchor 110 0> mark @mark_bottom <anchor 110 360> mark @mark_center <anchor 110 720> mark @mark_top;
+		pos base lj  <anchor 349 -170> mark @mark_bottom <anchor 110 360> mark @mark_center <anchor 349 687> mark @mark_top;
+		pos base m  <anchor 439 0> mark @mark_bottom <anchor 439 515> mark @mark_top;
+		pos base n  <anchor 275 0> mark @mark_bottom <anchor 275 515> mark @mark_top;
+		pos base nacute  <anchor 275 0> mark @mark_bottom <anchor 295 768> mark @mark_top;
+		pos base ncaron  <anchor 275 0> mark @mark_bottom <anchor 275 768> mark @mark_top;
+		pos base ncommaaccent  <anchor 275 -230> mark @mark_bottom <anchor 275 515> mark @mark_top;
+		pos base nj  <anchor 679 -170> mark @mark_bottom <anchor 679 687> mark @mark_top;
+		pos base ntilde  <anchor 275 0> mark @mark_bottom <anchor 275 697> mark @mark_top;
+		pos base eng  <anchor 688 -170> mark @mark_bottom <anchor 688 515> mark @mark_top;
+		pos base o  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 515> mark @mark_top;
+		pos base oacute  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 293 768> mark @mark_top;
+		pos base oacute.loclVIT  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 293 768> mark @mark_top;
+		pos base obreve  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 768> mark @mark_top;
+		pos base ocircumflex  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 768> mark @mark_top;
+		pos base ocircumflex.loclVIT  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 768> mark @mark_top;
+		pos base ocircumflexacute  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 452 901> mark @mark_top;
+		pos base ocircumflexdotbelow  <anchor 273 -175> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 768> mark @mark_top;
+		pos base ocircumflexgrave  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 389 899> mark @mark_top;
+		pos base ocircumflexhookabove  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 423 882> mark @mark_top;
+		pos base ocircumflextilde  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 768> mark @mark_top;
+		pos base odblgrave  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 243 768> mark @mark_top;
+		pos base odieresis  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 687> mark @mark_top;
+		pos base odieresismacron  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 846> mark @mark_top;
+		pos base odotaccentmacron  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 846> mark @mark_top;
+		pos base odotbelow  <anchor 273 -175> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 515> mark @mark_top;
+		pos base ograve  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 768> mark @mark_top;
+		pos base ograve.loclVIT  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 768> mark @mark_top;
+		pos base ohookabove  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 267 773> mark @mark_top;
+		pos base ohorn  <anchor 275 0> mark @mark_bottom <anchor 275 515> mark @mark_top;
+		pos base ohornacute  <anchor 275 0> mark @mark_bottom <anchor 295 768> mark @mark_top;
+		pos base ohorndotbelow  <anchor 275 -175> mark @mark_bottom <anchor 275 515> mark @mark_top;
+		pos base ohorngrave  <anchor 275 0> mark @mark_bottom <anchor 275 768> mark @mark_top;
+		pos base ohornhookabove  <anchor 275 0> mark @mark_bottom <anchor 269 773> mark @mark_top;
+		pos base ohorntilde  <anchor 275 0> mark @mark_bottom <anchor 275 515> mark @mark_top;
+		pos base ohungarumlaut  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 242 731> mark @mark_top;
+		pos base oinvertedbreve  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 247 773> mark @mark_top;
+		pos base omacron  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 674> mark @mark_top;
+		pos base oogonek  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 515> mark @mark_top;
+		pos base oslash  <anchor 268 0> mark @mark_bottom <anchor 268 258> mark @mark_center <anchor 268 515> mark @mark_top;
+		pos base oslashacute  <anchor 268 0> mark @mark_bottom <anchor 268 258> mark @mark_center <anchor 288 768> mark @mark_top;
+		pos base otilde  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 697> mark @mark_top;
+		pos base otilde.loclVIT  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 697> mark @mark_top;
+		pos base otildemacron  <anchor 273 0> mark @mark_bottom <anchor 273 258> mark @mark_center <anchor 273 846> mark @mark_top;
+		pos base p.ss03  <anchor 55 -205> mark @mark_bottom <anchor 285 257> mark @mark_center <anchor 285 515> mark @mark_top;
+		pos base r  <anchor 184 0> mark @mark_bottom <anchor 204 515> mark @mark_top;
+		pos base racute  <anchor 184 0> mark @mark_bottom <anchor 224 768> mark @mark_top;
+		pos base rcaron  <anchor 184 0> mark @mark_bottom <anchor 204 768> mark @mark_top;
+		pos base rcommaaccent  <anchor 74 -230> mark @mark_bottom <anchor 204 515> mark @mark_top;
+		pos base rdblgrave  <anchor 184 0> mark @mark_bottom <anchor 174 768> mark @mark_top;
+		pos base rinvertedbreve  <anchor 184 0> mark @mark_bottom <anchor 178 773> mark @mark_top;
+		pos base s  <anchor 240 0> mark @mark_bottom <anchor 240 515> mark @mark_top;
+		pos base s.ss02  <anchor 240 0> mark @mark_bottom <anchor 240 515> mark @mark_top;
+		pos base sacute  <anchor 240 0> mark @mark_bottom <anchor 260 768> mark @mark_top;
+		pos base scaron  <anchor 240 0> mark @mark_bottom <anchor 240 768> mark @mark_top;
+		pos base scedilla  <anchor 240 -200> mark @mark_bottom <anchor 240 515> mark @mark_top;
+		pos base scircumflex  <anchor 240 0> mark @mark_bottom <anchor 240 768> mark @mark_top;
+		pos base scommaaccent  <anchor 240 -230> mark @mark_bottom <anchor 240 515> mark @mark_top;
+		pos base t  <anchor 176 0> mark @mark_bottom <anchor 176 258> mark @mark_center <anchor 176 515> mark @mark_top;
+		pos base tcaron  <anchor 176 258> mark @mark_center <anchor 176 515> mark @mark_top;
+		pos base tcedilla  <anchor 196 -200> mark @mark_bottom <anchor 176 258> mark @mark_center <anchor 176 515> mark @mark_top;
+		pos base tcommaaccent  <anchor 156 -230> mark @mark_bottom <anchor 176 258> mark @mark_center <anchor 176 515> mark @mark_top;
+		pos base u  <anchor 274 0> mark @mark_bottom <anchor 274 515> mark @mark_top;
+		pos base uacute  <anchor 274 0> mark @mark_bottom <anchor 294 768> mark @mark_top;
+		pos base uacute.loclVIT  <anchor 274 0> mark @mark_bottom <anchor 294 768> mark @mark_top;
+		pos base ubreve  <anchor 274 0> mark @mark_bottom <anchor 274 768> mark @mark_top;
+		pos base ucircumflex  <anchor 274 0> mark @mark_bottom <anchor 274 768> mark @mark_top;
+		pos base udblgrave  <anchor 274 0> mark @mark_bottom <anchor 244 768> mark @mark_top;
+		pos base udieresis  <anchor 274 0> mark @mark_bottom <anchor 274 687> mark @mark_top;
+		pos base udotbelow  <anchor 274 -175> mark @mark_bottom <anchor 274 515> mark @mark_top;
+		pos base ugrave  <anchor 274 0> mark @mark_bottom <anchor 274 768> mark @mark_top;
+		pos base ugrave.loclVIT  <anchor 274 0> mark @mark_bottom <anchor 274 768> mark @mark_top;
+		pos base uhookabove  <anchor 274 0> mark @mark_bottom <anchor 268 773> mark @mark_top;
+		pos base uhorn  <anchor 274 0> mark @mark_bottom <anchor 274 515> mark @mark_top;
+		pos base uhornacute  <anchor 274 0> mark @mark_bottom <anchor 294 768> mark @mark_top;
+		pos base uhorndotbelow  <anchor 274 -175> mark @mark_bottom <anchor 274 515> mark @mark_top;
+		pos base uhorngrave  <anchor 274 0> mark @mark_bottom <anchor 274 768> mark @mark_top;
+		pos base uhornhookabove  <anchor 274 0> mark @mark_bottom <anchor 268 773> mark @mark_top;
+		pos base uhorntilde  <anchor 274 0> mark @mark_bottom <anchor 274 728> mark @mark_top;
+		pos base uhungarumlaut  <anchor 274 0> mark @mark_bottom <anchor 243 731> mark @mark_top;
+		pos base uinvertedbreve  <anchor 274 0> mark @mark_bottom <anchor 248 773> mark @mark_top;
+		pos base umacron  <anchor 274 0> mark @mark_bottom <anchor 274 674> mark @mark_top;
+		pos base uogonek  <anchor 274 0> mark @mark_bottom <anchor 274 515> mark @mark_top;
+		pos base uring  <anchor 274 0> mark @mark_bottom <anchor 275 769> mark @mark_top;
+		pos base utilde  <anchor 274 0> mark @mark_bottom <anchor 274 697> mark @mark_top;
+		pos base w  <anchor 349 0> mark @mark_bottom <anchor 349 515> mark @mark_top;
+		pos base wacute  <anchor 349 0> mark @mark_bottom <anchor 369 768> mark @mark_top;
+		pos base wcircumflex  <anchor 349 0> mark @mark_bottom <anchor 349 768> mark @mark_top;
+		pos base wdieresis  <anchor 349 0> mark @mark_bottom <anchor 349 687> mark @mark_top;
+		pos base wgrave  <anchor 349 0> mark @mark_bottom <anchor 349 768> mark @mark_top;
+		pos base y  <anchor 249 0> mark @mark_bottom <anchor 249 515> mark @mark_top;
+		pos base y.ss02  <anchor 241 0> mark @mark_bottom <anchor 241 515> mark @mark_top;
+		pos base yacute  <anchor 249 0> mark @mark_bottom <anchor 269 768> mark @mark_top;
+		pos base yacute.loclVIT  <anchor 249 0> mark @mark_bottom <anchor 269 768> mark @mark_top;
+		pos base ycircumflex  <anchor 249 0> mark @mark_bottom <anchor 249 768> mark @mark_top;
+		pos base ydieresis  <anchor 249 0> mark @mark_bottom <anchor 249 687> mark @mark_top;
+		pos base ydotbelow  <anchor 344 -175> mark @mark_bottom <anchor 249 515> mark @mark_top;
+		pos base ygrave  <anchor 249 0> mark @mark_bottom <anchor 249 768> mark @mark_top;
+		pos base ygrave.loclVIT  <anchor 249 0> mark @mark_bottom <anchor 209 768> mark @mark_top;
+		pos base yhookabove  <anchor 249 0> mark @mark_bottom <anchor 243 773> mark @mark_top;
+		pos base ymacron  <anchor 249 0> mark @mark_bottom <anchor 249 674> mark @mark_top;
+		pos base ytilde  <anchor 249 0> mark @mark_bottom <anchor 249 697> mark @mark_top;
+		pos base z  <anchor 243 0> mark @mark_bottom <anchor 243 258> mark @mark_center <anchor 243 515> mark @mark_top;
+		pos base zacute  <anchor 243 0> mark @mark_bottom <anchor 243 258> mark @mark_center <anchor 263 768> mark @mark_top;
+		pos base zcaron  <anchor 243 0> mark @mark_bottom <anchor 243 258> mark @mark_center <anchor 243 768> mark @mark_top;
+		pos base zdotaccent  <anchor 243 0> mark @mark_bottom <anchor 243 258> mark @mark_center <anchor 243 687> mark @mark_top;
+		pos base ordfeminine  <anchor 189 24> mark @mark_bottom <anchor 189 378> mark @mark_top;
+		pos base ordmasculine  <anchor 329 0> mark @mark_bottom <anchor 329 258> mark @mark_center <anchor 329 515> mark @mark_top;
+		pos base florin  <anchor 944 88> mark @mark_bottom <anchor 955 490> mark @mark_top;
+		pos base dottedCircle  <anchor 0 0> mark @mark_bottom <anchor 0 0> mark @mark_top;
+	} mark_latn;
+	lookup mark_latn_mark2Liga {
+		pos ligature f_f
+			<anchor 193 0> mark @mark_bottom
+			<anchor 193 720> mark @mark_top
+			ligComponent
+			<anchor 518 0> mark @mark_bottom
+			<anchor 518 720> mark @mark_top
+			;
+	} mark_latn_mark2Liga;
+	lookupflag 0;
+	script latn;
+	lookup mark_latn;
+	lookup mark_latn_mark2Liga;
+	lookupflag 0;
+### open feature 'mark' ###
+### close feature 'mark' ###
+} mark;
+
+### feature:-1:mkmk ###
+feature mkmk {
+### open feature 'mkmk' ###
+	lookup mkmk_DFLT_bottom {
+		lookupflag UseMarkFilteringSet @mark_bottom;
+		pos mark dotbelowcomb <anchor 89 -175> mark @mark_bottom;
+		pos mark dieresisbelowcomb <anchor 171 -172> mark @mark_bottom;
+		pos mark commaaccentcomb <anchor 114 -230> mark @mark_bottom;
+		pos mark cedillacomb <anchor 156 -200> mark @mark_bottom;
+		pos mark brevebelowcomb <anchor 182 -185> mark @mark_bottom;
+		pos mark macronbelowcomb <anchor 194 -170> mark @mark_bottom;
+	} mkmk_DFLT_bottom;
+	lookup mkmk_DFLT_top {
+		lookupflag UseMarkFilteringSet @mark_top;
+		pos mark dieresiscomb <anchor 177 687> mark @mark_top;
+		pos mark dieresiscomb.narrow <anchor 157 687> mark @mark_top;
+		pos mark dotaccentcomb <anchor 90 687> mark @mark_top;
+		pos mark gravecomb <anchor 143 768> mark @mark_top;
+		pos mark gravecomb.loclVIT <anchor 126 768> mark @mark_top;
+		pos mark gravecomb.loclVIT.narrow <anchor 126 768> mark @mark_top;
+		pos mark gravecomb.narrow <anchor 110 768> mark @mark_top;
+		pos mark acutecomb <anchor 112 768> mark @mark_top;
+		pos mark acutecomb.loclVIT <anchor 112 768> mark @mark_top;
+		pos mark acutecomb.loclVIT.narrow <anchor 112 768> mark @mark_top;
+		pos mark acutecomb.narrow <anchor 96 768> mark @mark_top;
+		pos mark hungarumlautcomb <anchor 157 731> mark @mark_top;
+		pos mark hungarumlautcomb.case <anchor 196 754> mark @mark_top;
+		pos mark circumflexcomb <anchor 186 768> mark @mark_top;
+		pos mark circumflexcomb.case <anchor 195 768> mark @mark_top;
+		pos mark circumflexcomb.loclVIT <anchor 193 768> mark @mark_top;
+		pos mark circumflexcomb.narrow <anchor 162 768> mark @mark_top;
+		pos mark caroncomb <anchor 188 768> mark @mark_top;
+		pos mark caroncomb.case <anchor 195 759> mark @mark_top;
+		pos mark brevecomb <anchor 207 768> mark @mark_top;
+		pos mark brevecomb.loclVIT <anchor 1078 768> mark @mark_top;
+		pos mark brevecomb.narrow <anchor 1042 768> mark @mark_top;
+		pos mark ringcomb <anchor 147 769> mark @mark_top;
+		pos mark tildecomb <anchor 196 697> mark @mark_top;
+		pos mark tildecomb.loclVIT <anchor 201 728> mark @mark_top;
+		pos mark tildecomb.narrow <anchor 169 697> mark @mark_top;
+		pos mark macroncomb <anchor 194 674> mark @mark_top;
+		pos mark macroncomb.narrow <anchor 159 674> mark @mark_top;
+		pos mark hookabovecomb <anchor 127 773> mark @mark_top;
+		pos mark dblgravecomb <anchor 205 768> mark @mark_top;
+		pos mark dblgravecomb.case <anchor 196 754> mark @mark_top;
+		pos mark dblgravecomb.narrow <anchor -117 768> mark @mark_top;
+		pos mark breveinvertedcomb <anchor 182 773> mark @mark_top;
+		pos mark breveinvertedcomb.case <anchor 207 747> mark @mark_top;
+		pos mark breveinvertedcomb.narrow <anchor 182 773> mark @mark_top;
+		pos mark commaturnedabovecomb <anchor 119 838> mark @mark_top;
+		pos mark commaturnedabovecomb.case <anchor 119 838> mark @mark_top;
+	} mkmk_DFLT_top;
+	lookup mkmk_latn_top {
+		lookupflag UseMarkFilteringSet @mark_top;
+		pos mark brevecomb_hookabovecomb <anchor 185 882> mark @mark_top;
+		pos mark circumflexcomb_tildecomb <anchor 200 768> mark @mark_top;
+	} mkmk_latn_top;
+### close feature 'mkmk' ###
+} mkmk;
+
+table GDEF {
+ GlyphClassDef [A A.ss02 Aacute Aacute.loclVIT Abreve Abreve.loclVIT Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflex.loclVIT Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Agrave.loclVIT Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde Atilde.loclVIT AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E Eacute Eacute.loclVIT Ebreve Ecaron Ecircumflex Ecircumflex.loclVIT Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Egrave.loclVIT Ehookabove Einvertedbreve Emacron Eogonek Etilde G G.ss02 Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H H.ss02 Hbar Hcircumflex I Iacute Iacute.loclVIT Ibreve Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Igrave.loclVIT Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L L.ss02 LJ Lacute Lcaron Lcommaaccent Ldot Lj N NJ Nacute Ncaron Ncommaaccent Nj Ntilde Eng O O.ss02 Oacute Oacute.loclVIT Obreve Ocircumflex Ocircumflex.loclVIT Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ograve.loclVIT Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otilde.loclVIT Otildemacron OE P R R.ss02 Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S S.ss02 Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Uacute.loclVIT Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Ugrave.loclVIT Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Yacute.loclVIT Ycircumflex Ydieresis Ydotbelow Ygrave Ygrave.loclVIT Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent a a.ss01 a.ss02 aacute aacute.loclVIT aacute.loclVIT.ss01 aacute.ss01 abreve abreve.loclVIT abreve.loclVIT.ss01 abreve.ss01 abreveacute abrevedotbelow abrevedotbelow.ss01 abrevegrave abrevehookabove abrevetilde acircumflex acircumflex.loclVIT acircumflex.loclVIT.ss01 acircumflex.ss01 acircumflexacute acircumflexdotbelow acircumflexdotbelow.ss01 acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adblgrave.ss01 adieresis adieresis.ss01 adotbelow adotbelow.ss01 agrave agrave.loclVIT agrave.loclVIT.ss01 agrave.ss01 ahookabove ahookabove.ss01 ainvertedbreve ainvertedbreve.ss01 amacron amacron.ss01 aogonek.ss01 aring aring.ss01 aringacute aringacute.ss01 atilde atilde.loclVIT atilde.loclVIT.ss01 atilde.ss01 ae ae.ss01 aeacute aeacute.ss01 c cacute ccaron ccedilla ccircumflex cdotaccent d d.ss03 dcaron dzcaron e eacute eacute.loclVIT ebreve ecaron ecircumflex ecircumflex.loclVIT ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave egrave.loclVIT ehookabove einvertedbreve emacron eogonek etilde schwa f gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute iacute.loclVIT ibreve icircumflex idblgrave idieresis idotaccent idotbelow igrave igrave.loclVIT ihookabove iinvertedbreve ij imacron iogonek itilde j j.ss02 jdotless jdotless.ss02 jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lj m n nacute ncaron ncommaaccent nj ntilde eng o oacute oacute.loclVIT obreve ocircumflex ocircumflex.loclVIT ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccentmacron odotbelow ograve ograve.loclVIT ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron oogonek oslash oslashacute otilde otilde.loclVIT otildemacron p.ss03 r racute rcaron rcommaaccent rdblgrave rinvertedbreve s s.ss02 sacute scaron scedilla scircumflex scommaaccent t tcaron tcedilla tcommaaccent u uacute uacute.loclVIT ubreve ucircumflex udblgrave udieresis udotbelow ugrave ugrave.loclVIT uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron uogonek uring utilde w wacute wcircumflex wdieresis wgrave y y.ss02 yacute yacute.loclVIT ycircumflex ydieresis ydotbelow ygrave ygrave.loclVIT yhookabove ymacron ytilde z zacute zcaron zdotaccent ordfeminine ordmasculine pi florin trademark cedi colonsign dollar dottedCircle],# Base 
+ [a_germandbls f_f f_f_i f_f_l f_i fl idieresis_idieresis], # Liga 
+ [brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb dieresiscomb dieresiscomb.case dieresiscomb.narrow dotaccentcomb dotaccentcomb.case gravecomb gravecomb.case gravecomb.loclVIT gravecomb.loclVIT.narrow gravecomb.narrow acutecomb acutecomb.case acutecomb.loclVIT acutecomb.loclVIT.narrow acutecomb.narrow hungarumlautcomb hungarumlautcomb.case caroncomb.alt circumflexcomb circumflexcomb.case circumflexcomb.loclVIT circumflexcomb.narrow caroncomb caroncomb.case brevecomb brevecomb.case brevecomb.loclVIT brevecomb.narrow ringcomb ringcomb.case tildecomb tildecomb.case tildecomb.loclVIT tildecomb.narrow macroncomb macroncomb.case macroncomb.narrow hookabovecomb hookabovecomb.case dblgravecomb dblgravecomb.case dblgravecomb.narrow breveinvertedcomb breveinvertedcomb.case breveinvertedcomb.narrow commaturnedabovecomb commaturnedabovecomb.case horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb strokeshortcomb], # Mark 
+ ;
+ LigatureCaretByPos f_f 355;
+LigatureCaretByPos f_f_i 286 572;
+LigatureCaretByPos f_f_l 283 567;
+} GDEF;

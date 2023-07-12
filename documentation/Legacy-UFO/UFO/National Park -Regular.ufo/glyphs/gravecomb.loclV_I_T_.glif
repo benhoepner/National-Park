@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.loclVIT" format="2">
+	<advance width="0"/>
+	<anchor x="166" y="515" name="_top"/>
+	<anchor x="126" y="768" name="top"/>
+	<outline>
+		<component base="acutecomb.loclVIT" xScale="-1" xOffset="242"/>
+	</outline>
+</glyph>

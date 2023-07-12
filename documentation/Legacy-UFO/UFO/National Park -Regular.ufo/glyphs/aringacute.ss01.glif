@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute.ss01" format="2">
+	<advance width="576"/>
+	<outline>
+		<component base="a.ss01"/>
+		<component base="ringcomb" xOffset="127" yOffset="-60"/>
+		<component base="acutecomb.case" xOffset="202" yOffset="174"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>ringcomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>acutecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

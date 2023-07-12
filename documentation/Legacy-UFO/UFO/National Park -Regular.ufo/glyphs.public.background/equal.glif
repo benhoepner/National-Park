@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="2">
+	<advance width="539"/>
+	<outline>
+		<contour>
+			<point x="44" y="265" type="move"/>
+			<point x="491" y="265" type="line"/>
+		</contour>
+		<contour>
+			<point x="48" y="455" type="move"/>
+			<point x="495" y="455" type="line"/>
+		</contour>
+	</outline>
+</glyph>

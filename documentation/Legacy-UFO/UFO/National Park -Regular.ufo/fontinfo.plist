@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>720</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>descender</key>
+	<integer>-170</integer>
+	<key>familyName</key>
+	<string>National Park </string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>156</integer>
+			<key>y</key>
+			<integer>891</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/08/11 14:44:05</string>
+	<key>openTypeHheaAscender</key>
+	<integer>0</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-170</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Andrea Herstowski</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>0</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-170</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>765</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>170</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-15.0</real>
+		<real>0.0</real>
+		<real>515.0</real>
+		<real>530.0</real>
+		<real>700.0</real>
+		<real>715.0</real>
+		<real>720.0</real>
+		<real>735.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>NationalPark-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<real>-185.0</real>
+		<real>-170.0</real>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<real>80.0</real>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>5</integer>
+	<key>xHeight</key>
+	<integer>515</integer>
+</dict>
+</plist>
