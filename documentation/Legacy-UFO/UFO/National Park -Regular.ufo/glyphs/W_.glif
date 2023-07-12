@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+	<advance width="821"/>
+	<unicode hex="0057"/>
+	<anchor x="411" y="0" name="bottom"/>
+	<anchor x="411" y="700" name="top"/>
+	<outline>
+		<contour>
+			<point x="217" y="-15" type="curve" smooth="yes"/>
+			<point x="236" y="-15"/>
+			<point x="257" y="0"/>
+			<point x="266" y="31" type="curve" smooth="yes"/>
+			<point x="419" y="573" type="line"/>
+			<point x="399" y="573" type="line"/>
+			<point x="555" y="31" type="line" smooth="yes"/>
+			<point x="564" y="0"/>
+			<point x="585" y="-15"/>
+			<point x="604" y="-15" type="curve" smooth="yes"/>
+			<point x="623" y="-15"/>
+			<point x="646" y="0"/>
+			<point x="653" y="31" type="curve" smooth="yes"/>
+			<point x="799" y="663" type="line" smooth="yes"/>
+			<point x="800" y="667"/>
+			<point x="801" y="671"/>
+			<point x="801" y="676" type="curve" smooth="yes"/>
+			<point x="801" y="698"/>
+			<point x="782" y="715"/>
+			<point x="760" y="715" type="curve" smooth="yes"/>
+			<point x="743" y="715"/>
+			<point x="726" y="704"/>
+			<point x="723" y="689" type="curve" smooth="yes"/>
+			<point x="590" y="99" type="line"/>
+			<point x="615" y="100" type="line"/>
+			<point x="451" y="679" type="line" smooth="yes"/>
+			<point x="445" y="700"/>
+			<point x="428" y="715"/>
+			<point x="409" y="715" type="curve" smooth="yes"/>
+			<point x="391" y="715"/>
+			<point x="374" y="700"/>
+			<point x="368" y="679" type="curve" smooth="yes"/>
+			<point x="207" y="100" type="line"/>
+			<point x="231" y="99" type="line"/>
+			<point x="98" y="689" type="line" smooth="yes"/>
+			<point x="95" y="704"/>
+			<point x="78" y="715"/>
+			<point x="61" y="715" type="curve" smooth="yes"/>
+			<point x="39" y="715"/>
+			<point x="20" y="698"/>
+			<point x="20" y="676" type="curve" smooth="yes"/>
+			<point x="20" y="671"/>
+			<point x="21" y="667"/>
+			<point x="22" y="663" type="curve" smooth="yes"/>
+			<point x="168" y="31" type="line" smooth="yes"/>
+			<point x="175" y="0"/>
+			<point x="198" y="-15"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>A</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+		</dict>
+	</lib>
+</glyph>

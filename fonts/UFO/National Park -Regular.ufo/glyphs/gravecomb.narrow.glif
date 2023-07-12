@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gravecomb.narrow" format="2">
-	<advance width="0"/>
-	<anchor x="140" y="515" name="_top"/>
-	<anchor x="110" y="768" name="top"/>
-	<outline>
-		<component base="acutecomb.narrow" xScale="-1" xOffset="209"/>
-	</outline>
-</glyph>

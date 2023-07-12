@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="registered.ss06" format="2">
+	<advance width="521"/>
+	<outline>
+		<contour>
+			<point x="-365" y="16" type="curve" smooth="yes"/>
+			<point x="-182" y="16"/>
+			<point x="-33" y="166"/>
+			<point x="-33" y="351" type="curve" smooth="yes"/>
+			<point x="-33" y="536"/>
+			<point x="-182" y="683"/>
+			<point x="-365" y="683" type="curve" smooth="yes"/>
+			<point x="-551" y="683"/>
+			<point x="-700" y="536"/>
+			<point x="-700" y="351" type="curve" smooth="yes"/>
+			<point x="-700" y="166"/>
+			<point x="-551" y="16"/>
+		</contour>
+	</outline>
+</glyph>

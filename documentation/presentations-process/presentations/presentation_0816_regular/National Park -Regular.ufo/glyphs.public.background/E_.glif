@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="2">
+	<advance width="544"/>
+	<outline>
+		<contour>
+			<point x="502" y="40" type="move"/>
+			<point x="120" y="40" type="line"/>
+			<point x="123" y="663" type="line"/>
+			<point x="476" y="663" type="line"/>
+		</contour>
+		<contour>
+			<point x="123" y="366" type="move"/>
+			<point x="453" y="366" type="line"/>
+		</contour>
+	</outline>
+</glyph>
