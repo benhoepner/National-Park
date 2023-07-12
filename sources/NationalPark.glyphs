@@ -109779,7 +109779,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023";
+value = "Copyright 2023 The National Park Project Authors (https://github.com/benhoepner/National-Park)";
 }
 );
 },
