@@ -39,7 +39,9 @@ Thương Tốt tất Nhất  Vồng Đứng B́ứt Đốc kỵ. người Ngư�
 "HH/Placeholder HO/Placeholder OO 
 ↑↗→↘↓↗↙←↖",
 "ǋ",
-A
+A,
+"°",
+"/quotedblbase.ss01"
 );
 axes = (
 {
@@ -55661,7 +55663,7 @@ unicode = 8222;
 },
 {
 glyphname = quotedblbase.ss01;
-lastChange = "2023-07-24 14:57:16 +0000";
+lastChange = "2023-07-24 19:35:41 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -55688,7 +55690,7 @@ layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 shapes = (
 {
 alignment = -1;
-pos = (-16,-616);
+pos = (-17,-616);
 ref = quotedblright.ss01;
 }
 );
