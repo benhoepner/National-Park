@@ -31,6 +31,16 @@ Jeremy Shellhorn is a designer, illustrator, and educator. He runs the DO (Desig
 
 The source materialfor this revival includes [photos and rubbings](https://github.com/benhoepner/National-Park/tree/master/references/photos-rubbings) of National Park signage as well as a [router file](https://github.com/benhoepner/National-Park/tree/master/references/router-file) supplying skeleton paths of a limited glyphset. 
 
+## Building
+
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+
+If you want to build fonts manually on your own computer:
+
+* `make build` will produce font files.
+* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make proof` will generate HTML proof files.
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
