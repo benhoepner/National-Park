@@ -40,7 +40,7 @@ Thương Tốt tất Nhất  Vồng Đứng B́ứt Đốc kỵ. người Ngư�
 ↑↗→↘↓↗↙←↖",
 "æ",
 "/_pathCurrencyVert/_pathCurrencyVert ฿",
-$ao,
+$aonHO,
 "̧çşţ/cedillacomb.case ¸",
 "/_pathCurrencyVert"
 );
@@ -574,7 +574,10 @@ pos = -200;
 );
 name = ExtraLight;
 stemValues = (
-46
+45,
+47,
+43,
+44
 );
 userData = {
 GSCornerRadius = 120;
@@ -664,7 +667,10 @@ pos = -200;
 );
 name = Regular;
 stemValues = (
-82
+81,
+84,
+74,
+77
 );
 },
 {
@@ -740,7 +746,10 @@ pos = -200;
 );
 name = ExtraBold;
 stemValues = (
-156
+150,
+157,
+137,
+140
 );
 userData = {
 GSCornerRadius = 15;
@@ -32363,7 +32372,7 @@ unicode = 109;
 },
 {
 glyphname = n;
-lastChange = "2023-07-24 14:47:15 +0000";
+lastChange = "2023-08-02 01:12:41 +0000";
 layers = (
 {
 anchors = (
@@ -32756,20 +32765,20 @@ nodes = (
 (151,333,ls),
 (151,408,o),
 (218,456,o),
-(294,456,cs),
-(366,456,o),
-(415,411,o),
-(415,335,cs),
-(415,32,ls),
-(415,8,o),
-(431,-10,o),
+(292,456,cs),
+(365,456,o),
+(414,411,o),
+(414,335,cs),
+(414,32,ls),
+(414,8,o),
+(430,-10,o),
 (455,-10,cs),
-(478,-10,o),
-(494,8,o),
-(494,32,cs),
-(494,338,ls),
-(494,461,o),
-(413,530,o),
+(479,-10,o),
+(495,8,o),
+(495,32,cs),
+(495,338,ls),
+(495,461,o),
+(414,530,o),
 (306,530,cs),
 (238,530,o),
 (177,500,o),
@@ -61077,8 +61086,9 @@ metricRight = o;
 unicode = 8470;
 },
 {
+color = 4;
 glyphname = dollar;
-lastChange = "2023-08-02 00:33:53 +0000";
+lastChange = "2023-08-02 01:08:58 +0000";
 layers = (
 {
 anchors = (
@@ -85739,6 +85749,15 @@ keepAlternatesTogether = 1;
 stems = (
 {
 name = vStem0;
+},
+{
+name = vStem1;
+},
+{
+name = hStem0;
+},
+{
+name = hStem1;
 }
 );
 unitsPerEm = 1000;
@@ -85805,5 +85824,5 @@ oV = "81";
 };
 };
 versionMajor = 1;
-versionMinor = 5;
+versionMinor = 6;
 }
