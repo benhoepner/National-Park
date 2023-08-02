@@ -41,7 +41,8 @@ Thương Tốt tất Nhất  Vồng Đứng B́ứt Đốc kỵ. người Ngư�
 "æ",
 "/_pathCurrencyVert/_pathCurrencyVert ฿",
 $ao,
-"̧çşţ/cedillacomb.case ¸"
+"̧çşţ/cedillacomb.case ¸",
+"/_pathCurrencyVert"
 );
 axes = (
 {
@@ -83767,7 +83768,7 @@ unicode = 697;
 },
 {
 glyphname = _pathCurrencyVert;
-lastChange = "2023-07-27 14:05:10 +0000";
+lastChange = "2023-08-02 00:54:07 +0000";
 layers = (
 {
 background = {
@@ -83859,9 +83860,6 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(46,-84,o),
-(61,-99,o),
-(80,-99,cs),
 (99,-99,o),
 (114,-84,o),
 (114,-65,cs),
@@ -83872,7 +83870,10 @@ nodes = (
 (61,779,o),
 (46,764,o),
 (46,745,cs),
-(46,-65,ls)
+(46,-65,ls),
+(46,-84,o),
+(61,-99,o),
+(80,-99,cs)
 );
 }
 );
