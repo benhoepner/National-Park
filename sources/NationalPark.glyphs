@@ -37,9 +37,6 @@ Thương Tốt tất Nhất  Vồng Đứng B́ứt Đốc kỵ. người Ngư�
 "36015237 ",
 "HH/Placeholder HO/Placeholder OO 
 ↑↗→↘↓↗↙←↖",
-"/_pathCurrencyVert/_pathCurrencyVert ฿",
-$aonHO,
-"̧çşţ/cedillacomb.case ¸",
 "Ắ Ŋj",
 "a/Placeholder a b/Placeholder b c/Placeholder c d/Placeholder d e/Placeholder e f/Placeholder f g/Placeholder g h/Placeholder h i/Placeholder i jjj k/Placeholder k l/Placeholder l m/Placeholder m n/Placeholder n o/Placeholder o p/Placeholder p q/Placeholder q r/Placeholder r s/Placeholder s t/Placeholder t u/Placeholder u v/Placeholder v w/Placeholder w x/Placeholder x y/Placeholder y z/Placeholder z
 nn/Placeholder no/Placeholder oo
@@ -52,8 +49,7 @@ Twombli Tgmaiwan Taiwan Tomato Temperture Tiro Twardock Walking Wonder Wc Wd Wrc
 Kilo Londres Leon Lio Month Lyon Tốt
 
 Thương Tốt tất Nhất Vồng Đứng Bứt Đốc kỵ. người Ngưỡng",
-"æ/ae.ss01 ǽ/aeacute.ss01",
-"ŋ",
+"ŋj",
 "oơớ",
 "ǫ",
 "ş",
@@ -19656,7 +19652,7 @@ unicode = 379;
 },
 {
 glyphname = a;
-lastChange = "2023-08-02 00:40:00 +0000";
+lastChange = "2023-08-05 22:14:56 +0000";
 layers = (
 {
 anchors = (
@@ -34347,7 +34343,7 @@ unicode = 241;
 },
 {
 glyphname = eng;
-lastChange = "2023-08-05 20:07:19 +0000";
+lastChange = "2023-08-05 22:16:49 +0000";
 layers = (
 {
 anchors = (
@@ -34375,13 +34371,8 @@ nodes = (
 (374,389,o),
 (405,350,o),
 (405,291,cs),
-(405,65,ls),
-(405,24,o),
-(439,-10,o),
-(480,-10,cs),
-(521,-10,o),
-(555,24,o),
-(555,65,cs),
+(405,65,l),
+(555,65,l),
 (555,320,ls),
 (555,456,o),
 (476,530,o),
@@ -34458,13 +34449,8 @@ nodes = (
 (371,487,o),
 (430,440,o),
 (430,333,cs),
-(430,17,ls),
-(430,2,o),
-(437,-10,o),
-(453,-10,cs),
-(467,-10,o),
-(475,2,o),
-(475,17,cs),
+(430,17,l),
+(475,17,l),
 (475,333,ls),
 (475,473,o),
 (389,530,o),
@@ -34541,13 +34527,8 @@ nodes = (
 (365,456,o),
 (414,411,o),
 (414,335,cs),
-(414,32,ls),
-(414,8,o),
-(430,-10,o),
-(455,-10,cs),
-(479,-10,o),
-(495,8,o),
-(495,32,cs),
+(414,32,l),
+(495,32,l),
 (495,338,ls),
 (495,461,o),
 (414,530,o),
@@ -34573,12 +34554,12 @@ nodes = (
 closed = 1;
 nodes = (
 (453,-214,o),
-(494,-165,o),
-(494,-89,cs),
-(494,101,l),
-(415,101,l),
-(415,-88,ls),
-(415,-115,o),
+(495,-165,o),
+(495,-89,cs),
+(495,101,l),
+(414,101,l),
+(414,-88,ls),
+(414,-115,o),
 (410,-134,o),
 (385,-134,cs),
 (376,-134,o),
