@@ -1,0 +1,79 @@
+{
+  "fonts" : {
+    "default" : 0,
+    "fontProjects" : [
+
+    ],
+    "styles" : [
+      {
+        "active" : true,
+        "filePath" : "~/Dropbox/Mac (2)/Desktop/National-Park/fonts/variable/NationalPark[wght].ttf",
+        "info" : {
+          "designerName" : "Andrea Herstowski, Ben Hoepner",
+          "familyName" : "National Park",
+          "fontSlant" : 0,
+          "fontWeight" : 400,
+          "fontWidth" : 5,
+          "styleName" : "ExtraLight",
+          "upm" : 1000,
+          "variableAxes" : [
+            {
+              "defaultValue" : 400,
+              "hidden" : false,
+              "maximumValue" : 800,
+              "minimumValue" : 200,
+              "name" : "Weight",
+              "tag" : "wght"
+            }
+          ],
+          "version" : "1.006"
+        }
+      }
+    ]
+  },
+  "info" : {
+    "version" : 3
+  },
+  "sections" : [
+    {
+      "active" : true,
+      "content" : "Hello",
+      "design" : {
+        "fontSize" : 16,
+        "textAlign" : "left"
+      },
+      "layout" : "simple",
+      "name" : "New Section"
+    }
+  ],
+  "settings" : {
+    "exportedFiles" : {
+      "addStyleName" : false,
+      "addTimestamp" : false,
+      "exportFolder" : "~/Dropbox/Mac (2)/Desktop",
+      "fileName" : "Font Proof",
+      "multiplePDFs" : true
+    },
+    "header" : {
+      "localizeDate" : true,
+      "showDesigner" : true,
+      "showFileName" : false,
+      "showSectionName" : true,
+      "showVersion" : false
+    },
+    "labels" : {
+      "currentFont" : false,
+      "font" : "Avenir Next",
+      "fontSize" : 10
+    },
+    "pageSize" : {
+      "height" : 612.00000000000102,
+      "width" : 792.00000000000102
+    },
+    "removeEmptyGlyphs" : true,
+    "units" : {
+      "layout" : "in",
+      "typography" : "pt"
+    }
+  }
+}
