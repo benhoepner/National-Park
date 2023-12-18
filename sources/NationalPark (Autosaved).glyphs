@@ -4074,7 +4074,7 @@ unicode = 199;
 },
 {
 glyphname = Ccircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -4096,7 +4096,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (157,1);
+pos = (157,153);
 ref = circumflexcomb.case;
 }
 );
@@ -4119,6 +4119,7 @@ width = 604.5;
 }
 );
 unicode = 264;
+changeCount = 1;
 },
 {
 glyphname = Cdotaccent;
@@ -5042,7 +5043,7 @@ unicode = 282;
 },
 {
 glyphname = Ecircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -5064,7 +5065,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (103,1);
+pos = (103,153);
 ref = circumflexcomb.case;
 }
 );
@@ -5087,10 +5088,11 @@ width = 547;
 }
 );
 unicode = 202;
+changeCount = 1;
 },
 {
 glyphname = Ecircumflex.loclVIT;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -5112,7 +5114,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (103,1);
+pos = (103,153);
 ref = circumflexcomb.case;
 }
 );
@@ -5134,6 +5136,7 @@ ref = circumflexcomb.case;
 width = 547;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = Ecircumflexacute;
@@ -5185,7 +5188,7 @@ unicode = 7870;
 },
 {
 glyphname = Ecircumflexdotbelow;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -5215,7 +5218,7 @@ pos = (195,0);
 ref = dotbelowcomb;
 },
 {
-pos = (103,1);
+pos = (103,153);
 ref = circumflexcomb.case;
 }
 );
@@ -5243,6 +5246,7 @@ width = 547;
 }
 );
 unicode = 7878;
+changeCount = 1;
 },
 {
 glyphname = Ecircumflexgrave;
@@ -7012,7 +7016,7 @@ unicode = 486;
 },
 {
 glyphname = Gcircumflex;
-lastChange = "2023-09-19 13:38:35 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -7034,7 +7038,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (163,1);
+pos = (163,153);
 ref = circumflexcomb.case;
 }
 );
@@ -7057,6 +7061,7 @@ width = 623;
 }
 );
 unicode = 284;
+changeCount = 1;
 },
 {
 glyphname = Gcommaaccent;
@@ -7547,7 +7552,7 @@ unicode = 294;
 },
 {
 glyphname = Hcircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -7569,7 +7574,7 @@ shapes = (
 ref = H;
 },
 {
-pos = (141,1);
+pos = (141,153);
 ref = circumflexcomb.case;
 }
 );
@@ -7592,6 +7597,7 @@ width = 664.5;
 }
 );
 unicode = 292;
+changeCount = 1;
 },
 {
 glyphname = I;
@@ -9134,7 +9140,7 @@ width = 489;
 },
 {
 glyphname = Jcircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -9156,7 +9162,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (181,1);
+pos = (181,153);
 ref = circumflexcomb.case;
 }
 );
@@ -9179,6 +9185,7 @@ width = 489;
 }
 );
 unicode = 308;
+changeCount = 1;
 },
 {
 glyphname = K;
@@ -11494,7 +11501,7 @@ unicode = 334;
 },
 {
 glyphname = Ocircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -11516,7 +11523,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (164,1);
+pos = (164,153);
 ref = circumflexcomb.case;
 }
 );
@@ -11539,10 +11546,11 @@ width = 680;
 }
 );
 unicode = 212;
+changeCount = 1;
 },
 {
 glyphname = Ocircumflex.loclVIT;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -11564,7 +11572,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (164,1);
+pos = (164,153);
 ref = circumflexcomb.case;
 }
 );
@@ -11586,6 +11594,7 @@ ref = circumflexcomb.case;
 width = 680;
 }
 );
+changeCount = 1;
 },
 {
 glyphname = Ocircumflexacute;
@@ -11637,7 +11646,7 @@ unicode = 7888;
 },
 {
 glyphname = Ocircumflexdotbelow;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -11667,7 +11676,7 @@ pos = (256,0);
 ref = dotbelowcomb;
 },
 {
-pos = (164,1);
+pos = (164,153);
 ref = circumflexcomb.case;
 }
 );
@@ -11695,6 +11704,7 @@ width = 680;
 }
 );
 unicode = 7896;
+changeCount = 1;
 },
 {
 glyphname = Ocircumflexgrave;
@@ -15539,7 +15549,7 @@ unicode = 350;
 },
 {
 glyphname = Scircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -15561,7 +15571,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (106,1);
+pos = (106,153);
 ref = circumflexcomb.case;
 }
 );
@@ -15584,6 +15594,7 @@ width = 576;
 }
 );
 unicode = 348;
+changeCount = 1;
 },
 {
 glyphname = Scommaaccent;
@@ -16551,7 +16562,7 @@ unicode = 364;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -16573,7 +16584,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (147,1);
+pos = (147,153);
 ref = circumflexcomb.case;
 }
 );
@@ -16596,6 +16607,7 @@ width = 658.5;
 }
 );
 unicode = 219;
+changeCount = 1;
 },
 {
 glyphname = Udblgrave;
@@ -18159,7 +18171,7 @@ unicode = 7810;
 },
 {
 glyphname = Wcircumflex;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -18181,7 +18193,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (254,1);
+pos = (254,153);
 ref = circumflexcomb.case;
 }
 );
@@ -18204,6 +18216,7 @@ width = 828.5;
 }
 );
 unicode = 372;
+changeCount = 1;
 },
 {
 glyphname = Wdieresis;
@@ -18914,7 +18927,7 @@ width = 538;
 },
 {
 glyphname = Ycircumflex;
-lastChange = "2023-09-19 13:38:35 +0000";
+lastChange = "2023-12-11 22:18:18 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -18936,7 +18949,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (92,2);
+pos = (92,154);
 ref = circumflexcomb.case;
 }
 );
@@ -18959,6 +18972,7 @@ width = 551;
 }
 );
 unicode = 374;
+changeCount = 1;
 },
 {
 glyphname = Ydieresis;
