@@ -77,7 +77,10 @@ A,
 "̣.̣̇ỵ",
 "0123456789",
 ",",
-".,/comma.ss01 :;/semicolon.ss01 …!¡?¿·/periodcentered.case/periodcentered.loclCAT/periodcentered.loclCAT.case •*‖#///backslash -­–—‐_(){}[]"
+".,/comma.ss01 :;/semicolon.ss01 …!¡?¿·/periodcentered.case/periodcentered.loclCAT/periodcentered.loclCAT.case •*‖#///backslash -­–—‐_(){}[]",
+"/zero.dnom ₀",
+"₁₂₃₄₅₆₇₈₉",
+"AÁ/Aacute.loclVIT Ă/Abreve.loclVIT ẮẶẰẲẴÂ/Acircumflex.loclVIT ẤẬẦẨẪȀÄẠÀ/Agrave.loclVIT ẢȂĀ"
 );
 axes = (
 {
@@ -1150,7 +1153,7 @@ unicode = 65;
 },
 {
 glyphname = Aacute;
-lastChange = "2023-09-17 18:07:53 +0000";
+lastChange = "2024-01-03 15:50:54 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -1182,16 +1185,14 @@ width = 586;
 layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (220,0);
+pos = (171,120);
 ref = acutecomb.case;
 }
 );
-width = 591.5;
+width = 590;
 }
 );
 unicode = 193;
