@@ -1,8 +1,8 @@
 # National Park
 
-The letterforms found on the wooden signage at the Rocky Mountain National Park inspired the creation of the National Park Typeface. 
+The letterforms found on the wooden signage at the Rocky Mountain National Park inspired the creation of the National Park. 
 
-The letters on these wooden trail and directional signs are a system of paths, points, and curves that a router follows. The router’s "bit" follows the path and gives the letters its stroke weight or thickness when engraving a sign. Our National Park Typeface walks along the path of both honoring the quirky nature of the forms being created by a router bit and optimizing the forms to work in a variety of sizes and languages for print, web, and mobile platforms. 
+The letters on these wooden trail and directional signs are a system of paths, points, and curves that a router follows. The router’s "bit" follows the path and gives the letters its stroke weight or thickness when engraving a sign. National Park Typeface walks along the path of both honoring the quirky nature of the forms being created by a router bit and optimizing the forms to work in a variety of sizes and languages for print, web, and mobile platforms. 
 
 add image/s
 
@@ -20,7 +20,7 @@ Digitizing this charming router-carved type of US National Parks and designing N
 
 ## Designers
 
-Andrea Herstowski lives, teaches, and works in the university town of Lawrence, Kansas. Teaches typography, design, and professional practice at the University of Kansas. Her Typographic Universe course introduces design students to the vast world of type design. Before joining KU she worked as a graphic designer in San Francisco, Basel, and Frankfurt. https://andreaherstowski.xyz
+Andrea Herstowski teaches typography, design, and professional practice at the University of Kansas, Lawrence KC. Her Typographic Universe course introduces design students to the vast world of type design. Before joining KU she worked as a graphic designer in San Francisco, Basel, and Frankfurt. https://andreaherstowski.xyz
  
 Ben Hoepner is a designer drawn toward type design, publication, and arts and cultural heritage work.
 As a Visual Communication Design undergraduate student at the University of Kansas. Ben was instrumental in developing National Park for the Google Library. 
