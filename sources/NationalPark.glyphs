@@ -123,7 +123,9 @@ $1 $2 $3 $4 $5 $6 $7 $8 $9 $0
 Signing of the Magna Carta on June 15, 1215. Treaty of Paris on September 3, 1783. Declaration of Independence on July 4, 1776, in Philadelphia, Pennsylvania. Apollo 11 moon landing on July 20, 1969. Fall of the Berlin Wall on November 9, 1989. The Paris Agreement was reached on December 12, 2015.",
 "ȅȅ",
 ".·/periodcentered.loclCAT l/periodcentered.loclCAT ŀ",
-"Ă"
+"Ă",
+"ȁȁ",
+"č"
 );
 axes = (
 {
@@ -19044,7 +19046,7 @@ unicode = 379;
 glyphname = a;
 kernLeft = o;
 kernRight = n;
-lastChange = "2024-06-17 02:30:55 +0000";
+lastChange = "2024-06-17 15:10:55 +0000";
 layers = (
 {
 anchors = (
@@ -19058,7 +19060,7 @@ pos = (450,0);
 },
 {
 name = top;
-pos = (280,515);
+pos = (287,515);
 }
 );
 background = {
@@ -19769,7 +19771,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (140,0);
+pos = (147,0);
 ref = acutecomb;
 }
 );
@@ -19817,7 +19819,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (150,0);
+pos = (157,0);
 ref = acutecomb.loclVIT;
 }
 );
@@ -19958,7 +19960,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (53,0);
+pos = (60,0);
 ref = brevecomb;
 }
 );
@@ -20006,7 +20008,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (73,0);
+pos = (80,0);
 ref = brevecomb.loclVIT;
 }
 );
@@ -20147,7 +20149,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (73,0);
+pos = (80,0);
 ref = brevecomb_acutecomb;
 }
 );
@@ -20199,7 +20201,7 @@ pos = (157,0);
 ref = dotbelowcomb;
 },
 {
-pos = (53,0);
+pos = (60,0);
 ref = brevecomb;
 }
 );
@@ -20314,7 +20316,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (73,0);
+pos = (80,0);
 ref = brevecomb_gravecomb;
 }
 );
@@ -20362,7 +20364,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (73,0);
+pos = (80,0);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -20410,7 +20412,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (52,-215);
+pos = (59,-215);
 ref = brevecomb_tildecomb;
 }
 );
@@ -20458,7 +20460,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (56,0);
+pos = (63,0);
 ref = circumflexcomb;
 }
 );
@@ -20506,7 +20508,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (64,0);
+pos = (71,0);
 ref = circumflexcomb.loclVIT;
 }
 );
@@ -20647,7 +20649,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (62,0);
+pos = (69,0);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -20699,7 +20701,7 @@ pos = (157,0);
 ref = dotbelowcomb;
 },
 {
-pos = (56,0);
+pos = (63,0);
 ref = circumflexcomb;
 }
 );
@@ -20814,7 +20816,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (63,-1);
+pos = (70,-1);
 ref = circumflexcomb_gravecomb;
 }
 );
@@ -20862,7 +20864,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (64,0);
+pos = (71,0);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -20910,7 +20912,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (20,0);
+pos = (27,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -20949,7 +20951,7 @@ unicode = 7851;
 glyphname = adblgrave;
 kernLeft = a;
 kernRight = n;
-lastChange = "2024-01-11 15:19:23 +0000";
+lastChange = "2024-06-17 15:11:01 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -20958,7 +20960,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-45,0);
+pos = (-19,0);
 ref = dblgravecomb;
 }
 );
@@ -21006,7 +21008,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (-2,0);
+pos = (17,0);
 ref = dblgravecomb;
 }
 );
@@ -21052,7 +21054,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (27,0);
+pos = (34,0);
 ref = dieresiscomb;
 }
 );
@@ -21242,7 +21244,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (176,0);
+pos = (183,0);
 ref = gravecomb;
 }
 );
@@ -21290,7 +21292,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (150,0);
+pos = (157,0);
 ref = gravecomb.loclVIT;
 }
 );
@@ -21431,7 +21433,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (126,0);
+pos = (133,0);
 ref = hookabovecomb;
 }
 );
@@ -21526,7 +21528,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (53,0);
+pos = (60,0);
 ref = breveinvertedcomb;
 }
 );
@@ -21621,7 +21623,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (60,0);
+pos = (67,0);
 ref = macroncomb;
 }
 );
@@ -22023,7 +22025,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (133,0);
+pos = (140,0);
 ref = ringcomb;
 }
 );
@@ -22118,11 +22120,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (133,0);
+pos = (140,0);
 ref = ringcomb;
 },
 {
-pos = (140,268);
+pos = (147,268);
 ref = acutecomb;
 }
 );
@@ -22237,7 +22239,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (52,0);
+pos = (59,0);
 ref = tildecomb;
 }
 );
@@ -22285,7 +22287,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (52,0);
+pos = (59,0);
 ref = tildecomb.loclVIT;
 }
 );
@@ -26774,7 +26776,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (-41,0);
+pos = (-22,0);
 ref = dblgravecomb;
 }
 );
@@ -33361,7 +33363,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-27,0);
+pos = (-8,0);
 ref = dblgravecomb;
 }
 );
@@ -36046,7 +36048,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-106,0);
+pos = (-87,0);
 ref = dblgravecomb;
 }
 );
@@ -38367,7 +38369,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-17,0);
+pos = (2,0);
 ref = dblgravecomb;
 }
 );
@@ -84506,13 +84508,13 @@ width = 288.5;
 glyphname = dblgravecomb;
 kernLeft = dblgravecomb;
 kernRight = dblgravecomb;
-lastChange = "2024-06-17 15:07:58 +0000";
+lastChange = "2024-06-17 15:11:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (325,515);
+pos = (306,515);
 },
 {
 name = top;
