@@ -120,7 +120,10 @@ $1 $2 $3 $4 $5 $6 $7 $8 $9 $0
 1 ⅔ cup desiccated coconut
 1  cup milk
 
-Signing of the Magna Carta on June 15, 1215. Treaty of Paris on September 3, 1783. Declaration of Independence on July 4, 1776, in Philadelphia, Pennsylvania. Apollo 11 moon landing on July 20, 1969. Fall of the Berlin Wall on November 9, 1989. The Paris Agreement was reached on December 12, 2015."
+Signing of the Magna Carta on June 15, 1215. Treaty of Paris on September 3, 1783. Declaration of Independence on July 4, 1776, in Philadelphia, Pennsylvania. Apollo 11 moon landing on July 20, 1969. Fall of the Berlin Wall on November 9, 1989. The Paris Agreement was reached on December 12, 2015.",
+"ȅȅ",
+".·/periodcentered.loclCAT l/periodcentered.loclCAT ŀ",
+"Ă"
 );
 axes = (
 {
@@ -20955,7 +20958,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (9,0);
+pos = (-45,0);
 ref = dblgravecomb;
 }
 );
@@ -20968,7 +20971,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (33,0);
+pos = (-21,0);
 ref = dblgravecomb;
 }
 );
@@ -20981,7 +20984,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (34,0);
+pos = (-13,0);
 ref = dblgravecomb;
 }
 );
@@ -21003,7 +21006,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (52,0);
+pos = (-2,0);
 ref = dblgravecomb;
 }
 );
@@ -21016,7 +21019,6 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (54,0);
 ref = dblgravecomb;
 }
 );
@@ -21029,7 +21031,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (51,0);
+pos = (4,0);
 ref = dblgravecomb;
 }
 );
@@ -26763,7 +26765,7 @@ unicode = 7877;
 glyphname = edblgrave;
 kernLeft = o;
 kernRight = e;
-lastChange = "2024-01-06 22:46:27 +0000";
+lastChange = "2024-06-17 15:07:57 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -26772,7 +26774,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (13,0);
+pos = (-41,0);
 ref = dblgravecomb;
 }
 );
@@ -26785,7 +26787,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (39,0);
+pos = (-15,0);
 ref = dblgravecomb;
 }
 );
@@ -26798,7 +26800,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (28,0);
+pos = (-19,0);
 ref = dblgravecomb;
 }
 );
@@ -30656,7 +30658,7 @@ unicode = 312;
 glyphname = l;
 kernLeft = h;
 kernRight = l;
-lastChange = "2024-06-17 02:30:55 +0000";
+lastChange = "2024-06-17 15:09:07 +0000";
 layers = (
 {
 anchors = (
@@ -30666,7 +30668,7 @@ pos = (145,0);
 },
 {
 name = center;
-pos = (475,365);
+pos = (145,354);
 },
 {
 name = top;
@@ -30674,7 +30676,7 @@ pos = (145,730);
 },
 {
 name = topright;
-pos = (261,730);
+pos = (270,730);
 }
 );
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -30709,7 +30711,7 @@ pos = (103,0);
 },
 {
 name = center;
-pos = (103,365);
+pos = (103,378);
 },
 {
 name = top;
@@ -30851,7 +30853,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (241,0);
+pos = (250,0);
 ref = caroncomb.alt;
 }
 );
@@ -33359,7 +33361,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (27,0);
+pos = (-27,0);
 ref = dblgravecomb;
 }
 );
@@ -33372,7 +33374,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (51,0);
+pos = (-3,0);
 ref = dblgravecomb;
 }
 );
@@ -33385,7 +33387,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (42,0);
+pos = (-5,0);
 ref = dblgravecomb;
 }
 );
@@ -36044,7 +36046,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-52,0);
+pos = (-106,0);
 ref = dblgravecomb;
 }
 );
@@ -36057,7 +36059,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-75,0);
+pos = (-129,0);
 ref = dblgravecomb;
 }
 );
@@ -36070,7 +36072,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-61,0);
+pos = (-108,0);
 ref = dblgravecomb;
 }
 );
@@ -38365,7 +38367,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (37,0);
+pos = (-17,0);
 ref = dblgravecomb;
 }
 );
@@ -38378,7 +38380,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (53,0);
+pos = (-1,0);
 ref = dblgravecomb;
 }
 );
@@ -38391,7 +38393,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (42,0);
+pos = (-5,0);
 ref = dblgravecomb;
 }
 );
@@ -84504,17 +84506,17 @@ width = 288.5;
 glyphname = dblgravecomb;
 kernLeft = dblgravecomb;
 kernRight = dblgravecomb;
-lastChange = "2024-01-05 18:28:46 +0000";
+lastChange = "2024-06-17 15:07:58 +0000";
 layers = (
 {
 anchors = (
 {
 name = _top;
-pos = (271,515);
+pos = (325,515);
 },
 {
 name = top;
-pos = (271,786);
+pos = (245,786);
 }
 );
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -84531,11 +84533,11 @@ width = 542;
 anchors = (
 {
 name = _top;
-pos = (220,515);
+pos = (274,515);
 },
 {
 name = top;
-pos = (220,781);
+pos = (190,781);
 }
 );
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
@@ -84552,7 +84554,7 @@ width = 441;
 anchors = (
 {
 name = _top;
-pos = (234,515);
+pos = (281,515);
 },
 {
 name = top;
