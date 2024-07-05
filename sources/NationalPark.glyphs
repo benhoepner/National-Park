@@ -15,26 +15,17 @@ VẬY CHẠY ĐỨT ỚT THƯƠNG TẤY ",
 " nn/Placeholder no/Placeholder oo HH/Placeholder HO/Placeholder OO
 o.,:;…!¡?¿nn?·•*#///backslash Ll
 
-LLL ;L/periodcentered.loclCAT (){}[]-­–—‐_o‚„
+LLL ;L/periodcentered.loclCAT (){}[]-–—‐_o‚„
 “”‘’«»‹›\"'⟨⟩@",
 "HH/Placeholder HO/Placeholder OO 
 ↑↗→↘↓↗↙←↖",
 "/comma.ss01/quotesinglbase.ss01",
 "/quotesinglbase.ss01",
-"/ae.ss01",
-"/circumflexcomb.narrow",
-"̇˙/dieresiscomb.narrow/acutecomb.loclVIT/acutecomb.loclVIT/acutecomb.loclVIT/acutecomb.loclVIT/gravecomb.loclVIT.narrow/gravecomb.narrow/acutecomb.loclVIT.narrow/acutecomb.narrow/circumflexcomb.narrow/brevecomb.narrow/tildecomb.narrow/macroncomb.narrow/dblgravecomb.narrow/brevecomb.narrow/breveinvertedcomb.narrow",
-SC,
-"æ",
-"2/two.tf",
-"23  ",
-"Š",
-"SŚ",
-SS$,
-$,
-"æ/ae.ss01 eg",
-e,
-g
+"̌̂̌ž",
+"-−÷=",
+"−÷=",
+"/.notdef x",
+"/f_f/f_f_i/f_f_l ﬁﬂ"
 );
 axes = (
 {
@@ -78,7 +69,7 @@ name = "Variable Font Origin";
 value = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 }
 );
-date = "2024-07-04 18:01:19 +0000";
+date = "2024-07-05 18:36:55 +0000";
 familyName = "National Park";
 featurePrefixes = (
 {
@@ -676,6 +667,7 @@ stemValues = (
 userData = {
 GSCornerRadius = 10;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -777,19 +769,170 @@ de.kutilek.MasterGrid.value = (
 glyphs = (
 {
 glyphname = .notdef;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 18:34:02 +0000";
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,602,l),
+(314,98,l),
+(158,98,l),
+(158,602,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(397,602,l),
+(397,350,l),
+(241,350,l),
+(241,602,l)
+);
+}
+);
+};
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(567,0,l),
+(567,700,l),
+(60,700,l),
+(60,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(161,620,l),
+(465,620,l),
+(313,400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,152,l),
+(140,556,l),
+(279,355,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(471,80,l),
+(156,80,l),
+(315,309,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(487,557,l),
+(487,151,l),
+(347,355,l)
+);
+}
+);
+width = 627;
 },
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(567,0,l),
+(567,700,l),
+(60,700,l),
+(60,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(161,620,l),
+(465,620,l),
+(313,400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,152,l),
+(140,556,l),
+(279,355,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(471,80,l),
+(156,80,l),
+(315,309,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(487,557,l),
+(487,151,l),
+(347,355,l)
+);
+}
+);
+width = 627;
 },
 {
 layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(567,0,l),
+(567,700,l),
+(60,700,l),
+(60,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(161,620,l),
+(465,620,l),
+(313,400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,152,l),
+(140,556,l),
+(279,355,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(471,80,l),
+(156,80,l),
+(315,309,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(487,557,l),
+(487,151,l),
+(347,355,l)
+);
+}
+);
+width = 627;
 }
 );
 },
@@ -14961,7 +15104,7 @@ unicode = 536;
 glyphname = Germandbls;
 kernLeft = Germandbls;
 kernRight = Germandbls;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 15:11:30 +0000";
 layers = (
 {
 anchors = (
@@ -15174,7 +15317,7 @@ nodes = (
 );
 }
 );
-width = 637.5;
+width = 643;
 }
 );
 metricLeft = "=H";
@@ -41442,9 +41585,15 @@ metricRight = "=s-10";
 glyphname = f_f;
 kernLeft = f;
 kernRight = f;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 18:34:42 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (377,0);
+}
+);
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
 shapes = (
 {
@@ -41532,6 +41681,12 @@ nodes = (
 width = 754;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (272.5,0);
+}
+);
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
 shapes = (
 {
@@ -41619,6 +41774,12 @@ nodes = (
 width = 545;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (291.5,0);
+}
+);
 layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 shapes = (
 {
@@ -41713,9 +41874,19 @@ metricRight = f;
 glyphname = f_f_i;
 kernLeft = f;
 kernRight = i;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 18:34:47 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (328.667,0);
+},
+{
+name = caret_2;
+pos = (657.333,0);
+}
+);
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
 shapes = (
 {
@@ -41735,6 +41906,16 @@ scale = (0.9234,0.9234);
 width = 986;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (232.667,0);
+},
+{
+name = caret_2;
+pos = (465.333,0);
+}
+);
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
 shapes = (
 {
@@ -41753,6 +41934,16 @@ ref = dotaccentcomb;
 width = 698;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (265,0);
+},
+{
+name = caret_2;
+pos = (530,0);
+}
+);
 layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 shapes = (
 {
@@ -41779,9 +41970,19 @@ metricRight = i;
 glyphname = f_f_l;
 kernLeft = f;
 kernRight = l;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 18:34:52 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (333.667,0);
+},
+{
+name = caret_2;
+pos = (667.333,0);
+}
+);
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
 shapes = (
 {
@@ -41796,6 +41997,16 @@ ref = l;
 width = 1001;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (237.333,0);
+},
+{
+name = caret_2;
+pos = (474.667,0);
+}
+);
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
 shapes = (
 {
@@ -41810,6 +42021,16 @@ ref = l;
 width = 712;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (272.667,0);
+},
+{
+name = caret_2;
+pos = (545.333,0);
+}
+);
 layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 shapes = (
 {
@@ -41831,9 +42052,15 @@ metricRight = l;
 glyphname = fi;
 kernLeft = f;
 kernRight = i;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 18:34:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (338,0);
+}
+);
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
 shapes = (
 {
@@ -41848,6 +42075,12 @@ ref = i;
 width = 676;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (240,0);
+}
+);
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
 shapes = (
 {
@@ -41863,6 +42096,12 @@ ref = i;
 width = 480;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (258,0);
+}
+);
 layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 shapes = (
 {
@@ -41885,9 +42124,15 @@ unicode = 64257;
 glyphname = fl;
 kernLeft = f;
 kernRight = l;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 18:35:03 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+pos = (354,0);
+}
+);
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
 shapes = (
 {
@@ -41963,6 +42208,12 @@ nodes = (
 width = 708;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (244.5,0);
+}
+);
 layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
 shapes = (
 {
@@ -42038,6 +42289,12 @@ nodes = (
 width = 489;
 },
 {
+anchors = (
+{
+name = caret_1;
+pos = (261.5,0);
+}
+);
 layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
 shapes = (
 {
@@ -53117,43 +53374,6 @@ width = 421.25;
 }
 );
 unicode = 45;
-},
-{
-glyphname = softhyphen;
-kernLeft = hyphen;
-kernRight = hyphen;
-lastChange = "2024-06-17 18:15:40 +0000";
-layers = (
-{
-layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 430;
-},
-{
-layerId = "3D52442A-254C-4C79-B742-A98FD72DF947";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 485;
-},
-{
-layerId = "DB110BCC-92E3-410E-8C20-9F3FFF600FD0";
-shapes = (
-{
-alignment = -1;
-ref = hyphen;
-}
-);
-width = 421.25;
-}
-);
-unicode = 173;
 },
 {
 glyphname = endash;
@@ -73453,7 +73673,7 @@ unicode = 215;
 glyphname = divide;
 kernLeft = divide;
 kernRight = divide;
-lastChange = "2024-07-04 18:34:50 +0000";
+lastChange = "2024-07-05 18:24:09 +0000";
 layers = (
 {
 background = {
@@ -91725,17 +91945,21 @@ value = "Andrea Herstowski, Ben Hoepner";
 );
 },
 {
+key = designerURL;
+value = "https://andreaherstowski.xyz";
+},
+{
 key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org ";
 }
 );
 },
 {
 key = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 }
 );
 settings = {
@@ -91819,5 +92043,5 @@ oV = "81";
 };
 };
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 7;
 }
