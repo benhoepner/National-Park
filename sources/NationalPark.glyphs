@@ -18,7 +18,11 @@ o.,:;…!¡?¿nn?·•*#///backslash Ll
 LLL ;L/periodcentered.loclCAT (){}[]-–—‐_o‚„
 “”‘’«»‹›\"'⟨⟩@",
 "HH/Placeholder HO/Placeholder OO 
-↑↗→↘↓↗↙←↖"
+↑↗→↘↓↗↙←↖",
+"TŦ",
+"́aǻ/aringacute.ss01",
+"ầ",
+"́á/aacute.loclVIT/aacute.loclVIT.ss01/aacute.ss01 ắằẳẵấǻ/aringacute.ss01"
 );
 axes = (
 {
@@ -757,6 +761,7 @@ de.kutilek.MasterGrid.value = (
 10
 );
 };
+visible = 1;
 }
 );
 glyphs = (
@@ -15321,7 +15326,7 @@ unicode = 7838;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:52:07 +0000";
 layers = (
 {
 anchors = (
@@ -15384,7 +15389,7 @@ pos = (248,0);
 },
 {
 name = center;
-pos = (248,350);
+pos = (248,385);
 },
 {
 name = top;
@@ -15460,7 +15465,7 @@ pos = (268,0);
 },
 {
 name = center;
-pos = (268,350);
+pos = (268,375);
 },
 {
 name = top;
@@ -15512,7 +15517,7 @@ unicode = 84;
 glyphname = Tbar;
 kernLeft = T;
 kernRight = T;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:52:21 +0000";
 layers = (
 {
 background = {
@@ -15551,7 +15556,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (23,-15);
+pos = (23,20);
 ref = strokeshortcomb;
 }
 );
@@ -15564,7 +15569,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (20,-11);
+pos = (20,14);
 ref = strokeshortcomb;
 }
 );
@@ -19215,7 +19220,7 @@ unicode = 379;
 glyphname = a;
 kernLeft = o;
 kernRight = n;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:53:40 +0000";
 layers = (
 {
 anchors = (
@@ -19931,7 +19936,7 @@ metricRight = "=a";
 glyphname = aacute;
 kernLeft = a;
 kernRight = n;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:54:34 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -20073,7 +20078,7 @@ width = 563;
 glyphname = aacute.ss01;
 kernLeft = a.ss01;
 kernRight = a.ss01;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:54:34 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -22280,7 +22285,7 @@ width = 563;
 glyphname = aringacute;
 kernLeft = a;
 kernRight = n;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:54:34 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -22340,7 +22345,7 @@ unicode = 507;
 glyphname = aringacute.ss01;
 kernLeft = a.ss01;
 kernRight = a.ss01;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:54:34 +0000";
 layers = (
 {
 layerId = "6242D68C-0A25-4F05-8F2A-2075F7C4A210";
@@ -59587,7 +59592,7 @@ unicode = 8224;
 glyphname = daggerdbl;
 kernLeft = daggerdbl;
 kernRight = daggerdbl;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:50:17 +0000";
 layers = (
 {
 background = {
@@ -59829,15 +59834,15 @@ nodes = (
 (210,284,o),
 (218,295,o),
 (218,309,cs),
-(215,415,l),
-(328,413,ls),
-(341,413,o),
-(352,419,o),
-(352,432,cs),
-(352,445,o),
-(341,451,o),
-(328,451,cs),
-(215,449,l),
+(215,445,l),
+(328,443,ls),
+(341,443,o),
+(352,449,o),
+(352,462,cs),
+(352,475,o),
+(341,481,o),
+(328,481,cs),
+(215,479,l),
 (215,570,l),
 (328,568,ls),
 (341,568,o),
@@ -59863,15 +59868,15 @@ nodes = (
 (55,568,o),
 (68,568,cs),
 (179,570,l),
-(179,449,l),
-(68,451,ls),
-(55,451,o),
-(45,445,o),
-(45,432,cs),
-(45,419,o),
-(55,413,o),
-(68,413,cs),
-(179,415,l),
+(179,479,l),
+(68,481,ls),
+(55,481,o),
+(45,475,o),
+(45,462,cs),
+(45,449,o),
+(55,443,o),
+(68,443,cs),
+(179,445,l),
 (176,309,ls),
 (176,295,o),
 (184,284,o),
@@ -59888,18 +59893,18 @@ shapes = (
 closed = 1;
 nodes = (
 (221,278,o),
-(239,297,o),
+(238,297,o),
 (237,319,cs),
-(233,398,l),
-(318,394,ls),
-(339,392,o),
-(356,409,o),
-(356,429,cs),
-(356,449,o),
-(339,465,o),
-(318,464,cs),
-(231,460,l),
-(230,554,l),
+(233,404,l),
+(318,400,ls),
+(339,398,o),
+(356,415,o),
+(356,435,cs),
+(356,455,o),
+(339,471,o),
+(318,470,cs),
+(233,466,l),
+(232,554,l),
 (318,550,ls),
 (339,549,o),
 (356,565,o),
@@ -59923,16 +59928,16 @@ nodes = (
 (45,565,o),
 (63,549,o),
 (84,550,cs),
-(170,554,l),
-(170,460,l),
-(84,464,ls),
-(63,465,o),
-(45,449,o),
-(45,429,cs),
-(45,409,o),
-(63,392,o),
-(84,394,cs),
-(167,398,l),
+(168,554,l),
+(168,466,l),
+(84,470,ls),
+(63,471,o),
+(45,455,o),
+(45,435,cs),
+(45,415,o),
+(63,398,o),
+(84,400,cs),
+(167,404,l),
 (163,319,ls),
 (162,297,o),
 (180,278,o),
@@ -80275,7 +80280,7 @@ width = 211;
 glyphname = acutecomb;
 kernLeft = acutecomb;
 kernRight = acutecomb;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2024-07-05 20:54:34 +0000";
 layers = (
 {
 anchors = (
