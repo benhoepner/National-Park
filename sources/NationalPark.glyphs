@@ -91960,7 +91960,7 @@ value = "Andrea Herstowski, Ben Hoepner";
 },
 {
 key = designerURL;
-value = "https://andreaherstowski.xyz";
+value = "https://andreaherstowski.xyz/";
 },
 {
 key = licenses;
