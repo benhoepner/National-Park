@@ -1,0 +1,297 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# fix: Run gftools-fix
+rule fix
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# compress: Compress to webfont
+rule compress
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $in $
+      $stamp
+  description = compress
+
+# instantiateUfo: Create instance UFOs from a Glyphs or designspace file
+rule instantiateUfo
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake -i "$instance_name" -o ufo $
+      $fontmake_type $in $args $stamp
+  description = instantiateUfo
+
+# buildTTF: Build a TTF from a source file
+rule buildTTF
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o ttf $
+      $fontmake_type $in $args $stamp
+  description = buildTTF
+
+# autohint: Run gftools-autohint
+rule autohint
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner gftools-autohint $args -o $out $in $stamp
+  description = autohint
+
+# copy: Copy a file
+rule copy
+  command = /Users/marichalemma/Google/env/bin/python3.12 -m $
+      gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpe6lrjfo8
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpe6lrjfo8: $
+    buildVariable NationalPark.glyphs
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/NationalPark-ExtraLight.ufo.json
+build instance_ufos/NationalPark-ExtraLight.ufo.json: instantiateUfo $
+    NationalPark.glyphs
+  operation = instantiateUfo
+  instance_name = National Park ExtraLight
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/NationalPark-Light.ufo.json
+build instance_ufos/NationalPark-Light.ufo.json: instantiateUfo $
+    NationalPark.glyphs
+  operation = instantiateUfo
+  instance_name = National Park Light
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/NationalPark-Regular.ufo.json
+build instance_ufos/NationalPark-Regular.ufo.json: instantiateUfo $
+    NationalPark.glyphs
+  operation = instantiateUfo
+  instance_name = National Park Regular
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/NationalPark-Medium.ufo.json
+build instance_ufos/NationalPark-Medium.ufo.json: instantiateUfo $
+    NationalPark.glyphs
+  operation = instantiateUfo
+  instance_name = National Park Medium
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/NationalPark-SemiBold.ufo.json
+build instance_ufos/NationalPark-SemiBold.ufo.json: instantiateUfo $
+    NationalPark.glyphs
+  operation = instantiateUfo
+  instance_name = National Park SemiBold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/NationalPark-Bold.ufo.json
+build instance_ufos/NationalPark-Bold.ufo.json: instantiateUfo $
+    NationalPark.glyphs
+  operation = instantiateUfo
+  instance_name = National Park Bold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/NationalPark-ExtraBold.ufo.json
+build instance_ufos/NationalPark-ExtraBold.ufo.json: instantiateUfo $
+    NationalPark.glyphs
+  operation = instantiateUfo
+  instance_name = National Park ExtraBold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpo6i0n5z6.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/NationalPark[wght].ttf
+  stamp =  && touch $
+      /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpo6i0n5z6.buildStatstamp
+  postprocess = buildStat
+# Generating ../fonts/webfonts/NationalPark[wght].woff2
+build ../fonts/webfonts/NationalPark[wght].woff2: compress $
+    ../fonts/variable/NationalPark[wght].ttf
+  operation = compress
+# Generating ../fonts/webfonts/NationalPark-ExtraLight.woff2
+build ../fonts/webfonts/NationalPark-ExtraLight.woff2: compress $
+    ../fonts/ttf/NationalPark-ExtraLight.ttf
+  operation = compress
+# Generating ../fonts/webfonts/NationalPark-Light.woff2
+build ../fonts/webfonts/NationalPark-Light.woff2: compress $
+    ../fonts/ttf/NationalPark-Light.ttf
+  operation = compress
+# Generating ../fonts/webfonts/NationalPark-Regular.woff2
+build ../fonts/webfonts/NationalPark-Regular.woff2: compress $
+    ../fonts/ttf/NationalPark-Regular.ttf
+  operation = compress
+# Generating ../fonts/webfonts/NationalPark-Medium.woff2
+build ../fonts/webfonts/NationalPark-Medium.woff2: compress $
+    ../fonts/ttf/NationalPark-Medium.ttf
+  operation = compress
+# Generating ../fonts/webfonts/NationalPark-SemiBold.woff2
+build ../fonts/webfonts/NationalPark-SemiBold.woff2: compress $
+    ../fonts/ttf/NationalPark-SemiBold.ttf
+  operation = compress
+# Generating ../fonts/webfonts/NationalPark-Bold.woff2
+build ../fonts/webfonts/NationalPark-Bold.woff2: compress $
+    ../fonts/ttf/NationalPark-Bold.ttf
+  operation = compress
+# Generating ../fonts/webfonts/NationalPark-ExtraBold.woff2
+build ../fonts/webfonts/NationalPark-ExtraBold.woff2: compress $
+    ../fonts/ttf/NationalPark-ExtraBold.ttf
+  operation = compress
+# Generating ../fonts/variable/NationalPark[wght].ttf
+build ../fonts/variable/NationalPark[wght].ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpe6lrjfo8
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmplvj7b2rr
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmplvj7b2rr: $
+    buildTTF instance_ufos/NationalPark-ExtraLight.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbm7jzv7x
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbm7jzv7x: $
+    autohint /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmplvj7b2rr
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/NationalPark-ExtraLight.ttf
+build ../fonts/ttf/NationalPark-ExtraLight.ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpbm7jzv7x
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpwj0f8v1t
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpwj0f8v1t: $
+    buildTTF instance_ufos/NationalPark-Light.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpg4ypsfdt
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpg4ypsfdt: $
+    autohint /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpwj0f8v1t
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/NationalPark-Light.ttf
+build ../fonts/ttf/NationalPark-Light.ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpg4ypsfdt
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp_ye4ucxf
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp_ye4ucxf: $
+    buildTTF instance_ufos/NationalPark-Regular.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpjomapwku
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpjomapwku: $
+    autohint /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp_ye4ucxf
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/NationalPark-Regular.ttf
+build ../fonts/ttf/NationalPark-Regular.ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpjomapwku
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpt4etpx70
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpt4etpx70: $
+    buildTTF instance_ufos/NationalPark-Medium.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmphmg66ixy
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmphmg66ixy: $
+    autohint /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpt4etpx70
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/NationalPark-Medium.ttf
+build ../fonts/ttf/NationalPark-Medium.ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmphmg66ixy
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp_wj3engh
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp_wj3engh: $
+    buildTTF instance_ufos/NationalPark-SemiBold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmprhrqhgt4
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmprhrqhgt4: $
+    autohint /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp_wj3engh
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/NationalPark-SemiBold.ttf
+build ../fonts/ttf/NationalPark-SemiBold.ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmprhrqhgt4
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp8_uvj777
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp8_uvj777: $
+    buildTTF instance_ufos/NationalPark-Bold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpjajp_4y0
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpjajp_4y0: $
+    autohint /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmp8_uvj777
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/NationalPark-Bold.ttf
+build ../fonts/ttf/NationalPark-Bold.ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpjajp_4y0
+  operation = fix
+  args = 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpm93g3q0x
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpm93g3q0x: $
+    buildTTF instance_ufos/NationalPark-ExtraBold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcynspv38
+build /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcynspv38: $
+    autohint /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpm93g3q0x
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/NationalPark-ExtraBold.ttf
+build ../fonts/ttf/NationalPark-ExtraBold.ttf: fix $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpcynspv38
+  operation = fix
+  args = 
+default $
+    /var/folders/rg/9txh3wk556g9mx7wpz0z2dlc0000gn/T/tmpo6i0n5z6.buildStatstamp $
+    ../fonts/webfonts/NationalPark[wght].woff2 $
+    ../fonts/webfonts/NationalPark-ExtraLight.woff2 $
+    ../fonts/webfonts/NationalPark-Light.woff2 $
+    ../fonts/webfonts/NationalPark-Regular.woff2 $
+    ../fonts/webfonts/NationalPark-Medium.woff2 $
+    ../fonts/webfonts/NationalPark-SemiBold.woff2 $
+    ../fonts/webfonts/NationalPark-Bold.woff2 $
+    ../fonts/webfonts/NationalPark-ExtraBold.woff2
