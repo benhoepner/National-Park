@@ -23,7 +23,7 @@ LLL ;L/periodcentered.loclCAT (){}[]-–—‐_o‚„
 "½⅓⅔¼¾⅛⅜⅝⅞",
 "6747/four.tf  /seven.tf",
 "Tdi Ter Tfl Tgi The Tie Tji Tke Tlm Tmo Tno Tol Tpi Tqu Trt Tsi Tti Tut Tvl Twl Txl Tyl Pct Pdj Per Pfe Pgs Phi Pie Pji Pki Pla Pml Pnu Pon Ppl Pqu Prt Psa Pts Pul
-ATHE PENH RAIYADH WWBATHHOUSE. IBSEN ICEMAN OF TATHE APHID NORDIC FOR THE SUSHI SAUDI SHIITE. JENNIES JOGGER OF TAHE TIJERYA ADJOURN FOR THE ORANJ KOWBOJ HAJJIS. KEEPER KOSHER OF THE SHRIKE BOOKCASE FOR THE SHEIK LOGBOOK CHUKKAS. LENDER LOCKER OF THE CHILD GIGOLO FOR THE UNCOIL "
+ s233CGATHE PENH RAIYADH WWBATHHOUSE. IBSEN ICEMAN OF TATHE APHID NORDIC FOR THE SUSHI SAUDI SHIITE. JENNIES JOGGER OF TAHE TIJERYA ADJOURN FOR THE ORANJ KOWBOJ HAJJIS. KEEPER KOSHER OF THE SHRIKE BOOKCASE FOR THE SHEIK LOGBOOK CHUKKAS. LENDER LOCKER OF THE CHILD GIGOLO FOR THE UNCOIL "
 );
 axes = (
 {
@@ -36473,7 +36473,7 @@ unicode = 531;
 glyphname = s;
 kernLeft = o;
 kernRight = s;
-lastChange = "2024-06-17 18:15:40 +0000";
+lastChange = "2025-02-23 15:49:56 +0000";
 layers = (
 {
 anchors = (
@@ -36867,7 +36867,7 @@ nodes = (
 (313,458,o),
 (335,420,o),
 (349,392,cs),
-(359,374,o),
+(359,372,o),
 (375,367,o),
 (390,367,cs),
 (412,367,o),
@@ -44113,7 +44113,7 @@ color = 0;
 glyphname = two;
 kernLeft = two;
 kernRight = two;
-lastChange = "2024-07-05 15:10:15 +0000";
+lastChange = "2025-02-23 15:51:19 +0000";
 layers = (
 {
 background = {
@@ -44226,17 +44226,17 @@ nodes = (
 (550,517,cs),
 (546,638,o),
 (466,718,o),
-(325,718,cs),
-(184,718,o),
+(312,718,cs),
+(155,718,o),
 (59,636,o),
-(61,549,cs),
+(61,553,cs),
 (62,506,o),
 (94,479,o),
 (130,479,cs),
 (159,479,o),
-(178,496,o),
+(177,497,o),
 (193,521,cs),
-(217,561,o),
+(220,561,o),
 (254,581,o),
 (307,581,cs),
 (364,581,o),
@@ -44352,21 +44352,21 @@ nodes = (
 (496,637,o),
 (394,710,o),
 (284,710,cs),
-(156,710,o),
+(145,710,o),
 (64,614,o),
 (57,529,cs),
 (55,506,o),
 (68,486,o),
 (93,486,cs),
 (116,486,o),
-(135,522,o),
+(128,507,o),
 (136,529,cs),
-(145,589,o),
+(155,582,o),
 (181,637,o),
-(281,637,cs),
+(275,637,cs),
 (361,637,o),
 (416,595,o),
-(416,532,cs),
+(416,533,cs),
 (416,462,o),
 (342,408,o),
 (261,348,cs),
