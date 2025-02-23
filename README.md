@@ -20,10 +20,9 @@ Digitizing this charming router-carved type of US National Parks and designing N
 
 ## Designers
 
-Andrea Herstowski teaches typography, design, and professional practice at the University of Kansas, Lawrence KC. Her Typographic Universe course introduces design students to the vast world of type design. Before joining KU she worked as a graphic designer in San Francisco, Basel, and Frankfurt. https://andreaherstowski.xyz
+Andrea Herstowski teaches typography, design, and professional practice at the University of Kansas, Lawrence KS. Her Typographic Universe course introduces design students to the vast world of type design. Before joining KU she worked as a graphic designer in San Francisco, Basel, and Frankfurt. https://andreaherstowski.xyz
  
-Ben Hoepner is a designer drawn toward type design, publication, and arts and cultural heritage work.
-As a Visual Communication Design undergraduate student at the University of Kansas. Ben was instrumental in developing National Park for the Google Library. 
+Ben Hoepner is a designer drawn toward type design, publication, and arts and cultural heritage work. As a Visual Communication Design undergraduate student at the University of Kansas. Ben was instrumental in developing National Park for the Google Library. https://benhoepner.work
 
 Jeremy Shellhorn is a designer, illustrator, and educator. He runs the DO (Design Outside) Studio and teaches Visual Communication Design at the University of Kansas. As a designer, he specializes in the outdoor industry, works as “designer-in-residence” at Tenkara USA, and has been collaborating with Rocky Mountain National Park since 2012. https://jeremyshellhorn.com
 
