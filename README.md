@@ -16,7 +16,7 @@ To contribute, see github.com/googlefonts/XXXXXXX
 
 ## About
 
-Digitizing this charming router-carved type of US National Parks and designing National Park is our way to document, archive, and celebrate this lettering while making it accessible for all to use. The first version of the National Park typeface was released in 2018. In 2023, the family was completely redrawn by Andrea Herstowski and Ben Hoepner and became part of the Google Font Library.
+Digitizing this charming router-carved type of US National Parks and designing National Park is our way to document, archive, and celebrate this lettering while making it accessible for all to use. The first version of the National Park typeface was released in 2018. This version of the family was completely redrawn by Andrea Herstowski and Ben Hoepner to became part of the Google Font Library. https://nationalparktypeface.com
 
 ## Designers
 
